@@ -1,0 +1,181 @@
+﻿Category,Title,Company,URL,Grade,Salary_min,Salary_max,Skills,City_List,Is_Remote
+DevOps,Middle DevOps,ПУМБ,https://jobs.dou.ua/companies/fuib/vacancies/352464/?from=list_hot,Middle,3200.0,3500.0,Not Specified,['Remote Only'],True
+DevOps,Infrastructure&Software Engineer — RiseGuide,SKELAR,https://jobs.dou.ua/companies/skelar/vacancies/351524/?from=list_hot,Not Specified,,,Not Specified,['Київ'],True
+DevOps,Senior SRE/DevOps (Platform Tribe),Playson,https://jobs.dou.ua/companies/playson/vacancies/304451/?from=list_hot,Senior,,,Not Specified,['Київ'],True
+DevOps,Site Reliability Engineer,Playtika,https://jobs.dou.ua/companies/playtika-ua/vacancies/351051/?from=list_hot,Not Specified,,,Not Specified,['Київ'],True
+DevOps,Senior Azure DevOps,Varyence,https://jobs.dou.ua/companies/varyence/vacancies/350922/?from=list_hot,Senior,,,Not Specified,['Львів'],False
+DevOps,Middle DevOps Azure,MODUS X,https://jobs.dou.ua/companies/modus-x/vacancies/347539/,Middle,,,Not Specified,['Київ'],False
+DevOps,DevOps SysOps інженер,Атлон Авіа,https://jobs.dou.ua/companies/athlon-avia-unmanned-solutions/vacancies/304934/,Not Specified,,,Not Specified,['Київ'],False
+DevOps,"Senior DevOps Engineer (OpenShift, On-Prem) — Tieto Tech Consulting (m/f/d)",Tieto Ukraine (ex-Infopulse Ukraine),https://jobs.dou.ua/companies/tieto/vacancies/352891/,Senior,,,Not Specified,['Remote Only'],True
+DevOps,"Middle DevOps Engineer (OpenShift, On-Prem) — Tieto Tech Consulting (m/f/d)",Tieto Ukraine (ex-Infopulse Ukraine),https://jobs.dou.ua/companies/tieto/vacancies/352888/,Middle,,,Not Specified,['Remote Only'],True
+DevOps,DevOps Engineer (Azure),3Shape,https://jobs.dou.ua/companies/3shape-ukraine/vacancies/347247/,Not Specified,,,Not Specified,['Київ'],False
+DevOps,Infrastructure Engineer,Maklai,https://jobs.dou.ua/companies/maklai/vacancies/352801/,Not Specified,,,Not Specified,['Київ'],True
+DevOps,DevOps Engineer (Data Warehouse/AWS),Kasta.ua,https://jobs.dou.ua/companies/modnakastaua/vacancies/343671/,Not Specified,,,aws,['Київ'],True
+DevOps,Middle DevOps Engineer,Nextcode.Tech,https://jobs.dou.ua/companies/nextcode-tech/vacancies/352770/,Middle,,,Not Specified,['Remote Only'],True
+DevOps,Middle/Senior DevOps / SRE Engineer (Liquidity team),WhiteBIT,https://jobs.dou.ua/companies/whitebit/vacancies/337784/,Middle,,,Not Specified,['Other'],False
+DevOps,Middle DevOps Engineer (GCP),Delasport,https://jobs.dou.ua/companies/delasport/vacancies/243426/,Middle,,,Not Specified,['Київ'],False
+DevOps,DevOps Еngineer,Bank Pivdenny,https://jobs.dou.ua/companies/pivdenny/vacancies/316010/,Not Specified,,,Not Specified,"['Київ', 'Одеса']",True
+DevOps,Infrastructure Engineer (On-prem & Cloud),Everstar,https://jobs.dou.ua/companies/everstar/vacancies/347660/,Not Specified,,,Not Specified,['Київ'],False
+DevOps,Middle DevOps Engineer,Lampa Software,https://jobs.dou.ua/companies/lampa/vacancies/331370/,Middle,,,Not Specified,['Вінниця'],False
+DevOps,"DevOps / DataOps Engineer, військовослужбовець",17-та Полтавська бригада НГУ РЕЙД 2 корпус ХАРТІЯ,https://jobs.dou.ua/companies/17-ta-poltavska-brigada-ngu-reid/vacancies/328899/,Not Specified,600.0,3000.0,Not Specified,Not Specified,False
+DevOps,Microsoft Infrastructure Engineer,Nova Digital,https://jobs.dou.ua/companies/nova-digital/vacancies/347781/,Not Specified,,,Not Specified,['Remote Only'],True
+DevOps,Senior Python/DevOps Software Engineer,CodeIT,https://jobs.dou.ua/companies/codeit/vacancies/347922/,Senior,,,Not Specified,['Remote Only'],True
+DevOps,Lead Azure DevOps (#5067),N-iX,https://jobs.dou.ua/companies/n-ix/vacancies/293632/,Senior,,,Not Specified,"['Київ', 'Львів', 'Дніпро', 'Івано-Франківськ', 'Вінниця', 'Тернопіль']",True
+DevOps,Lead Systems Engineer/ Exchange Architect (#5021),N-iX,https://jobs.dou.ua/companies/n-ix/vacancies/298040/,Senior,,,Not Specified,"['Київ', 'Львів', 'Дніпро', 'Івано-Франківськ', 'Вінниця', 'Тернопіль']",True
+DevOps,Senior DevOps Engineer,NCube,https://jobs.dou.ua/companies/ncube/vacancies/352673/,Senior,,,Not Specified,['Київ'],True
+DevOps,Senior Platform / Systems Engineer,Data Science UA,https://jobs.dou.ua/companies/data-science-ua/vacancies/352649/,Senior,,,Not Specified,['Remote Only'],True
+DevOps,DevOps Engineer (expert) | Infrastructure Екосистема Дії та Мінцифри,Дія,https://jobs.dou.ua/companies/thedigital/vacancies/347181/,Not Specified,,,Not Specified,['Київ'],False
+DevOps,Розробник сайтів для інтернет-магазинів (OpenCart),LoadUp,https://jobs.dou.ua/companies/loadup/vacancies/352026/,Not Specified,,,Not Specified,['Remote Only'],True
+DevOps,Senior DevOps Engineer,D1,https://jobs.dou.ua/companies/d1/vacancies/352592/,Senior,,,Not Specified,['Київ'],False
+DevOps,DevOps Engineer,Sparkybit,https://jobs.dou.ua/companies/sparkybit/vacancies/181129/,Not Specified,,,Not Specified,['Львів'],True
+DevOps,Infrastructure Engineer — Leaply,SKELAR,https://jobs.dou.ua/companies/skelar/vacancies/352556/,Not Specified,,,Not Specified,['Remote Only'],True
+DevOps,Trainee DevOps,Quod Financial,https://jobs.dou.ua/companies/quod-financial-ukraine/vacancies/268507/,Junior,,,Not Specified,['Remote Only'],True
+DevOps,Senior DevOps Engineer,Meest,https://jobs.dou.ua/companies/meest-it/vacancies/352542/,Senior,,,Not Specified,['Київ'],False
+DevOps,Senior DevOps / SysAdmin in Virtual Services Team (#1100),ZONE3000,https://jobs.dou.ua/companies/zone3000/vacancies/342504/,Senior,,,Not Specified,['Remote Only'],True
+DevOps,Senior DevOps Engineer (2597),Ciklum,https://jobs.dou.ua/companies/ciklum/vacancies/352501/,Senior,,,Not Specified,"['Київ', 'Львів']",True
+DevOps,Senior DevSecOps Engineer,Windmill Digital,https://jobs.dou.ua/companies/windmill-smart-solutions/vacancies/341148/,Senior,,,Not Specified,['Other'],False
+DevOps,Senior Cloud Infrastructure Engineer (Contract Position),Pindrop,https://jobs.dou.ua/companies/pindrop/vacancies/352493/,Senior,,,Not Specified,['Remote Only'],True
+DevOps,DevOps Engineer (on-premise / Kubernetes),COMFY,https://jobs.dou.ua/companies/comfy/vacancies/352467/,Not Specified,,,kubernetes,['Дніпро'],True
+DevOps,DevOps Team Lead,Automat-it,https://jobs.dou.ua/companies/automat-it/vacancies/301979/,Senior,,,Not Specified,"['Київ', 'Львів']",True
+DevOps,Service Reliability Lead,SPD Technology,https://jobs.dou.ua/companies/spd-technology/vacancies/352418/,Senior,,,Not Specified,['Other'],False
+DevOps,Senior DevOps Engineer (GCP),Delasport,https://jobs.dou.ua/companies/delasport/vacancies/290423/,Senior,,,Not Specified,['Київ'],False
+DevOps,DevOps Engineer,VOLMI,https://jobs.dou.ua/companies/volmi/vacancies/352357/,Not Specified,,,Not Specified,['Київ'],True
+DevOps,DevOps Engineer — Data team,WiX,https://jobs.dou.ua/companies/wix/vacancies/352307/,Not Specified,,,Not Specified,"['Київ', 'Львів']",False
+DevOps,Senior DevOps Engineer,Impressit,https://jobs.dou.ua/companies/impressit/vacancies/352297/,Senior,,,Not Specified,['Львів'],False
+DevOps,Senior SRE / DevOps Engineer,TemaBit Fozzy Group,https://jobs.dou.ua/companies/fozzy/vacancies/352250/,Senior,,,Not Specified,['Remote Only'],True
+DevOps,Middle DevOps Engineer,Geniusee,https://jobs.dou.ua/companies/geniusee/vacancies/352203/,Middle,,,Not Specified,"['Київ', 'Львів']",True
+DevOps,Infrastructure Support Engineer / SRE,Cossack Labs,https://jobs.dou.ua/companies/cossack-labs/vacancies/352173/,Not Specified,,,Not Specified,"['Київ', 'Львів']",True
+DevOps,Infrastructure Engineer / DevOps Engineer,Cossack Labs,https://jobs.dou.ua/companies/cossack-labs/vacancies/352171/,Not Specified,,,Not Specified,"['Київ', 'Львів']",True
+DevOps,IT Ops Engineer/Адміністратор IT систем (middle\middle+),Smartiway,https://jobs.dou.ua/companies/smartiway/vacancies/266950/,Middle,1100.0,1400.0,Not Specified,['Київ'],False
+DevOps,IT Ops engineer (Senior+),Smartiway,https://jobs.dou.ua/companies/smartiway/vacancies/352109/,Senior,2000.0,2300.0,Not Specified,['Київ'],False
+DevOps,Head of Infrastructure,JustMarkets Tech,https://jobs.dou.ua/companies/justmarkets/vacancies/352059/,Not Specified,,,Not Specified,['Remote Only'],True
+DevOps,Senior DevOps Engineer (AWS + Azure),DXC Luxoft,https://jobs.dou.ua/companies/luxoft/vacancies/352032/,Senior,,,aws,['Remote Only'],True
+DevOps,DevOps Engineer,BETER,https://jobs.dou.ua/companies/beter/vacancies/352024/,Not Specified,,,Not Specified,['Київ'],True
+DevOps,DevOps engineer/Part-time mentor,Mate academy,https://jobs.dou.ua/companies/mate-academy/vacancies/248706/,Not Specified,,,Not Specified,['Remote Only'],True
+DevOps,DevOps Engineer,Lviv IT! LLC,https://jobs.dou.ua/companies/lvivit/vacancies/351978/,Not Specified,4800.0,5000.0,Not Specified,['Remote Only'],True
+DevOps,Middle/Senior DevOps Engineer,P2H,https://jobs.dou.ua/companies/p2h/vacancies/351972/,Middle,,,Not Specified,"['Львів', 'Харків']",True
+DevOps,Middle DevOps Engineer (part-time),ELEKS,https://jobs.dou.ua/companies/eleks/vacancies/351967/,Middle,,,Not Specified,"['Київ', 'Львів', 'Івано-Франківськ', 'Тернопіль']",False
+DevOps,"Middle+ SRE (Oracle WLS, APEX, ORDS)",Ukrposhta,https://jobs.dou.ua/companies/ukrposhta/vacancies/351955/,Middle,,,Not Specified,['Київ'],False
+DevOps,DevOps Engineer (Fintech),COMPARUS UA,https://jobs.dou.ua/companies/comparusua/vacancies/351944/,Not Specified,,,Not Specified,['Remote Only'],True
+DevOps,Senior DevOps Engineer,Eleven,https://jobs.dou.ua/companies/eleven/vacancies/351919/,Senior,,,Not Specified,['Київ'],False
+DevOps,"Middle SRE (Windows, .NET, IIS)",Ukrposhta,https://jobs.dou.ua/companies/ukrposhta/vacancies/351861/,Middle,,,Not Specified,['Київ'],False
+DevOps,Middle DevOps Engineer,Ukrposhta,https://jobs.dou.ua/companies/ukrposhta/vacancies/351838/,Middle,,,Not Specified,['Київ'],False
+DevOps,Senior DevOps (part-time),BINTIME,https://jobs.dou.ua/companies/bintime/vacancies/351785/,Senior,,,Not Specified,['Київ'],True
+DevOps,T4 Engineer (High-Level Escalation),SPRIBE,https://jobs.dou.ua/companies/spribe/vacancies/351765/,Not Specified,,,Not Specified,['Київ'],True
+DevOps,Linux system administrator / DevOps,"""ІНФОТЕХ""",https://jobs.dou.ua/companies/derzhavne-pidpriyemstvo-infoteh/vacancies/321822/,Not Specified,,,linux,['Київ'],False
+DevOps,Senior product monitoring manager,LIGA ZAKON,https://jobs.dou.ua/companies/liga-zakon/vacancies/351619/,Senior,,,Not Specified,['Київ'],True
+DevOps,DevOps Engineer CI/CD,Blue-Bird.Tech,https://jobs.dou.ua/companies/blue-bird-tech/vacancies/351605/,Not Specified,1300.0,3000.0,ci/cd,['Other'],False
+DevOps,SRE/DevOps Engineer,NeverEnding,https://jobs.dou.ua/companies/neverending/vacancies/351581/,Not Specified,,,Not Specified,['Remote Only'],True
+DevOps,Senior DevOps Engineer (AWS),SPD Technology,https://jobs.dou.ua/companies/spd-technology/vacancies/351571/,Senior,,,aws,['Remote Only'],True
+DevOps,DevOps Trainer / DevOps Instructor — Relocation,Introduct Group,https://jobs.dou.ua/companies/introduct/vacancies/351561/,Not Specified,,,Not Specified,['Other'],False
+DevOps,DevOps Engineer,CHI Software,https://jobs.dou.ua/companies/chi-software/vacancies/312320/,Not Specified,,,Not Specified,['Remote Only'],True
+DevOps,DevOps Engineer (hybrid Czech),Elogic Commerce,https://jobs.dou.ua/companies/elogic/vacancies/351501/,Not Specified,,,Not Specified,['Other'],False
+DevOps,DevOps Platform Engineer,JustMarkets Tech,https://jobs.dou.ua/companies/justmarkets/vacancies/328885/,Not Specified,,,Not Specified,['Київ'],True
+DevOps,Senior DevOps Engineer (EU countries),Plexteq,https://jobs.dou.ua/companies/plexteq/vacancies/325122/,Senior,,,Not Specified,['Other'],False
+DevOps,Strong Middle DevOps Engineer,EVO,https://jobs.dou.ua/companies/evo/vacancies/351395/,Middle,,,Not Specified,['Київ'],True
+DevOps,Data Center Technician (Амстердам),Dataweb Global Group,https://jobs.dou.ua/companies/dataweb-global-group/vacancies/351391/,Not Specified,,,Not Specified,['Other'],False
+DevOps,Platform Engineer,HBM,https://jobs.dou.ua/companies/hbm/vacancies/351366/,Not Specified,,,Not Specified,['Other'],False
+DevOps,DevOps Engineer,UPTARGET,https://jobs.dou.ua/companies/uptarget-co/vacancies/351350/,Not Specified,,,Not Specified,['Черкаси'],True
+DevOps,Automation Engineer (Infrastructure & DevOps) US PST time zone,Intersog,https://jobs.dou.ua/companies/intersog/vacancies/351348/,Not Specified,,,Not Specified,['Remote Only'],True
+DevOps,Senior DevOps Engineer,Adaptiq,https://jobs.dou.ua/companies/adaptiq/vacancies/351330/,Senior,,,Not Specified,['Remote Only'],True
+DevOps,Senior SRE Specialist (Cloud & Hybrid Infrastructure),A-listware,https://jobs.dou.ua/companies/a-listware/vacancies/351289/,Senior,,,Not Specified,['Remote Only'],True
+DevOps,DevOps Engineer,A-HR,https://jobs.dou.ua/companies/a-hr/vacancies/351130/,Not Specified,,,Not Specified,['Remote Only'],True
+DevOps,Senior Site Reliability Engineer,HIRETOP,https://jobs.dou.ua/companies/hiretop/vacancies/351110/,Senior,,,Not Specified,['Remote Only'],True
+DevOps,Senior Multi-Cloud DevOps Engineer,Apriorit,https://jobs.dou.ua/companies/aprior-it/vacancies/341914/,Senior,,,Not Specified,"['Київ', 'Львів', 'Дніпро']",True
+DevOps,Support Engineer,Automat-it,https://jobs.dou.ua/companies/automat-it/vacancies/325084/,Not Specified,,,Not Specified,"['Київ', 'Львів']",True
+DevOps,Senior DevOps Engineer,Automat-it,https://jobs.dou.ua/companies/automat-it/vacancies/325083/,Senior,,,Not Specified,"['Київ', 'Львів']",True
+DevOps,DevOps Engineer (part time),TrafficOne,https://jobs.dou.ua/companies/trafficone/vacancies/350996/,Not Specified,,,Not Specified,['Remote Only'],True
+DevOps,DevOps Engineer,SPRIBE,https://jobs.dou.ua/companies/spribe/vacancies/337039/,Not Specified,,,Not Specified,['Remote Only'],True
+DevOps,Senior Azure DevOps Engineer,EPAM,https://jobs.dou.ua/companies/epam-systems/vacancies/350960/,Senior,,,Not Specified,"['Київ', 'Львів', 'Дніпро', 'Івано-Франківськ', 'Вінниця', 'Одеса', 'Харків', 'Чернівці', 'Черкаси', 'Ужгород']",True
+DevOps,Senior DevOps Engineer,Patrianna Limited,https://jobs.dou.ua/companies/patrianna/vacancies/341285/,Senior,,,Not Specified,['Remote Only'],True
+DevOps,Middle DevOps Engineer,IBWT,https://jobs.dou.ua/companies/ibwt/vacancies/350850/,Middle,2500.0,4000.0,Not Specified,['Київ'],False
+DevOps,DevOps Engineer,Strategic Investment Group,https://jobs.dou.ua/companies/sigroup/vacancies/350832/,Not Specified,,,Not Specified,['Remote Only'],True
+DevOps,Senior Python Engineer (with DevOps & ML/LLM experience) EU countries,AZinec,https://jobs.dou.ua/companies/azinec-development-team/vacancies/350827/,Senior,4500.0,5000.0,Not Specified,['Remote Only'],True
+DevOps,DevOps,NDA Recruitment,https://jobs.dou.ua/companies/nda-recruitment/vacancies/341262/,Not Specified,,,Not Specified,['Київ'],False
+DevOps,DevSecOps (Azure) | State Statistics Service of Ukraine,Державна служба статистики України,https://jobs.dou.ua/companies/ukrstat/vacancies/324334/,Not Specified,,,Not Specified,['Київ'],True
+DevOps,SecOps (M365) | State Statistics Service of Ukraine,Державна служба статистики України,https://jobs.dou.ua/companies/ukrstat/vacancies/324332/,Not Specified,,,Not Specified,['Київ'],True
+DevOps,DevOps(ML / LLM Infrastructure),Kyivstar.Tech,https://jobs.dou.ua/companies/kyivstar-tech/vacancies/350803/,Not Specified,,,Not Specified,['Remote Only'],True
+DevOps,Middle/Senior DevOps Engineer (Poland),Recorded Future,https://jobs.dou.ua/companies/geminia/vacancies/119420/,Middle,,,Not Specified,['Remote Only'],True
+DevOps,DevOps (Build Engineer),ROOM 8 GROUP,https://jobs.dou.ua/companies/room-8-group/vacancies/343104/,Not Specified,,,Not Specified,['Remote Only'],True
+DevOps,Middle DevOps Engineer,YouControl,https://jobs.dou.ua/companies/youcontrol/vacancies/305656/,Middle,,,Not Specified,['Remote Only'],True
+DevOps,DevOps Engineer (Azure/Oracle Cloud),Techstack,https://jobs.dou.ua/companies/tech-stack/vacancies/350722/,Not Specified,,,Not Specified,['Remote Only'],True
+DevOps,DevOps Solution Architect,Mobilunity,https://jobs.dou.ua/companies/mobilunity/vacancies/350715/,Senior,,,Not Specified,['Київ'],True
+DevOps,Senior DevOps Engineer (Azure),Digis,https://jobs.dou.ua/companies/digis/vacancies/350698/,Senior,,,Not Specified,['Remote Only'],True
+DevOps,"Senior DevOps Engineer (on-prem, Kubernetes)",IT SmartFlex,https://jobs.dou.ua/companies/it-smartflex/vacancies/288608/,Senior,,,kubernetes,['Remote Only'],True
+DevOps,Platform Reliability & Quality Engineer,Opinov8,https://jobs.dou.ua/companies/opinov8/vacancies/350642/,Not Specified,,,Not Specified,['Київ'],True
+DevOps,"DevOps Engineer, Azure — Real-Time Trading Data Provider remote",UAIT,https://jobs.dou.ua/companies/uait/vacancies/350600/,Not Specified,,,Not Specified,['Remote Only'],True
+DevOps,DevOps,Рекрутинговий центр СБС,https://jobs.dou.ua/companies/rekrutingovii-tsentr-sil-bezpilotnih-sistem/vacancies/332305/,Not Specified,1200.0,1200.0,Not Specified,Not Specified,False
+DevOps,DevOps-інженер (ЗСУ),Війська зв'язку та Кібербезпеки ЗСУ,https://jobs.dou.ua/companies/viiska-zvyazku-ta-kiberbezpeki-zsu/vacancies/350584/,Not Specified,,,Not Specified,['Київ'],False
+DevOps,DevOps Engineer,414 ОБр БпС «Птахи Мадяра»,https://jobs.dou.ua/companies/414-obbs-ptahi-madyara/vacancies/332130/,Not Specified,1200.0,1200.0,Not Specified,Not Specified,False
+DevOps,Junior/Middle DevOps Engineer,IdeaSoft.io,https://jobs.dou.ua/companies/ideasoft-io/vacancies/350546/,Junior,,,Not Specified,"['Київ', 'Львів', 'Харків']",True
+DevOps,Senior DevOps Engineer,Gamingtec,https://jobs.dou.ua/companies/gamingtec/vacancies/350536/,Senior,,,Not Specified,['Remote Only'],True
+DevOps,Senior DevOps & Compliance Engineer,OpsWorks,https://jobs.dou.ua/companies/opsworks-inc/vacancies/350522/,Senior,4500.0,5500.0,Not Specified,['Remote Only'],True
+DevOps,Senior DevOps Engineer (2139),Ciklum,https://jobs.dou.ua/companies/ciklum/vacancies/350488/,Senior,,,Not Specified,"['Київ', 'Львів']",True
+DevOps,DevOps Engineer,Materialise,https://jobs.dou.ua/companies/materialise/vacancies/350477/,Not Specified,,,Not Specified,['Київ'],False
+DevOps,Senior IoT DevOps / Cloud Engineer (MilTech),PaiDefence,https://jobs.dou.ua/companies/paidefence/vacancies/350301/,Senior,,,Not Specified,['Київ'],False
+DevOps,Senior DevOps Engineer,Avenga,https://jobs.dou.ua/companies/avenga/vacancies/350296/,Senior,,,Not Specified,"['Львів', 'Івано-Франківськ', 'Полтава']",True
+DevOps,Principal DevOps Engineer,Avenga,https://jobs.dou.ua/companies/avenga/vacancies/350274/,Not Specified,,,Not Specified,"['Львів', 'Івано-Франківськ', 'Полтава']",True
+DevOps,Senior DevOps Engineer,Group107,https://jobs.dou.ua/companies/group107/vacancies/350252/,Senior,,,Not Specified,['Remote Only'],True
+DevOps,Senior DevOps Engineer,XME.digital,https://jobs.dou.ua/companies/xme-digital/vacancies/340736/,Senior,,,Not Specified,['Київ'],True
+DevOps,Azure DevOps Team Lead,EPAM,https://jobs.dou.ua/companies/epam-systems/vacancies/350120/,Senior,,,Not Specified,"['Київ', 'Львів', 'Дніпро', 'Івано-Франківськ', 'Вінниця', 'Одеса', 'Харків', 'Чернівці', 'Черкаси', 'Хмельницький', 'Ужгород']",True
+DevOps,Strong Middle DevOps Engineer,Softsich,https://jobs.dou.ua/companies/softsich/vacancies/344901/,Middle,,,Not Specified,['Remote Only'],True
+DevOps,Middle DevOps Engineer,Yellow Stone,https://jobs.dou.ua/companies/yellow-stone/vacancies/350076/,Middle,,,Not Specified,['Remote Only'],True
+DevOps,DevOps Engineer (Middle),Антенор,https://jobs.dou.ua/companies/antenor/vacancies/345203/,Middle,1500.0,2000.0,Not Specified,['Київ'],False
+DevOps,"DevOps & Systems Architect | Backend Frontend Infrastructure (Remote, Part-time available)",Orange Uni,https://jobs.dou.ua/companies/orange-uni/vacancies/345178/,Senior,1750.0,2500.0,Not Specified,['Remote Only'],True
+DevOps,DevOps (AWS) Engineer,Mobilunity,https://jobs.dou.ua/companies/mobilunity/vacancies/350031/,Not Specified,,,aws,['Київ'],True
+DevOps,DevOps Engineer located in Ukraine,Atlas Technica,https://jobs.dou.ua/companies/atlas-technica/vacancies/350022/,Not Specified,,,Not Specified,['Remote Only'],True
+DevOps,Senior System Engineer with GCP experience,EPAM,https://jobs.dou.ua/companies/epam-systems/vacancies/349998/,Senior,,,Not Specified,"['Київ', 'Львів', 'Дніпро', 'Івано-Франківськ', 'Вінниця', 'Одеса', 'Харків', 'Чернівці', 'Черкаси', 'Хмельницький', 'Ужгород']",True
+DevOps,Senior DevOps Engineer (Cybersecurity Platform),Sigma Software,https://jobs.dou.ua/companies/sigma-software/vacancies/349986/,Senior,,,Not Specified,"['Київ', 'Львів', 'Дніпро', 'Івано-Франківськ', 'Вінниця', 'Одеса', 'Тернопіль', 'Харків', 'Чернівці', 'Полтава', 'Черкаси', 'Луцьк']",True
+DevOps,DevOps/SRE Lead,Softsich,https://jobs.dou.ua/companies/softsich/vacancies/349867/,Senior,,,Not Specified,['Remote Only'],True
+DevOps,"Cloud Security Engineer (AWS, Azure)",MODUS X,https://jobs.dou.ua/companies/modus-x/vacancies/335836/,Not Specified,,,aws,['Київ'],True
+DevOps,Senior DevOps Engineer,Intetics,https://jobs.dou.ua/companies/intetics-co/vacancies/341445/,Senior,,,Not Specified,['Other'],False
+DevOps,Senior DevOps(AWS) Engineer (EU based only),Mobilunity,https://jobs.dou.ua/companies/mobilunity/vacancies/349797/,Senior,,,aws,['Remote Only'],True
+DevOps,DevSecOps Engineer (Cloud Security and Compliance),Come Back Agency,https://jobs.dou.ua/companies/come-back-agency/vacancies/349786/,Not Specified,,,Not Specified,['Remote Only'],True
+DevOps,Middle/Senior DevOps Engineer (AWS),Devico,https://jobs.dou.ua/companies/devico/vacancies/349727/,Middle,,,aws,['Remote Only'],True
+DevOps,Senior DevOps Azure,MODUS X,https://jobs.dou.ua/companies/modus-x/vacancies/349723/,Senior,,,Not Specified,['Remote Only'],True
+DevOps,Senior DevOps (monoмаркет),mono,https://jobs.dou.ua/companies/mono/vacancies/349697/,Senior,,,Not Specified,"['Київ', 'Дніпро']",True
+DevOps,DevOps Engineer,Corezoid,https://jobs.dou.ua/companies/corezoid/vacancies/273230/,Not Specified,,,Not Specified,['Дніпро'],True
+DevOps,DevOps Engineer/System Administrator,Interactive Online Technologies,https://jobs.dou.ua/companies/interactive-online-technologies/vacancies/267574/,Not Specified,4500.0,4500.0,Not Specified,['Remote Only'],True
+DevOps,Senior Python Engineer (with DevOps & ML/LLM experience),Civitta,https://jobs.dou.ua/companies/civitta/vacancies/308414/,Senior,,,Not Specified,['Other'],False
+DevOps,Senior Blockchain DevOps Engineer,WhiteBIT,https://jobs.dou.ua/companies/whitebit/vacancies/349586/,Senior,,,Not Specified,['Remote Only'],True
+DevOps,FREELANCER Senior DevOps Azure,MODUS X,https://jobs.dou.ua/companies/modus-x/vacancies/315303/,Senior,,,Not Specified,['Remote Only'],True
+DevOps,Senior/Lead DevOps Engineer for Broadcast solution company IRC285942,GlobalLogic,https://jobs.dou.ua/companies/globallogic/vacancies/349514/,Senior,,,Not Specified,['Київ'],True
+DevOps,Infrastructure engineer — TENTENS Tech,SKELAR,https://jobs.dou.ua/companies/skelar/vacancies/349467/,Not Specified,,,Not Specified,['Київ'],True
+DevOps,SRE/DBA — TENTENS Tech,SKELAR,https://jobs.dou.ua/companies/skelar/vacancies/349465/,Not Specified,,,Not Specified,['Київ'],True
+DevOps,"System Reliability Engineer (Canada, USA)",Oro,https://jobs.dou.ua/companies/oro-inc/vacancies/303832/,Not Specified,,,Not Specified,['Київ'],True
+DevOps,DevOps / Infrastructure Engineer,Twist Robotics,https://jobs.dou.ua/companies/twist-robotics/vacancies/349445/,Not Specified,,,Not Specified,['Львів'],False
+DevOps,DevOps / MLOps Engineer,National Bank of Ukraine,https://jobs.dou.ua/companies/national-bank-of-ukraine/vacancies/344729/,Not Specified,,,Not Specified,['Київ'],False
+DevOps,DevOps Engineer (Media Streaming Infrastructure),429 окрема бригада безпілотних систем «АХІЛЛЕС»,https://jobs.dou.ua/companies/achilles_429brigade/vacancies/339059/,Not Specified,1200.0,2800.0,Not Specified,Not Specified,False
+DevOps,DevOps Engineer (middle) | Infrastructure Екосистема Дії та Мінцифри,Дія,https://jobs.dou.ua/companies/thedigital/vacancies/349389/,Middle,,,Not Specified,['Київ'],False
+DevOps,Senior Platform Cloud Engineer,Preply,https://jobs.dou.ua/companies/preply/vacancies/342342/,Senior,,,Not Specified,['Київ'],False
+DevOps,Senior DevOps Engineer (Azure Cloud),UKAD,https://jobs.dou.ua/companies/ukad-group/vacancies/349350/,Senior,,,Not Specified,['Remote Only'],True
+DevOps,Senior DevOps Engineer,Avenga,https://jobs.dou.ua/companies/avenga/vacancies/349201/,Senior,,,Not Specified,"['Львів', 'Івано-Франківськ', 'Полтава']",True
+DevOps,DevOps Engineer,SKELAR,https://jobs.dou.ua/companies/skelar/vacancies/344728/,Not Specified,,,Not Specified,['Київ'],True
+DevOps,DevOps,412 окрема бригада безпілотних систем Nemesis,https://jobs.dou.ua/companies/412nemesis/vacancies/349184/,Not Specified,,,Not Specified,['Київ'],False
+DevOps,DevOps Engineer,WayForPay,https://jobs.dou.ua/companies/wayforpay/vacancies/307742/,Not Specified,,,Not Specified,['Remote Only'],True
+DevOps,System Engineer — DevOps — Openstack & Kubernetes,lifecell,https://jobs.dou.ua/companies/lifecell/vacancies/335023/,Not Specified,,,kubernetes,['Remote Only'],True
+DevOps,DevOps Engineer,OTP Bank Ukraine,https://jobs.dou.ua/companies/otp-bank-ukraine/vacancies/343065/,Not Specified,,,Not Specified,['Київ'],False
+DevOps,Intern DevOps Engineer,Symphony Solutions,https://jobs.dou.ua/companies/symphony-solutions/vacancies/349085/,Not Specified,,,Not Specified,['Remote Only'],True
+DevOps,Middle DevOps Engineer,Honeytech,https://jobs.dou.ua/companies/honeytech/vacancies/349079/,Middle,,,Not Specified,['Київ'],True
+DevOps,DevOps Engineer,Madiff,https://jobs.dou.ua/companies/madiff-make-a-difference/vacancies/349065/,Not Specified,,,Not Specified,['Remote Only'],True
+DevOps,Інженер експлуатації платформи (Kubernetes / PostgreSQL) — L2—L3,ДП «ГУКОБ»,https://jobs.dou.ua/companies/dp-gukob/vacancies/319081/,Not Specified,700.0,700.0,kubernetes,['Київ'],False
+DevOps,Principal DevOps Engineer (AWS),Intellias,https://jobs.dou.ua/companies/intellias/vacancies/349057/,Not Specified,,,aws,['Remote Only'],True
+DevOps,"Провідний архітектор ІТ-платформи та інфраструктури (Lead Platform, Infrastructure Architect)",ДП «ГУКОБ»,https://jobs.dou.ua/companies/dp-gukob/vacancies/324998/,Senior,1500.0,1500.0,Not Specified,['Київ'],False
+DevOps,Senior/Lead DevOps Engineer IRC287888,GlobalLogic,https://jobs.dou.ua/companies/globallogic/vacancies/349026/,Senior,,,Not Specified,['Remote Only'],True
+DevOps,Senior DevOps/Cloud Engineer (Azure + AI),Opinov8,https://jobs.dou.ua/companies/opinov8/vacancies/344063/,Senior,,,Not Specified,['Remote Only'],True
+DevOps,Junior DevOps Engineer,DBB Software,https://jobs.dou.ua/companies/dbb-software/vacancies/261926/,Junior,,,Not Specified,['Дніпро'],False
+DevOps,DevOps Engineer,Центр інновацій та розвитку оборонних технологій МОУ,https://jobs.dou.ua/companies/cidtd/vacancies/335474/,Not Specified,,,Not Specified,['Київ'],False
+DevOps,Senior DevOps Engineer (2216),Ciklum,https://jobs.dou.ua/companies/ciklum/vacancies/348925/,Senior,,,Not Specified,"['Київ', 'Львів']",True
+DevOps,Senior DevOps Engineer (eHealth Sector),Sigma Software,https://jobs.dou.ua/companies/sigma-software/vacancies/348881/,Senior,,,Not Specified,"['Київ', 'Львів', 'Дніпро', 'Івано-Франківськ', 'Вінниця', 'Одеса', 'Тернопіль', 'Харків', 'Чернівці', 'Полтава', 'Черкаси', 'Луцьк']",True
+DevOps,Middle/Senior DevOps Engineer (DevOps Team),Sigma Software,https://jobs.dou.ua/companies/sigma-software/vacancies/348880/,Middle,,,Not Specified,"['Київ', 'Львів', 'Дніпро', 'Івано-Франківськ', 'Вінниця', 'Одеса', 'Тернопіль', 'Харків', 'Чернівці', 'Полтава', 'Черкаси', 'Луцьк']",True
+DevOps,Lead DevOps Engineer,Globaldev Group,https://jobs.dou.ua/companies/globaldevgroup/vacancies/348857/,Senior,,,Not Specified,['Remote Only'],True
+DevOps,DevOps Engineer,WhiteBIT,https://jobs.dou.ua/companies/whitebit/vacancies/348810/,Not Specified,,,Not Specified,['Other'],False
+DevOps,DevOps Engineer (Windows Server & Cloud Infrastructure),JustMarkets Tech,https://jobs.dou.ua/companies/justmarkets/vacancies/344122/,Not Specified,,,Not Specified,['Київ'],True
+DevOps,DevOps Microsoft 365 (SharePoint),SMART business,https://jobs.dou.ua/companies/smart-business/vacancies/348705/,Not Specified,,,Not Specified,['Київ'],True
+DevOps,Senior DevOps Engineer (Azure),MintyMint,https://jobs.dou.ua/companies/mintymint/vacancies/348696/,Senior,5000.0,6500.0,Not Specified,['Remote Only'],True
+DevOps,Head of IT Infrastructure (on-premis),Everstar,https://jobs.dou.ua/companies/everstar/vacancies/348626/,Not Specified,,,Not Specified,['Київ'],False
+DevOps,DevSecOps,Fire Point,https://jobs.dou.ua/companies/fire-point/vacancies/348573/,Not Specified,,,Not Specified,['Київ'],False
+DevOps,DevOps Engineer (Middle),NetForce Ukraine,https://jobs.dou.ua/companies/netforce-ukraine/vacancies/288741/,Middle,3000.0,3000.0,Not Specified,['Remote Only'],True
+DevOps,"Викладач / Mentor (IT, Developer, Design) в Академію IT Step",ITSTEP,https://jobs.dou.ua/companies/kompyuternaya-akademiya-shag/vacancies/326956/,Not Specified,500.0,500.0,Not Specified,['Remote Only'],True
+DevOps,Senior AWS DevOps Engineer (#4921),N-iX,https://jobs.dou.ua/companies/n-ix/vacancies/258420/,Senior,,,aws,"['Київ', 'Львів', 'Дніпро', 'Івано-Франківськ', 'Вінниця', 'Тернопіль']",True
+DevOps,Senior Release Engineer (#5050),N-iX,https://jobs.dou.ua/companies/n-ix/vacancies/258396/,Senior,,,Not Specified,"['Київ', 'Львів', 'Дніпро', 'Івано-Франківськ', 'Вінниця', 'Тернопіль']",True
