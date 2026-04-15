@@ -3,9 +3,13 @@ import re
 import os
 
 def clean_dou_data(input_path, output_path, category):
+    category = category.replace('%2F', '/').replace('%2f', '/')
+    
     print(f"Очищення даних для категорії: {category}...")
     df = pd.read_csv(input_path)
     
+    df['Category'] = df['Category'].replace('%2F', '/', regex=True).replace('%2f', '/', regex=True)
+
     # 1. Витягування грейду (Junior/Middle/Senior) з назви вакансії
     def extract_grade(title):
         title_lower = str(title).lower()
@@ -44,7 +48,7 @@ def clean_dou_data(input_path, output_path, category):
         "Front-end": ['react', 'angular', 'vue', 'javascript', 'typescript', 'html', 'css', 'redux', 'figma'],
         "QA": ['selenium', 'cypress', 'postman', 'jmeter', 'sql', 'jira', 'pytest', 'appium'],
         "DevOps": ['docker', 'kubernetes', 'aws', 'terraform', 'jenkins', 'linux', 'ansible', 'ci/cd', 'bash'],
-        "AI%2FML": ['pytorch', 'tensorflow', 'scikit-learn', 'pandas', 'numpy', 'sql', 'nlp', 'cv']
+        "AI/ML": ['pytorch', 'tensorflow', 'scikit-learn', 'pandas', 'numpy', 'sql', 'nlp', 'cv']
     }
     
     target_skills = skills_dictionary.get(category, ['git', 'sql', 'docker', 'linux'])

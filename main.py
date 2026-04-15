@@ -2,6 +2,7 @@ import os
 import pandas as pd
 from scraper.dou_parser import get_dou_vacancies
 from analysis.data_cleaning import clean_dou_data
+from analysis.visualization import generate_all_reports
 
 def main():
     categories = ["Python", "Front-end", "QA", "DevOps", "AI%2FML"]
@@ -9,6 +10,7 @@ def main():
 
     os.makedirs('data/raw', exist_ok=True)
     os.makedirs('data/processed', exist_ok=True)
+    os.makedirs('reports/figures', exist_ok=True)
 
     for cat in categories:
         print(f"\n--- Обробка категорії: {cat} ---")
@@ -43,6 +45,11 @@ def main():
         final_df.to_csv(final_path, index=False, encoding='utf-8-sig')
         print(f"Система успішно завершила роботу. Загалом вакансій: {len(final_df)}.")
         print(f"Файл збережено за шляхом: {final_path}")
+
+        # 4. ЕТАП ВІЗУАЛІЗАЦІЇ
+        print("\n--- Етап візуалізації даних ---")
+        generate_all_reports(final_path)
+        print("\nСистема повністю завершила роботу! Усі дані та графіки готові.")
     else:
         print("\nНемає даних для об'єднання.")
 

@@ -1,16 +1,117 @@
 ﻿Category,Title,Company,URL,Grade,Salary_min,Salary_max,Skills,City_List,Is_Remote
+QA,QA Automation Engineer (Automation-first),Peratera,https://jobs.dou.ua/companies/payzoff/vacancies/352331/?from=list_hot,Not Specified,,,Not Specified,['Remote Only'],True
+QA,Junior QA Еngineer,Mornhouse,https://jobs.dou.ua/companies/mornhouse/vacancies/323140/?from=list_hot,Junior,700.0,1100.0,Not Specified,['Київ'],False
+QA,Manual QA Engineer (Embedded / UAV),Warbirds,https://jobs.dou.ua/companies/warbirds-boiovi-ptahi-ukraini/vacancies/333520/?from=list_hot,Not Specified,,,Not Specified,['Київ'],False
 QA,"Junior QA Engineer (Kyiv, office)",Atola Technology,https://jobs.dou.ua/companies/atola-technology/vacancies/352762/?from=list_hot,Junior,,,Not Specified,['Київ'],False
-QA,"Middle QA Automation Engineer (Java, office, Kyiv)",Delasport,https://jobs.dou.ua/companies/delasport/vacancies/247571/?from=list_hot,Middle,,,Not Specified,['Київ'],False
 QA,Випробувальник БПЛА в R&D команду,Warbirds,https://jobs.dou.ua/companies/warbirds-boiovi-ptahi-ukraini/vacancies/270293/?from=list_hot,Not Specified,,,Not Specified,['Київ'],False
 QA,Automated Security Testing Engineer,Itransition,https://jobs.dou.ua/companies/itransition/vacancies/352407/?from=list_hot,Not Specified,,,Not Specified,['Київ'],True
 QA,Automation QA Engineer,Ubiquiti,https://jobs.dou.ua/companies/ubiquiti-networks/vacancies/107693/?from=list_hot,Not Specified,,,Not Specified,['Київ'],False
 QA,Senior manual QA Warsaw office,Realplayltd,https://jobs.dou.ua/companies/realplayltd/vacancies/350666/?from=list_hot,Senior,,,Not Specified,['Other'],False
-QA,Manual QA (Payment Module),Precoro,https://jobs.dou.ua/companies/precoro/vacancies/351175/?from=list_hot,Not Specified,,,Not Specified,['Київ'],False
+QA,QA (firmware),NDA Recruitment,https://jobs.dou.ua/companies/nda-recruitment/vacancies/354151/,Not Specified,,,Not Specified,['Київ'],False
+QA,QA (Hardware),NDA Recruitment,https://jobs.dou.ua/companies/nda-recruitment/vacancies/354144/,Not Specified,,,Not Specified,['Київ'],False
+QA,Lead QA Engineer,antoshka.ua,https://jobs.dou.ua/companies/antoshka-ua/vacancies/354137/,Senior,,,Not Specified,['Remote Only'],True
+QA,Performance & Reliability Engineer/Architect,SPD Technology,https://jobs.dou.ua/companies/spd-technology/vacancies/354120/,Senior,,,Not Specified,['Other'],False
+QA,Manual QA Engineer,Django Stars,https://jobs.dou.ua/companies/django-stars/vacancies/354105/,Not Specified,,,Not Specified,['Remote Only'],True
+QA,Manaul Quality Assurance + Business Analyst,Empeek,https://jobs.dou.ua/companies/empeek/vacancies/354084/,Not Specified,,,Not Specified,['Львів'],True
+QA,QA Automation Lead,Adaptiq,https://jobs.dou.ua/companies/adaptiq/vacancies/354056/,Senior,,,Not Specified,['Other'],False
+QA,Manual QA engineer,Gypsy Collective,https://jobs.dou.ua/companies/gypsy-collective/vacancies/354041/,Not Specified,,,Not Specified,['Remote Only'],True
+QA,Junior QC Specialist — Networking Testing (Online Requirements Team),Ubisoft,https://jobs.dou.ua/companies/ubisoft/vacancies/345224/,Junior,,,Not Specified,['Київ'],False
+QA,Senior Full Stack QA Engineer (2642),Ciklum,https://jobs.dou.ua/companies/ciklum/vacancies/354012/,Senior,,,Not Specified,"['Київ', 'Львів']",True
+QA,QA engineer (Mobile),ROZETKA,https://jobs.dou.ua/companies/rozetka-ua-internet-supermarket/vacancies/354006/,Not Specified,,,Not Specified,['Remote Only'],True
+QA,Middle Ruby AQA,Symphony Solutions,https://jobs.dou.ua/companies/symphony-solutions/vacancies/344764/,Middle,,,Not Specified,['Remote Only'],True
+QA,Middle Manual QA Engineer,Core,https://jobs.dou.ua/companies/core/vacancies/353989/,Middle,,,Not Specified,"['Київ', 'Одеса']",True
+QA,Senior Python Automation QA Engineer IRC290815,GlobalLogic,https://jobs.dou.ua/companies/globallogic/vacancies/353981/,Senior,,,Not Specified,['Remote Only'],True
+QA,Python Automation QA Engineer IRC290978,GlobalLogic,https://jobs.dou.ua/companies/globallogic/vacancies/353978/,Not Specified,,,Not Specified,['Львів'],False
+QA,Automation QA Engineer,CHI Software,https://jobs.dou.ua/companies/chi-software/vacancies/353975/,Not Specified,,,Not Specified,['Remote Only'],True
+QA,Software Test Automation Specialist (C#),QATestLab,https://jobs.dou.ua/companies/qatestlab/vacancies/353974/,Not Specified,,,Not Specified,"['Хмельницький', 'Рівне']",True
+QA,General QA Engineer,Gameinspire,https://jobs.dou.ua/companies/gameinspire/vacancies/353969/,Not Specified,,,Not Specified,['Remote Only'],True
+QA,"General QA Engineer (Playwright, TS)",Payset.io,https://jobs.dou.ua/companies/payset-io/vacancies/353954/,Not Specified,,,Not Specified,['Remote Only'],True
+QA,C/C++ Engineer with embedded firmware testing experience,Deviark,https://jobs.dou.ua/companies/deviark/vacancies/348904/,Not Specified,,,Not Specified,['Львів'],True
+QA,Senior Manual QA Engineer (MilTech),"Sherlock, recruitment agency",https://jobs.dou.ua/companies/sherlock-recruitment-agency/vacancies/353910/,Senior,2500.0,3500.0,Not Specified,['Remote Only'],True
+QA,Trainee Manual QA Engineer,Geniusee,https://jobs.dou.ua/companies/geniusee/vacancies/353905/,Junior,,,Not Specified,['Remote Only'],True
+QA,Middle Manual QA Engineer,Farsight Vision,https://jobs.dou.ua/companies/farsight-vision/vacancies/353894/,Middle,,,Not Specified,['Remote Only'],True
+QA,Senior Quality Assurance Engineer,ТзОВ Автофан Львів,https://jobs.dou.ua/companies/tzov-avtofan-lviv/vacancies/353890/,Senior,,,Not Specified,['Львів'],False
+QA,Manual QA Engineer,ViyarTech,https://jobs.dou.ua/companies/viyartech/vacancies/353880/,Not Specified,2000.0,2000.0,Not Specified,['Київ'],False
+QA,QA Tech Lead,JATAPP,https://jobs.dou.ua/companies/jatapp/vacancies/349400/,Senior,,,Not Specified,['Київ'],True
+QA,Junior QA engineer,Rolique,https://jobs.dou.ua/companies/rolique/vacancies/353839/,Junior,,,Not Specified,['Львів'],True
+QA,Manual QA Engineer (Hardware + Web) | Junior+ / Middle,UGV Robotics,https://jobs.dou.ua/companies/ugv-robotics/vacancies/353810/,Junior,1000.0,1800.0,Not Specified,['Київ'],False
+QA,Junior QA Engineer (виробничий відділ),Teletactica,https://jobs.dou.ua/companies/teletactica/vacancies/348805/,Junior,,,Not Specified,['Київ'],False
+QA,Flight Test Lead (UAV),Buntar Aerospace,https://jobs.dou.ua/companies/buntar-aerospace/vacancies/353798/,Senior,,,Not Specified,['Київ'],False
+QA,Customer Success & Product Testing Manager,RE-liON,https://jobs.dou.ua/companies/re-lion/vacancies/353543/,Not Specified,,,Not Specified,['Remote Only'],True
+QA,QA Engineer,Inqud,https://jobs.dou.ua/companies/inqud/vacancies/353779/,Not Specified,1800.0,3000.0,Not Specified,['Remote Only'],True
+QA,Middle Business Analyst/System Analyst (with QA background),ПриватБанк,https://jobs.dou.ua/companies/privatbank/vacancies/344252/,Middle,,,Not Specified,['Київ'],True
+QA,QA/QC Manual Engineer,Workeron.AI,https://jobs.dou.ua/companies/workeron-ai/vacancies/353764/,Not Specified,500.0,1500.0,Not Specified,['Remote Only'],True
+QA,Junior QA Engineer,StellarsTech,https://jobs.dou.ua/companies/stellarstech/vacancies/348738/,Junior,500.0,800.0,Not Specified,['Remote Only'],True
+QA,Junior QA Engineer with Strong English (Operational Specialist),Patrianna Limited,https://jobs.dou.ua/companies/patrianna/vacancies/263217/,Junior,,,Not Specified,['Remote Only'],True
+QA,QA Automation Engineer,Міністерство оборони України,https://jobs.dou.ua/companies/mod-of-ukraine/vacancies/346914/,Not Specified,1600.0,2000.0,Not Specified,['Київ'],False
+QA,Manual QA Engineer,Міністерство оборони України,https://jobs.dou.ua/companies/mod-of-ukraine/vacancies/346913/,Not Specified,1500.0,1700.0,Not Specified,['Київ'],False
+QA,Middle BackEnd/Manual QA,Nova Digital,https://jobs.dou.ua/companies/nova-digital/vacancies/349347/,Middle,,,Not Specified,['Remote Only'],True
+QA,General QA Engineer,Bank Pivdenny,https://jobs.dou.ua/companies/pivdenny/vacancies/338963/,Not Specified,,,Not Specified,"['Київ', 'Одеса']",True
+QA,QA Engineer (Hardware) / Kyiv,Airlogix,https://jobs.dou.ua/companies/airlogix/vacancies/348941/,Not Specified,,,Not Specified,['Київ'],False
+QA,Automation QA Engineer (Python),Volpis,https://jobs.dou.ua/companies/volpis/vacancies/339700/,Not Specified,,,Not Specified,['Львів'],True
+QA,Middle Automation QA Engineer (Java),Patrianna Limited,https://jobs.dou.ua/companies/patrianna/vacancies/283886/,Middle,,,Not Specified,['Remote Only'],True
+QA,Інженер з якості,Kvertus,https://jobs.dou.ua/companies/kvertus/vacancies/353675/,Not Specified,,,Not Specified,['Київ'],False
+QA,AQA JavaScript/TypeScript (middle) | Web Дія,Дія,https://jobs.dou.ua/companies/thedigital/vacancies/353656/,Middle,,,Not Specified,['Київ'],False
+QA,Junior Manual Quality Assurance,Geniusee,https://jobs.dou.ua/companies/geniusee/vacancies/353632/,Junior,,,Not Specified,['Remote Only'],True
+QA,Lead QA Engineer,COMFY,https://jobs.dou.ua/companies/comfy/vacancies/353622/,Senior,,,Not Specified,['Дніпро'],True
+QA,QA Engineer (Embedded),TIRAS,https://jobs.dou.ua/companies/tiras/vacancies/303170/,Not Specified,,,Not Specified,['Вінниця'],False
+QA,Junior Embedded QA Engineer,Eleven,https://jobs.dou.ua/companies/eleven/vacancies/353602/,Junior,,,Not Specified,['Київ'],False
+QA,Middle Manual QA Engineer,Growe Talents,https://jobs.dou.ua/companies/growe-talents/vacancies/353580/,Middle,,,Not Specified,['Remote Only'],True
+QA,Hardware Test Engineer,NDA Recruitment,https://jobs.dou.ua/companies/nda-recruitment/vacancies/353567/,Not Specified,1000.0,5000.0,Not Specified,['Київ'],False
+QA,QA Engineer,Treeum,https://jobs.dou.ua/companies/treeum/vacancies/293574/,Not Specified,,,Not Specified,['Київ'],True
+QA,Junior QА Engineer (IoT projects),Lemberg Solutions,https://jobs.dou.ua/companies/lemberg-solutions/vacancies/348635/,Junior,,,Not Specified,['Львів'],False
+QA,Trainee QA Engineer (IoT projects),Lemberg Solutions,https://jobs.dou.ua/companies/lemberg-solutions/vacancies/287165/,Junior,,,Not Specified,['Львів'],False
+QA,Middle Manual QA,CHI Software,https://jobs.dou.ua/companies/chi-software/vacancies/327207/,Middle,,,Not Specified,['Remote Only'],True
+QA,Manual QA Engineer (Web),Gismart,https://jobs.dou.ua/companies/gismart_com/vacancies/353463/,Not Specified,,,Not Specified,['Remote Only'],True
+QA,Automation QA Engineer,JATAPP,https://jobs.dou.ua/companies/jatapp/vacancies/353457/,Not Specified,,,Not Specified,['Київ'],True
+QA,Manual QA Engineer,Connact App,https://jobs.dou.ua/companies/connact-app/vacancies/353447/,Not Specified,,,Not Specified,['Remote Only'],True
+QA,Junior / Trainee Field Test Engineer (80% польові тестування),Eleven,https://jobs.dou.ua/companies/eleven/vacancies/353441/,Junior,,,Not Specified,['Київ'],False
+QA,Middle/Senior Hardware QA Engineer,Eleven,https://jobs.dou.ua/companies/eleven/vacancies/353440/,Middle,,,Not Specified,['Київ'],False
+QA,QC Engineer у miltech компанію,ITExpert,https://jobs.dou.ua/companies/itexpert-recruitment-agency/vacancies/353414/,Not Specified,,,Not Specified,['Київ'],False
+QA,Product Intelligence Engineer,SQUAD,https://jobs.dou.ua/companies/squad/vacancies/305889/,Not Specified,,,Not Specified,['Київ'],False
+QA,QA Game Tester (with mobile game experience),Junkineering,https://jobs.dou.ua/companies/junkineering/vacancies/353404/,Not Specified,,,Not Specified,['Remote Only'],True
+QA,Python QA Automation Engineer (Digital Engineering),ISsoft Ukraine,https://jobs.dou.ua/companies/issoft/vacancies/353401/,Not Specified,,,Not Specified,['Львів'],True
+QA,Manual QA (Documents Module),Precoro,https://jobs.dou.ua/companies/precoro/vacancies/343879/,Not Specified,,,Not Specified,['Київ'],True
+QA,SDET/Automation Engineer,GeeksForLess,https://jobs.dou.ua/companies/geeksforless/vacancies/353390/,Not Specified,,,Not Specified,['Remote Only'],True
+QA,Middle Manual QA Engineer,SoftSvit,https://jobs.dou.ua/companies/softsvit/vacancies/353355/,Middle,,,Not Specified,['Київ'],False
+QA,"QA Lead Engineer (Embedded, RF)",NDA (DefenceTech),https://jobs.dou.ua/companies/nda-in-tech/vacancies/353347/,Senior,,,Not Specified,['Київ'],False
+QA,DB QA Engineer (fixed-term contract),Plarium,https://jobs.dou.ua/companies/plarium/vacancies/353320/,Not Specified,,,Not Specified,"['Київ', 'Львів', 'Харків']",True
+QA,Manual QA Engineer,Everstar,https://jobs.dou.ua/companies/everstar/vacancies/353269/,Not Specified,,,Not Specified,['Київ'],False
+QA,Middle Automation QA,Suntech Innovation,https://jobs.dou.ua/companies/suntech-innovation/vacancies/353266/,Middle,,,Not Specified,['Київ'],True
+QA,Senior Automation QA Engineer (Python),EveryMatrix,https://jobs.dou.ua/companies/everymatrix-ltd/vacancies/353245/,Senior,,,Not Specified,['Львів'],False
+QA,Senior Automation QA Engineer (2612),Ciklum,https://jobs.dou.ua/companies/ciklum/vacancies/353241/,Senior,,,Not Specified,"['Київ', 'Львів']",True
+QA,Content QA Spesialist (2536),Ciklum,https://jobs.dou.ua/companies/ciklum/vacancies/353212/,Not Specified,,,Not Specified,"['Київ', 'Львів']",True
+QA,QA Team Lead,INFOBUS,https://jobs.dou.ua/companies/infobus/vacancies/353211/,Senior,,,Not Specified,['Remote Only'],True
+QA,Automation QA Engineer,WeSoftYou,https://jobs.dou.ua/companies/wesoftyou/vacancies/347745/,Not Specified,,,Not Specified,['Remote Only'],True
+QA,AI Bot Tester / Voice AI Bot Engineer (Trainee/Junior),SPsoft,https://jobs.dou.ua/companies/spsoft/vacancies/353208/,Junior,,,Not Specified,['Remote Only'],True
+QA,QA Engineer,NDA Recruitment,https://jobs.dou.ua/companies/nda-recruitment/vacancies/346278/,Not Specified,,,Not Specified,['Київ'],False
+QA,Embedded QA Engineer,NDA Recruitment,https://jobs.dou.ua/companies/nda-recruitment/vacancies/346280/,Not Specified,,,Not Specified,['Київ'],False
+QA,QA Embedded Lead,NDA Recruitment,https://jobs.dou.ua/companies/nda-recruitment/vacancies/347134/,Senior,,,Not Specified,['Київ'],False
+QA,Performance QA Engineer,Pwrteams,https://jobs.dou.ua/companies/pwrteams/vacancies/353179/,Not Specified,,,Not Specified,"['Київ', 'Львів']",True
+QA,Junior QA Engineer,Quarks,https://jobs.dou.ua/companies/quarks-tech/vacancies/353175/,Junior,,,Not Specified,['Київ'],False
+QA,Automation QA Engineer (Python),King Group,https://jobs.dou.ua/companies/king-group/vacancies/353164/,Not Specified,,,Not Specified,['Київ'],False
+QA,Senior Automation QA Engineer (Playwright) (#5003),N-iX,https://jobs.dou.ua/companies/n-ix/vacancies/258405/,Senior,,,Not Specified,"['Київ', 'Львів', 'Дніпро', 'Івано-Франківськ', 'Вінниця', 'Тернопіль']",True
+QA,Manual QC Mobile Trainee (#4896),N-iX,https://jobs.dou.ua/companies/n-ix/vacancies/258414/,Junior,,,Not Specified,"['Київ', 'Львів', 'Дніпро', 'Івано-Франківськ', 'Вінниця', 'Тернопіль']",True
+QA,Junior/Middle Manual Software QA,SToFU,https://jobs.dou.ua/companies/stofu/vacancies/184715/,Junior,1200.0,1500.0,Not Specified,['Remote Only'],True
+QA,QA Engineer (Backend),BetterMe,https://jobs.dou.ua/companies/betterme/vacancies/353145/,Not Specified,,,Not Specified,['Київ'],True
+QA,Strong Middle Manual QA Engineer,SciForce,https://jobs.dou.ua/companies/sciforce/vacancies/353122/,Middle,,,Not Specified,['Львів'],False
+QA,Manual QA Engineer (Part-time),Unbreakable Ukraine Foundation,https://jobs.dou.ua/companies/unbreakable-ukraine-foundation/vacancies/353119/,Not Specified,4.0,7.0,Not Specified,['Remote Only'],True
+QA,Test Engineer (2640),Ciklum,https://jobs.dou.ua/companies/ciklum/vacancies/353111/,Not Specified,,,Not Specified,"['Київ', 'Львів']",True
+QA,Middle QA Engineer,EVOPLAY,https://jobs.dou.ua/companies/evoplay/vacancies/353100/,Middle,,,Not Specified,['Київ'],True
+QA,Middle Manual QA Engineer (Front-end Focus),EVOPLAY,https://jobs.dou.ua/companies/evoplay/vacancies/327505/,Middle,,,Not Specified,['Remote Only'],True
+QA,Middle General QA Engineer,Staffman,https://jobs.dou.ua/companies/staffman-llc/vacancies/342745/,Middle,2000.0,2200.0,Not Specified,['Remote Only'],True
+QA,QA Lead (Manual QA + Automation QA),Ralabs,https://jobs.dou.ua/companies/ralabs/vacancies/353048/,Senior,,,Not Specified,['Remote Only'],True
+QA,Middle QA/AQA JavaScript Specialist,Ralabs,https://jobs.dou.ua/companies/ralabs/vacancies/353046/,Middle,,,Not Specified,['Remote Only'],True
+QA,Strong Junior/Middle QA Engineer (VMS — Video Management System),Ajax Systems,https://jobs.dou.ua/companies/ajax-systems/vacancies/348445/,Junior,,,Not Specified,['Київ'],False
+QA,QA Engineer,VARTEQ,https://jobs.dou.ua/companies/varteq-inc/vacancies/353025/,Not Specified,1000.0,1600.0,Not Specified,['Remote Only'],True
+QA,Middle General QA Engineer (with AI experience),Relevant Software,https://jobs.dou.ua/companies/relevant-software/vacancies/353019/,Middle,,,Not Specified,['Remote Only'],True
+QA,QA Engineer (Fintech),EVOPLAY,https://jobs.dou.ua/companies/evoplay/vacancies/316591/,Not Specified,,,Not Specified,['Київ'],True
+QA,Intern QA Engineer,QATestLab,https://jobs.dou.ua/companies/qatestlab/vacancies/352996/,Not Specified,,,Not Specified,"['Хмельницький', 'Рівне']",True
+QA,Manual QA Engineer,Nestlogic,https://jobs.dou.ua/companies/nestlogic/vacancies/352994/,Not Specified,,,Not Specified,"['Київ', 'Вінниця']",False
 QA,Manual QA Engineer (Junior/Strong Junior),Lemberg Solutions,https://jobs.dou.ua/companies/lemberg-solutions/vacancies/352991/,Junior,,,Not Specified,['Львів'],False
 QA,Automation QA Engineer (2485),Ciklum,https://jobs.dou.ua/companies/ciklum/vacancies/352988/,Not Specified,,,Not Specified,"['Київ', 'Львів']",True
 QA,QA Engineer (Kyiv located),DataRoot Labs,https://jobs.dou.ua/companies/dataroot/vacancies/346478/,Not Specified,2200.0,2200.0,Not Specified,['Київ'],False
 QA,Intern QA Game Engineer,JetArt Games,https://jobs.dou.ua/companies/jetart-games/vacancies/352967/,Not Specified,500.0,500.0,Not Specified,['Київ'],False
-QA,Quality Assurance Engineer (abroad),Iquality,https://jobs.dou.ua/companies/iquality/vacancies/352965/,Not Specified,,,Not Specified,['Other'],False
 QA,Manual QA (Middle),"Медична лабораторія ""DILA""",https://jobs.dou.ua/companies/ml-dila/vacancies/315025/,Middle,,,Not Specified,['Київ'],True
 QA,QA Engineer,Influence Pro Services,https://jobs.dou.ua/companies/influence-pro-services/vacancies/339357/,Not Specified,,,Not Specified,['Remote Only'],True
 QA,Manual QA (Strong Junior/Middle),Friendly Fox,https://jobs.dou.ua/companies/friendly-fox/vacancies/352957/,Junior,,,Not Specified,['Remote Only'],True
@@ -25,22 +126,19 @@ QA,Automation QA Engineer,Gameinspire,https://jobs.dou.ua/companies/gameinspire/
 QA,"Manual QA Engineer (Back-end), Cloud Core Stream",Ajax Systems,https://jobs.dou.ua/companies/ajax-systems/vacancies/352875/,Not Specified,,,Not Specified,['Київ'],False
 QA,Web QA Engineer з досвідом у FinTech сфері,CS Ltd,https://jobs.dou.ua/companies/cs-ltd/vacancies/298109/,Not Specified,,,Not Specified,['Remote Only'],True
 QA,Middle QA Engineer,dok.ua,https://jobs.dou.ua/companies/dok/vacancies/322405/,Middle,,,Not Specified,['Київ'],False
-QA,Senior Performance Analyst,EPAM,https://jobs.dou.ua/companies/epam-systems/vacancies/352824/,Senior,,,Not Specified,"['Київ', 'Львів', 'Дніпро', 'Івано-Франківськ', 'Вінниця', 'Одеса', 'Харків', 'Чернівці', 'Черкаси', 'Хмельницький', 'Ужгород']",True
+QA,Senior Test Automation Engineer (JavaScript),EPAM,https://jobs.dou.ua/companies/epam-systems/vacancies/352824/,Senior,,,Not Specified,"['Київ', 'Львів', 'Дніпро', 'Івано-Франківськ', 'Вінниця', 'Одеса', 'Харків', 'Чернівці', 'Черкаси', 'Хмельницький', 'Ужгород']",True
 QA,QA Automation Engineer,NDA Recruitment,https://jobs.dou.ua/companies/nda-recruitment/vacancies/352815/,Not Specified,,,Not Specified,['Київ'],True
-QA,QA Team Lead,GR8 Tech,https://jobs.dou.ua/companies/gr8-tech/vacancies/347798/,Senior,,,Not Specified,['Remote Only'],True
 QA,QA Automation Engineer,Kyivstar.Tech,https://jobs.dou.ua/companies/kyivstar-tech/vacancies/352808/,Not Specified,,,Not Specified,['Київ'],True
 QA,Embedded Systems (Hardware) QA (EM Value Stream),Svarock,https://jobs.dou.ua/companies/svarock/vacancies/341446/,Not Specified,,,Not Specified,['Київ'],False
 QA,QA Lead,Мрія,https://jobs.dou.ua/companies/mriia/vacancies/352789/,Senior,,,Not Specified,['Київ'],False
 QA,QA Engineer (Manual) / Тестувальник,AniArt,https://jobs.dou.ua/companies/aniart/vacancies/352758/,Not Specified,1000.0,2000.0,Not Specified,['Київ'],False
-QA,Manual QA (middle) | Web Дія,Дія,https://jobs.dou.ua/companies/thedigital/vacancies/339626/,Middle,,,Not Specified,['Київ'],False
 QA,Senior QA Engineer,P-Product,https://jobs.dou.ua/companies/p-product/vacancies/352747/,Senior,,,Not Specified,['Remote Only'],True
 QA,"Data Analyst / QA, військовослужбовець",17-та Полтавська бригада НГУ РЕЙД 2 корпус ХАРТІЯ,https://jobs.dou.ua/companies/17-ta-poltavska-brigada-ngu-reid/vacancies/328915/,Not Specified,600.0,3000.0,Not Specified,Not Specified,False
 QA,"Senior QA Engineer (Automation & General), Game Tribe",Playson,https://jobs.dou.ua/companies/playson/vacancies/333582/,Senior,,,Not Specified,['Remote Only'],True
-QA,General QA Engineer,Reenbit,https://jobs.dou.ua/companies/reenbit/vacancies/352723/,Not Specified,,,Not Specified,['Львів'],True
+QA,Manual QA Engineer,Reenbit,https://jobs.dou.ua/companies/reenbit/vacancies/352723/,Not Specified,,,Not Specified,['Львів'],True
 QA,Junior QA Engineer,Patrianna Limited,https://jobs.dou.ua/companies/patrianna/vacancies/309812/,Junior,,,Not Specified,['Remote Only'],True
 QA,Middle QA Engineer,Uptech,https://jobs.dou.ua/companies/uptech-team/vacancies/352708/,Middle,,,Not Specified,['Remote Only'],True
-QA,QA Engineer,IntellectEU,https://jobs.dou.ua/companies/intellecttechnologies-llc/vacancies/352702/,Not Specified,,,Not Specified,['Remote Only'],True
-QA,Senior/Middle Test Engineer (Loyalty Platform),Sigma Software,https://jobs.dou.ua/companies/sigma-software/vacancies/352691/,Middle,,,Not Specified,"['Київ', 'Львів', 'Дніпро', 'Івано-Франківськ', 'Вінниця', 'Одеса', 'Тернопіль', 'Харків', 'Чернівці', 'Черкаси', 'Луцьк']",True
+QA,Senior QA Automation Engineer,IntellectEU,https://jobs.dou.ua/companies/intellecttechnologies-llc/vacancies/352702/,Senior,,,Not Specified,['Remote Only'],True
 QA,Senior Automation QA Engineer (2616),Ciklum,https://jobs.dou.ua/companies/ciklum/vacancies/352687/,Senior,,,Not Specified,"['Київ', 'Львів']",True
 QA,Automation QA Engineer (Python),IT SmartFlex,https://jobs.dou.ua/companies/it-smartflex/vacancies/352658/,Not Specified,,,Not Specified,['Київ'],True
 QA,Middle Mobile (Unity) QA Engineer,Patrianna Limited,https://jobs.dou.ua/companies/patrianna/vacancies/352651/,Middle,,,Not Specified,['Remote Only'],True
@@ -48,7 +146,6 @@ QA,Middle QA Engineer,AnyforSoft,https://jobs.dou.ua/companies/anyforsoft/vacanc
 QA,Junior QA / QC Manual (Robotics),Кластер IRON,https://jobs.dou.ua/companies/klaster-iron/vacancies/352623/,Junior,,,Not Specified,['Львів'],False
 QA,Інженер з якості (Battery / Hardware),BTRY.ENERGY,https://jobs.dou.ua/companies/btry-energy/vacancies/352613/,Not Specified,1200.0,1200.0,Not Specified,['Київ'],False
 QA,Manual QA Engineer (2560),Ciklum,https://jobs.dou.ua/companies/ciklum/vacancies/352583/,Not Specified,,,Not Specified,"['Київ', 'Львів']",True
-QA,QA Engineer (Remote),TGA Digital,https://jobs.dou.ua/companies/tga-digital/vacancies/352572/,Not Specified,2000.0,3200.0,Not Specified,['Remote Only'],True
 QA,Senior Mobile AQA Engineer (Android),OBRIO,https://jobs.dou.ua/companies/obrio/vacancies/347512/,Senior,,,Not Specified,"['Київ', 'Львів']",True
 QA,Middle Mobile AQA Engineer (iOS),OBRIO,https://jobs.dou.ua/companies/obrio/vacancies/347584/,Middle,,,Not Specified,"['Київ', 'Львів']",True
 QA,QA Automation Engineer,PLVision,https://jobs.dou.ua/companies/plvision/vacancies/352559/,Not Specified,,,Not Specified,['Remote Only'],True
@@ -64,20 +161,18 @@ QA,SDET (3-month contract),Elai,https://jobs.dou.ua/companies/elai/vacancies/352
 QA,Middle QA Engineer,Gamzix,https://jobs.dou.ua/companies/gamzix/vacancies/340843/,Middle,,,Not Specified,['Remote Only'],True
 QA,Senior Automation Engineer,IT Craft,https://jobs.dou.ua/companies/i-techs/vacancies/352412/,Senior,,,Not Specified,['Remote Only'],True
 QA,QA Engineer (Product Track),Eleken.,https://jobs.dou.ua/companies/eleken/vacancies/352394/,Not Specified,2500.0,2500.0,Not Specified,['Remote Only'],True
-QA,Automation QA Engineer (2559),Ciklum,https://jobs.dou.ua/companies/ciklum/vacancies/352374/,Not Specified,,,Not Specified,"['Київ', 'Львів']",True
+QA,General QA Engineer (Python) (2559),Ciklum,https://jobs.dou.ua/companies/ciklum/vacancies/352374/,Not Specified,,,Not Specified,"['Київ', 'Львів']",True
 QA,QA Engineer,Playtini,https://jobs.dou.ua/companies/playtini/vacancies/281199/,Not Specified,,,Not Specified,['Київ'],False
 QA,QA Engineer,Softermii,https://jobs.dou.ua/companies/softermii/vacancies/352344/,Not Specified,,,Not Specified,['Remote Only'],True
-QA,QA Automation Engineer (Automation-first),Peratera,https://jobs.dou.ua/companies/payzoff/vacancies/352331/,Not Specified,,,Not Specified,['Remote Only'],True
 QA,Middle Manual QA Engineer,EasyPay.UA,https://jobs.dou.ua/companies/easypay/vacancies/352311/,Middle,,,Not Specified,['Київ'],True
-QA,Middle QA engineer,Geobuyer,https://jobs.dou.ua/companies/geobuyer-l-l-c/vacancies/352293/,Middle,1500.0,2000.0,Not Specified,['Remote Only'],True
 QA,QA Engineer (Manual) / Adtech product,meetFrankie,https://jobs.dou.ua/companies/meetfrankie/vacancies/352284/,Not Specified,,,Not Specified,['Remote Only'],True
 QA,QA Engineer,NDA Recruitment,https://jobs.dou.ua/companies/nda-recruitment/vacancies/352255/,Not Specified,,,Not Specified,['Київ'],False
 QA,Intern QA Engineer (Kyiv office),King Group,https://jobs.dou.ua/companies/king-group/vacancies/323455/,Not Specified,500.0,600.0,Not Specified,['Київ'],False
 QA,Junior/Middle General QA Engineer,ROZETKA,https://jobs.dou.ua/companies/rozetka-ua-internet-supermarket/vacancies/352247/,Junior,,,Not Specified,['Remote Only'],True
+QA,Junior / Middle QA Engineer,TEAM International,https://jobs.dou.ua/companies/team-international/vacancies/352244/,Junior,,,Not Specified,['Львів'],False
 QA,Trainee Manual QA Engineer,Lemberg Solutions,https://jobs.dou.ua/companies/lemberg-solutions/vacancies/352235/,Junior,,,Not Specified,['Львів'],False
 QA,QA Engineer (Discovery),Everstar,https://jobs.dou.ua/companies/everstar/vacancies/352233/,Not Specified,,,Not Specified,['Київ'],False
 QA,Senior Automation QA Engineer,Edvantis,https://jobs.dou.ua/companies/edvantis/vacancies/352214/,Senior,,,Not Specified,['Львів'],True
-QA,Junior QA Еngineer,Mornhouse,https://jobs.dou.ua/companies/mornhouse/vacancies/323140/,Junior,700.0,1100.0,Not Specified,['Київ'],False
 QA,Web QA Engineer (Part-time),VALMAX,https://jobs.dou.ua/companies/valmax-digital/vacancies/352197/,Not Specified,,,Not Specified,['Remote Only'],True
 QA,Middle Manual QA Engineer (Upwork),inVerita,https://jobs.dou.ua/companies/inveritasoft/vacancies/352185/,Middle,,,Not Specified,['Львів'],True
 QA,Penetration tester,"""ІНФОТЕХ""",https://jobs.dou.ua/companies/derzhavne-pidpriyemstvo-infoteh/vacancies/331669/,Not Specified,,,Not Specified,['Київ'],False
@@ -89,13 +184,10 @@ QA,QA Lead Video Device,Ajax Systems,https://jobs.dou.ua/companies/ajax-systems/
 QA,"QA Automation Engineer (Python, UAV Systems)",Skyeton,https://jobs.dou.ua/companies/aviation-production-company-skyeton/vacancies/352086/,Not Specified,,,Not Specified,['Other'],False
 QA,Automation QA Engineer,YozmaTech,https://jobs.dou.ua/companies/yozma-tech/vacancies/344481/,Not Specified,,,Not Specified,['Remote Only'],True
 QA,Junior Automation QA engineer (Python),Ajax Systems,https://jobs.dou.ua/companies/ajax-systems/vacancies/352065/,Junior,,,Not Specified,['Київ'],False
-QA,Manual QA Engineer (2445),Ciklum,https://jobs.dou.ua/companies/ciklum/vacancies/352047/,Not Specified,,,Not Specified,"['Київ', 'Львів']",True
-QA,Senior Automation QA Engineer (2524),Ciklum,https://jobs.dou.ua/companies/ciklum/vacancies/352040/,Senior,,,Not Specified,"['Київ', 'Львів']",True
 QA,Manual QA Desktop,Infozahyst,https://jobs.dou.ua/companies/infozahyst/vacancies/352037/,Not Specified,,,Not Specified,['Remote Only'],True
 QA,Middle QA Engineer,Varyence,https://jobs.dou.ua/companies/varyence/vacancies/352030/,Middle,,,Not Specified,['Львів'],False
-QA,Middle Manual QA Engineer (Web+Mobile) — Storyby,SKELAR,https://jobs.dou.ua/companies/skelar/vacancies/352012/,Middle,,,Not Specified,['Київ'],False
+QA,Middle Manual QA Engineer — Storyby,SKELAR,https://jobs.dou.ua/companies/skelar/vacancies/352012/,Middle,,,Not Specified,['Київ'],False
 QA,QA Engineer,Axon,https://jobs.dou.ua/companies/axon/vacancies/285441/,Not Specified,1900.0,2500.0,Not Specified,['Other'],False
-QA,Senior QA Automation Engineer,Devart,https://jobs.dou.ua/companies/devart/vacancies/336792/,Senior,,,Not Specified,['Remote Only'],True
 QA,Інженер тестувальник серійних виробів,Infozahyst,https://jobs.dou.ua/companies/infozahyst/vacancies/351979/,Not Specified,,,Not Specified,['Київ'],False
 QA,Senior QA Engineer,Delphi Software,https://jobs.dou.ua/companies/delphi-llc/vacancies/351951/,Senior,,,Not Specified,['Вінниця'],True
 QA,Тестувальник (OpenBanking HUB),Ukrainian Processing Center,https://jobs.dou.ua/companies/ukrainskij-protsessingovyij-tsentr-upc/vacancies/310125/,Not Specified,,,Not Specified,['Київ'],False
@@ -111,7 +203,6 @@ QA,General QA Engineer — Brighterly,SKELAR,https://jobs.dou.ua/companies/skela
 QA,Automation QA Engineer,Digital Aurora,https://jobs.dou.ua/companies/digital-aurora/vacancies/351856/,Not Specified,,,Not Specified,['Київ'],True
 QA,Manual QA,Aimeice Tech.,https://jobs.dou.ua/companies/aimeice-tech/vacancies/351843/,Not Specified,1000.0,1200.0,Not Specified,['Київ'],True
 QA,General QA Engineer,ROZETKA,https://jobs.dou.ua/companies/rozetka-ua-internet-supermarket/vacancies/351823/,Not Specified,,,Not Specified,['Remote Only'],True
-QA,Junior QA engineer (Mobile),Rolique,https://jobs.dou.ua/companies/rolique/vacancies/351819/,Junior,,,Not Specified,['Львів'],True
 QA,Senior QA Engineer (EU-based position),INSART,https://jobs.dou.ua/companies/insart/vacancies/351786/,Senior,,,Not Specified,['Remote Only'],True
 QA,Strong Junior Manual QA,Galaktica,https://jobs.dou.ua/companies/galaktica/vacancies/351774/,Junior,,,Not Specified,"['Київ', 'Львів', 'Одеса']",True
 QA,Інженер-тестувальник (РЕБ/РЕР),Moodro,https://jobs.dou.ua/companies/moodro/vacancies/351763/,Not Specified,,,Not Specified,['Київ'],False
@@ -121,30 +212,24 @@ QA,QA Engineer,Рекрутинговий центр СБС,https://jobs.dou.ua/
 QA,Senior Manual QA Engineer,Interactive Online Technologies,https://jobs.dou.ua/companies/interactive-online-technologies/vacancies/253064/,Senior,2700.0,2700.0,Not Specified,['Remote Only'],True
 QA,Expert / Senior Automation QA Engineer,UKRSIBTECH,https://jobs.dou.ua/companies/ukrsibbank/vacancies/351657/,Senior,,,Not Specified,['Київ'],True
 QA,Тестувальник,UKRSIBTECH,https://jobs.dou.ua/companies/ukrsibbank/vacancies/351655/,Not Specified,,,Not Specified,['Київ'],True
-QA,QA Automation Engineer,Digis,https://jobs.dou.ua/companies/digis/vacancies/351637/,Not Specified,,,Not Specified,['Remote Only'],True
 QA,QA Engineer,Checkbox Group,https://jobs.dou.ua/companies/checkbox/vacancies/351630/,Not Specified,,,Not Specified,['Remote Only'],True
-QA,Manual QA engineer,Freshcode,https://jobs.dou.ua/companies/freshcode/vacancies/351627/,Not Specified,750.0,1000.0,Not Specified,['Remote Only'],True
 QA,Str Jun QA,Servus Systems Integration,https://jobs.dou.ua/companies/servus-systems-integration/vacancies/339675/,Not Specified,,,Not Specified,['Remote Only'],True
 QA,Senior Manual QA,Geniusee,https://jobs.dou.ua/companies/geniusee/vacancies/338124/,Senior,,,Not Specified,"['Київ', 'Львів']",True
 QA,Middle QA Engineer (working schedule 15.00-24.00),TechMagic,https://jobs.dou.ua/companies/techmagic/vacancies/351594/,Middle,,,Not Specified,"['Київ', 'Львів']",True
-QA,Middle Manual QA Engineer,Freshcode,https://jobs.dou.ua/companies/freshcode/vacancies/351591/,Middle,1300.0,1300.0,Not Specified,['Remote Only'],True
 QA,Manual QA Engineer,Spendbase,https://jobs.dou.ua/companies/spendbase/vacancies/351589/,Not Specified,,,Not Specified,"['Київ', 'Львів']",True
 QA,General QA Engineer,Swarmer,https://jobs.dou.ua/companies/swarmer/vacancies/351574/,Not Specified,,,Not Specified,['Other'],False
 QA,Junior Python QA Auto Engineer,ISsoft Ukraine,https://jobs.dou.ua/companies/issoft/vacancies/351570/,Junior,,,Not Specified,['Львів'],True
-QA,Senior QA Automation Engineer (Playwright and Typescript),UnicoreIT,https://jobs.dou.ua/companies/u-testing/vacancies/311316/,Senior,3500.0,4500.0,Not Specified,['Одеса'],True
 QA,Test Manager (ERP),3Shape,https://jobs.dou.ua/companies/3shape-ukraine/vacancies/351547/,Not Specified,,,Not Specified,['Київ'],False
 QA,"Manual QA Engineer (Back-end), Cloud Core Stream",Ajax Systems,https://jobs.dou.ua/companies/ajax-systems/vacancies/351545/,Not Specified,,,Not Specified,['Київ'],False
 QA,Junior Manual QA,Corvus Intelligence,https://jobs.dou.ua/companies/corvus-intelligence/vacancies/346547/,Junior,500.0,500.0,Not Specified,['Львів'],True
 QA,QA Engineer ( Slot games),Digicode,https://jobs.dou.ua/companies/digicode/vacancies/292194/,Not Specified,1400.0,1500.0,Not Specified,"['Київ', 'Полтава']",True
 QA,QA Engineer (Mobile),JustMarkets Tech,https://jobs.dou.ua/companies/justmarkets/vacancies/351532/,Not Specified,,,Not Specified,['Remote Only'],True
 QA,QA Engineer (Payment),JustMarkets Tech,https://jobs.dou.ua/companies/justmarkets/vacancies/340822/,Not Specified,,,Not Specified,['Remote Only'],True
-QA,Junior QA,Dedicatted,https://jobs.dou.ua/companies/dedicatted/vacancies/351506/,Junior,,,Not Specified,['Remote Only'],True
 QA,Senior AQA Engineer (Java + JS \ TS),Binariks,https://jobs.dou.ua/companies/binariks/vacancies/351479/,Senior,,,Not Specified,['Львів'],False
 QA,Mobile AQA engineer,Grid Dynamics,https://jobs.dou.ua/companies/grid-dynamics/vacancies/351474/,Not Specified,,,Not Specified,"['Київ', 'Львів', 'Дніпро', 'Харків']",True
 QA,AQA engineer with Python,Grid Dynamics,https://jobs.dou.ua/companies/grid-dynamics/vacancies/351471/,Not Specified,,,Not Specified,"['Київ', 'Львів', 'Дніпро', 'Харків']",True
 QA,Strong Middle Manual QA,Elevate Core,https://jobs.dou.ua/companies/elevate-core/vacancies/351464/,Middle,,,Not Specified,['Remote Only'],True
 QA,QA Engineer,Octava Defence,https://jobs.dou.ua/companies/octava-cyber-defence/vacancies/351463/,Not Specified,,,Not Specified,['Київ'],False
-QA,QA Engineer (AI-Driven) with transition to AI Engineering,Gera-IT,https://jobs.dou.ua/companies/gera-it/vacancies/351450/,Not Specified,,,Not Specified,['Remote Only'],True
 QA,Quality Assurance Engineer,Nova Digital,https://jobs.dou.ua/companies/nova-digital/vacancies/351447/,Not Specified,,,Not Specified,['Remote Only'],True
 QA,Middle+ Manual QA,Finsight Group,https://jobs.dou.ua/companies/finsight-group-inc/vacancies/351426/,Middle,,,Not Specified,['Київ'],True
 QA,QA Software Engineer,Techstack,https://jobs.dou.ua/companies/tech-stack/vacancies/351385/,Not Specified,,,Not Specified,['Remote Only'],True
@@ -153,16 +238,15 @@ QA,General QA (QA/AQA Engineer),YozmaTech,https://jobs.dou.ua/companies/yozma-te
 QA,QA Manual Middle в ігрові проєкти,Candy Grill,https://jobs.dou.ua/companies/candygrill/vacancies/276754/,Middle,,,Not Specified,['Дніпро'],False
 QA,QA Manual,Somplo,https://jobs.dou.ua/companies/somplo/vacancies/313758/,Not Specified,,,Not Specified,['Одеса'],False
 QA,Senior Automation QA Engineer (2533),Ciklum,https://jobs.dou.ua/companies/ciklum/vacancies/351332/,Senior,,,Not Specified,"['Київ', 'Львів']",True
-QA,Junior QA Engineer,One Source,https://jobs.dou.ua/companies/one-source/vacancies/346475/,Junior,,,Not Specified,['Remote Only'],True
 QA,QA Automation / Integration Engineer (Python / Django),PAGA GAMES,https://jobs.dou.ua/companies/paga-games/vacancies/351304/,Not Specified,,,Not Specified,['Remote Only'],True
 QA,Lead AQA Engineer,Sunvery,https://jobs.dou.ua/companies/sunvery/vacancies/351298/,Senior,,,Not Specified,['Remote Only'],True
 QA,Manual Test Engineer,3Shape,https://jobs.dou.ua/companies/3shape-ukraine/vacancies/351254/,Not Specified,,,Not Specified,['Київ'],False
 QA,QA Engineer (Generalist / LLM-Savvy),Reply.io,https://jobs.dou.ua/companies/replyapp/vacancies/351252/,Not Specified,,,Not Specified,['Remote Only'],True
 QA,Performance QA Engineer,SQUAD,https://jobs.dou.ua/companies/squad/vacancies/351226/,Not Specified,,,Not Specified,"['Київ', 'Львів']",True
+QA,Manual QA (Payment Module),Precoro,https://jobs.dou.ua/companies/precoro/vacancies/351175/,Not Specified,,,Not Specified,['Київ'],False
 QA,Test Validation Engineer (UAV),Quantum Systems Ukraine,https://jobs.dou.ua/companies/quantum-systems-ukraine/vacancies/351173/,Not Specified,,,Not Specified,['Київ'],False
 QA,Middle General Test Engineer,unicrew,https://jobs.dou.ua/companies/unicrew/vacancies/351155/,Middle,,,Not Specified,['Other'],False
 QA,QA Engineer,Onlyplay,https://jobs.dou.ua/companies/onlyplay/vacancies/351114/,Not Specified,,,Not Specified,['Remote Only'],True
-QA,Senior AQA (JS) Engineer,Sombra,https://jobs.dou.ua/companies/sombra/vacancies/351112/,Senior,,,Not Specified,"['Київ', 'Львів', 'Івано-Франківськ']",True
 QA,Middle Manual QA Engineer (Web),United Tech,https://jobs.dou.ua/companies/united-tech/vacancies/351103/,Middle,,,Not Specified,['Київ'],True
 QA,Strong Junior QA,SciForce,https://jobs.dou.ua/companies/sciforce/vacancies/278380/,Junior,,,Not Specified,['Львів'],True
 QA,Junior QA Engineer,Applyft,https://jobs.dou.ua/companies/applyft/vacancies/351048/,Junior,,,Not Specified,['Remote Only'],True
@@ -174,9 +258,8 @@ QA,Intern QA (Streaming),SQUAD,https://jobs.dou.ua/companies/squad/vacancies/351
 QA,QA Automation Engineer (Part-Time / T&M),DRUPFAN,https://jobs.dou.ua/companies/drupfan/vacancies/350949/,Not Specified,,,Not Specified,['Remote Only'],True
 QA,QA Engineer,Tenexti,https://jobs.dou.ua/companies/tenexti/vacancies/350942/,Not Specified,,,Not Specified,['Remote Only'],True
 QA,Automation QA Leader (Robot Framework),Edvantis,https://jobs.dou.ua/companies/edvantis/vacancies/350913/,Senior,,,Not Specified,['Львів'],True
-QA,Automation QA Engineer (Middle / Middle+),HUBB,https://jobs.dou.ua/companies/hubb/vacancies/350902/,Middle,2000.0,2500.0,Not Specified,['Remote Only'],True
+QA,QA Engineer (Middle / Middle+),HUBB,https://jobs.dou.ua/companies/hubb/vacancies/350902/,Middle,1500.0,2000.0,Not Specified,['Remote Only'],True
 QA,Flight Test Lead,STARK Defence,https://jobs.dou.ua/companies/uav-defence-lab/vacancies/350901/,Senior,,,Not Specified,['Київ'],False
-QA,Manual QA Engineer Trainee,LaSoft,https://jobs.dou.ua/companies/lasoft/vacancies/350889/,Junior,,,Not Specified,['Львів'],False
 QA,Test Engineer (РЕБ/РЕР),Moodro,https://jobs.dou.ua/companies/moodro/vacancies/350887/,Not Specified,,,Not Specified,['Київ'],False
 QA,Junior Strong QA Engineer,StartupSoft,https://jobs.dou.ua/companies/startup-soft/vacancies/350885/,Junior,,,Not Specified,"['Львів', 'Тернопіль']",True
 QA,QA Manual,ThunderSpin,https://jobs.dou.ua/companies/thunderspin/vacancies/350880/,Not Specified,,,Not Specified,['Київ'],True
@@ -202,9 +285,7 @@ QA,Middle/Senior General QA Engineer,Eleven,https://jobs.dou.ua/companies/eleven
 QA,QA Automation Engineer,Academy SMART,https://jobs.dou.ua/companies/academy-smart/vacancies/350651/,Not Specified,,,Not Specified,['Remote Only'],True
 QA,QA Lead Server Manual Team (Lviv),Ajax Systems,https://jobs.dou.ua/companies/ajax-systems/vacancies/350617/,Senior,,,Not Specified,['Львів'],False
 QA,Manual QA Engineer (Mobile),StairwaySoft,https://jobs.dou.ua/companies/stairwaysoft/vacancies/350611/,Not Specified,,,Not Specified,['Remote Only'],True
-QA,Middle Manual QA Engineer,Kevych Solutions,https://jobs.dou.ua/companies/kevych-solutions/vacancies/350589/,Middle,,,Not Specified,['Львів'],True
 QA,Junior Manual QA Engineer,Kevych Solutions,https://jobs.dou.ua/companies/kevych-solutions/vacancies/350588/,Junior,,,Not Specified,['Львів'],True
-QA,General QA Engineer,Kevych Solutions,https://jobs.dou.ua/companies/kevych-solutions/vacancies/350587/,Not Specified,,,Not Specified,['Львів'],True
 QA,QA Engineer,Playtech,https://jobs.dou.ua/companies/playtech/vacancies/350566/,Not Specified,,,Not Specified,['Київ'],False
 QA,QA Engineer (Embedded),DoD Solution,https://jobs.dou.ua/companies/dod-solution/vacancies/350552/,Not Specified,,,Not Specified,['Львів'],False
 QA,QA Engineer,Softsich,https://jobs.dou.ua/companies/softsich/vacancies/350551/,Not Specified,,,Not Specified,['Remote Only'],True
@@ -215,17 +296,13 @@ QA,General AI-driven QA Engineer,Kozak Group,https://jobs.dou.ua/companies/kozak
 QA,Middle QA Engineer,Romexsoft,https://jobs.dou.ua/companies/romexsoft/vacancies/350475/,Middle,,,Not Specified,['Remote Only'],True
 QA,QA Engineer,4bill,https://jobs.dou.ua/companies/4bill-io/vacancies/350464/,Not Specified,,,Not Specified,['Remote Only'],True
 QA,Automation QA Middle Engineer (Python),JarvisHeart,https://jobs.dou.ua/companies/jarvisheart/vacancies/350446/,Middle,2200.0,2500.0,Not Specified,['Remote Only'],True
-QA,Middle Automation QA Engineer (TypeScript + Playwright),Pecode,https://jobs.dou.ua/companies/pecode-software/vacancies/350441/,Middle,2000.0,2000.0,Not Specified,['Remote Only'],True
 QA,Junior Automation QA,Suntech Innovation,https://jobs.dou.ua/companies/suntech-innovation/vacancies/350426/,Junior,,,Not Specified,['Київ'],True
 QA,Quality Assurance Engineer,Bitmotive,https://jobs.dou.ua/companies/bitmotive-llc/vacancies/293962/,Not Specified,,,Not Specified,['Remote Only'],True
 QA,Manual/Automation QA engineer,Ubiquiti,https://jobs.dou.ua/companies/ubiquiti-networks/vacancies/101074/,Not Specified,,,Not Specified,['Київ'],False
 QA,Manual QA Engineer (Wireless),Ubiquiti,https://jobs.dou.ua/companies/ubiquiti-networks/vacancies/74858/,Not Specified,,,Not Specified,['Київ'],False
 QA,Manual QA Engineer (Jun/Mid),Careerswift,https://jobs.dou.ua/companies/careerswift/vacancies/350389/,Not Specified,,,Not Specified,['Remote Only'],True
-QA,Web QA Engineer,Skylum,https://jobs.dou.ua/companies/skylum-software/vacancies/350383/,Not Specified,,,Not Specified,['Київ'],True
-QA,Manual QA,Fast Corporation,https://jobs.dou.ua/companies/fast-corporation/vacancies/350382/,Not Specified,1000.0,1500.0,Not Specified,['Київ'],False
 QA,Junior Manual QA Engineer (Romania),NCube,https://jobs.dou.ua/companies/ncube/vacancies/350346/,Junior,,,Not Specified,['Remote Only'],True
 QA,Manual QA Engineer,AllDigitalAds,https://jobs.dou.ua/companies/alldigitalads/vacancies/328074/,Not Specified,,,Not Specified,['Київ'],True
-QA,Middle QA Manual Engineer for Specialized e-learning solution,Brightgrove,https://jobs.dou.ua/companies/brightgrove/vacancies/350304/,Middle,,,Not Specified,['Other'],False
 QA,Manual QA Engineer — A navigation project (hybrid in Warsaw),Synergetica,https://jobs.dou.ua/companies/synergetica/vacancies/77624/,Not Specified,,,Not Specified,['Other'],False
 QA,QA Engineer (Microsoft Dynamics),JustMarkets Tech,https://jobs.dou.ua/companies/justmarkets/vacancies/350276/,Not Specified,,,Not Specified,['Remote Only'],True
 QA,Middle QA (Robotics),Deus Robotics,https://jobs.dou.ua/companies/deus-robots/vacancies/253725/,Middle,,,Not Specified,['Київ'],False
@@ -240,7 +317,6 @@ QA,QA Engineer,Petcube,https://jobs.dou.ua/companies/petcube-inc/vacancies/34492
 QA,Manual QA Engineer,enable3,https://jobs.dou.ua/companies/enable3/vacancies/350181/,Not Specified,,,Not Specified,['Other'],False
 QA,"Junior QA Engineer, Web (full-time freelancer)",SE Ranking,https://jobs.dou.ua/companies/se-ranking/vacancies/350170/,Junior,,,Not Specified,['Київ'],True
 QA,QA Engineer,Dataweb Global Group,https://jobs.dou.ua/companies/dataweb-global-group/vacancies/350143/,Not Specified,,,Not Specified,['Remote Only'],True
-QA,Manual QA Engineer (Hardware + Web),Quantum Defense Tech,https://jobs.dou.ua/companies/quantum-defense-tech/vacancies/350139/,Not Specified,1000.0,1200.0,Not Specified,['Київ'],False
 QA,Senior Automation QA,LeanyLabs,https://jobs.dou.ua/companies/leanylabs/vacancies/350125/,Senior,,,Not Specified,['Remote Only'],True
 QA,Automation QA Engineer,Pwrteams,https://jobs.dou.ua/companies/pwrteams/vacancies/350115/,Not Specified,,,Not Specified,['Львів'],False
 QA,Automation QA Engineer,Kevych Solutions,https://jobs.dou.ua/companies/kevych-solutions/vacancies/350110/,Not Specified,,,Not Specified,['Львів'],False
@@ -248,12 +324,9 @@ QA,Senior QA Engineer with automation Playwright,Engenious,https://jobs.dou.ua/c
 QA,Junior QA Engineer,Конструкторське бюро «Логіка»,https://jobs.dou.ua/companies/konstruktorske-byuro-logika/vacancies/340887/,Junior,700.0,1000.0,Not Specified,['Київ'],False
 QA,Software Test Engineer (Mimics team) manual+Python automation,Materialise,https://jobs.dou.ua/companies/materialise/vacancies/339890/,Not Specified,,,Not Specified,['Київ'],False
 QA,Penetration Tester /Security Engineer,AUG Global,https://jobs.dou.ua/companies/aug-global/vacancies/350021/,Not Specified,,,Not Specified,"['Київ', 'Вінниця']",True
-QA,Junior Manual QA Engineer,CHOICE,https://jobs.dou.ua/companies/choice/vacancies/350004/,Junior,500.0,800.0,Not Specified,['Remote Only'],True
-QA,"Middle QA Engineer (office, Kyiv)",Delasport,https://jobs.dou.ua/companies/delasport/vacancies/350002/,Middle,,,Not Specified,['Київ'],False
 QA,Manual QA Engineer (Frontend Focus),EVOPLAY,https://jobs.dou.ua/companies/evoplay/vacancies/349981/,Not Specified,,,Not Specified,['Remote Only'],True
 QA,Middle General QA,Raiffeisen Bank,https://jobs.dou.ua/companies/raiffeisen/vacancies/349977/,Middle,,,Not Specified,['Київ'],True
 QA,Manual QA Engineer / Tester,ConveyThis,https://jobs.dou.ua/companies/conveythis/vacancies/338593/,Not Specified,,,Not Specified,['Remote Only'],True
-QA,Middle QA,Sombra,https://jobs.dou.ua/companies/sombra/vacancies/349961/,Middle,,,Not Specified,"['Київ', 'Львів', 'Івано-Франківськ']",True
 QA,General QA Engineer,OBRIO,https://jobs.dou.ua/companies/obrio/vacancies/349949/,Not Specified,,,Not Specified,"['Київ', 'Львів']",True
 QA,QA middle,PayForce,https://jobs.dou.ua/companies/payforce/vacancies/349948/,Middle,,,Not Specified,['Київ'],False
 QA,Senior General QA Engineer,Edsson,https://jobs.dou.ua/companies/edsson/vacancies/349945/,Senior,,,Not Specified,['Київ'],False
@@ -262,7 +335,6 @@ QA,Junior Test Engineer,CodeGeeks Solutions,https://jobs.dou.ua/companies/codege
 QA,Technical QA Engineer,HIRETOP,https://jobs.dou.ua/companies/hiretop/vacancies/349892/,Not Specified,5000.0,6000.0,Not Specified,['Remote Only'],True
 QA,"Junior QA Engineer, Support",Extracode,https://jobs.dou.ua/companies/extracode/vacancies/340544/,Junior,,,Not Specified,['Київ'],True
 QA,Game Manual QA Engineer,Bitmedia Labs,https://jobs.dou.ua/companies/bitmedia-labs/vacancies/349861/,Not Specified,,,Not Specified,['Remote Only'],True
-QA,Senior Automation QA Engineer (2347),Ciklum,https://jobs.dou.ua/companies/ciklum/vacancies/349857/,Senior,,,Not Specified,"['Київ', 'Львів']",True
 QA,Junior QA Engineer (manual),Foxteam Digital,https://jobs.dou.ua/companies/foxtrot/vacancies/96244/,Junior,,,Not Specified,['Київ'],True
 QA,Junior QA Engineer (manual mob application),Foxteam Digital,https://jobs.dou.ua/companies/foxtrot/vacancies/306701/,Junior,,,Not Specified,['Remote Only'],True
 QA,Middle Manual QA Engineer,Patrianna Limited,https://jobs.dou.ua/companies/patrianna/vacancies/349848/,Middle,,,Not Specified,['Remote Only'],True
@@ -280,85 +352,9 @@ QA,Junior Automation QA Engineer (JS),Devico,https://jobs.dou.ua/companies/devic
 QA,QA Engineer (Systems & Automation),Net.hunters,https://jobs.dou.ua/companies/net-hunters/vacancies/349709/,Not Specified,,,Not Specified,['Київ'],False
 QA,Middle QA Engineer,Improvs,https://jobs.dou.ua/companies/improvs/vacancies/349692/,Middle,,,Not Specified,['Remote Only'],True
 QA,Automation Quality Engineer | Ukraine location only,Deloitte,https://jobs.dou.ua/companies/deloitte/vacancies/349680/,Not Specified,,,Not Specified,['Remote Only'],True
-QA,Middle QA Engineer (with PM responsibilities),Temy,https://jobs.dou.ua/companies/team-technologies/vacancies/349679/,Middle,800.0,1200.0,Not Specified,['Remote Only'],True
 QA,QA Engineer (Middle),Corezoid,https://jobs.dou.ua/companies/corezoid/vacancies/344691/,Middle,,,Not Specified,['Дніпро'],True
-QA,QA Engineer (Casual Games) Kyiv,PlayWorks,https://jobs.dou.ua/companies/transgaming-ukraine/vacancies/309404/,Not Specified,,,Not Specified,['Київ'],True
 QA,Junior QA Manual Engineer,NineTwoThree,https://jobs.dou.ua/companies/ninetwothree/vacancies/345107/,Junior,,,Not Specified,['Remote Only'],True
-QA,Junior QC Specialist — Networking Testing (Online Requirements Team),Ubisoft,https://jobs.dou.ua/companies/ubisoft/vacancies/345224/,Junior,,,Not Specified,['Київ'],False
-QA,Automation QA Engineer(C#),QATestLab,https://jobs.dou.ua/companies/qatestlab/vacancies/349555/,Not Specified,,,Not Specified,['Remote Only'],True
-QA,Automation QA Engineer (Java),Digis,https://jobs.dou.ua/companies/digis/vacancies/349533/,Not Specified,,,Not Specified,['Remote Only'],True
-QA,Middle+ Manual QA Engineer,Galaktica,https://jobs.dou.ua/companies/galaktica/vacancies/349532/,Middle,,,Not Specified,"['Київ', 'Львів', 'Одеса']",True
-QA,QA Engineer,Collaborator,https://jobs.dou.ua/companies/collaborator/vacancies/334732/,Not Specified,,,Not Specified,['Remote Only'],True
-QA,Senior Python Automation QA Engineer IRC285006,GlobalLogic,https://jobs.dou.ua/companies/globallogic/vacancies/349521/,Senior,,,Not Specified,['Київ'],True
-QA,Senior QA Automation Engineer (AI-Driven Test Automation),ABCloudz,https://jobs.dou.ua/companies/abcloudz/vacancies/349517/,Senior,,,Not Specified,['Remote Only'],True
-QA,"Senior QA engineer (Networking, Linux) for system team IRC288252",GlobalLogic,https://jobs.dou.ua/companies/globallogic/vacancies/349516/,Senior,,,Not Specified,['Київ'],True
-QA,"Trainee QA (CI) engineer (Networking, Linux) IRC283693 Designation Trainee Test Engineer Function Quality Assurance Experience",GlobalLogic,https://jobs.dou.ua/companies/globallogic/vacancies/349513/,Junior,,,Not Specified,['Remote Only'],True
-QA,Embedded QA Engineer,Eleven,https://jobs.dou.ua/companies/eleven/vacancies/349501/,Not Specified,,,Not Specified,['Київ'],False
-QA,Junior QA Engineer (з функціями бізнес-аналізу),Український інститут розвитку освіти,https://jobs.dou.ua/companies/ukrainskii-institut-rozvitku-osviti/vacancies/349486/,Junior,500.0,500.0,Not Specified,['Київ'],False
-QA,Quality Control Engineer (UAV Production),Aero Center,https://jobs.dou.ua/companies/aero-center/vacancies/349469/,Not Specified,,,Not Specified,['Київ'],False
-QA,UAV Test Engineer (Інженер БПЛА),Aero Center,https://jobs.dou.ua/companies/aero-center/vacancies/349464/,Not Specified,,,Not Specified,['Київ'],False
-QA,Junior/ Trainee Field Test Engineer (інженер з польотних випробувань),D1,https://jobs.dou.ua/companies/d1/vacancies/349433/,Junior,,,Not Specified,['Київ'],False
-QA,QA Automation Engineer,INCOAlliance,https://jobs.dou.ua/companies/incoalliance/vacancies/349431/,Not Specified,,,Not Specified,['Remote Only'],True
-QA,Quality Assurance & Quality Control Specialist (Digital / Brand / Content),A14 Agency,https://jobs.dou.ua/companies/a14-agency/vacancies/349418/,Not Specified,700.0,1500.0,Not Specified,['Remote Only'],True
-QA,Manual QA Engineer (Web),United Tech,https://jobs.dou.ua/companies/united-tech/vacancies/344954/,Not Specified,,,Not Specified,['Київ'],True
-QA,QA Tech Lead,JATAPP,https://jobs.dou.ua/companies/jatapp/vacancies/349400/,Senior,,,Not Specified,['Київ'],True
-QA,QA-інженер,MAUDAU,https://jobs.dou.ua/companies/maudau/vacancies/349394/,Not Specified,,,Not Specified,['Київ'],False
-QA,QA Automation Engineer,lifecell,https://jobs.dou.ua/companies/lifecell/vacancies/349387/,Not Specified,,,Not Specified,['Remote Only'],True
-QA,Middle BackEnd/Manual QA,Nova Digital,https://jobs.dou.ua/companies/nova-digital/vacancies/349347/,Middle,,,Not Specified,['Remote Only'],True
-QA,Automation QA Engineer,Galaktica,https://jobs.dou.ua/companies/galaktica/vacancies/349338/,Not Specified,,,Not Specified,"['Київ', 'Львів', 'Одеса']",True
-QA,QA Automation Engineer,OGD Solutions,https://jobs.dou.ua/companies/ogd-solutions/vacancies/349334/,Not Specified,3200.0,4000.0,Not Specified,['Remote Only'],True
-QA,General QA Engineer,Bank Pivdenny,https://jobs.dou.ua/companies/pivdenny/vacancies/338963/,Not Specified,,,Not Specified,"['Київ', 'Одеса']",True
-QA,Senior Manual QA (Cybersecurity),5BLUE Software,https://jobs.dou.ua/companies/5blue-software/vacancies/343703/,Senior,,,Not Specified,['Remote Only'],True
-QA,Junior QA Engineer with Strong English (Operational Specialist),Patrianna Limited,https://jobs.dou.ua/companies/patrianna/vacancies/263217/,Junior,,,Not Specified,['Remote Only'],True
-QA,Automation QA Engineer,Intelliarts,https://jobs.dou.ua/companies/intelliarts/vacancies/349268/,Not Specified,4000.0,4000.0,Not Specified,['Львів'],True
-QA,Manual QA Engineer,Motorsport Network,https://jobs.dou.ua/companies/motorsport-network/vacancies/341442/,Not Specified,,,Not Specified,['Remote Only'],True
-QA,Junior QA Engineer,Avirise,https://jobs.dou.ua/companies/avirise/vacancies/344754/,Junior,,,Not Specified,['Remote Only'],True
-QA,Senior Mobile AQA Engineer — PawChamp,SKELAR,https://jobs.dou.ua/companies/skelar/vacancies/349227/,Senior,,,Not Specified,['Київ'],True
-QA,Middle Ruby AQA,Symphony Solutions,https://jobs.dou.ua/companies/symphony-solutions/vacancies/344764/,Middle,,,Not Specified,['Remote Only'],True
-QA,Manual QA Engineer (iOS),United Tech,https://jobs.dou.ua/companies/united-tech/vacancies/344839/,Not Specified,,,Not Specified,['Київ'],True
-QA,"QA Engineer (VISA, Mastercard, SQL, POS )",UKRSIBTECH,https://jobs.dou.ua/companies/ukrsibbank/vacancies/342833/,Not Specified,,,sql,['Київ'],False
-QA,QA Lead,Plexsupply,https://jobs.dou.ua/companies/plexsupply/vacancies/349123/,Senior,1500.0,2000.0,Not Specified,['Remote Only'],True
-QA,Junior+ Manual QA Engineer,Lumen Global,https://jobs.dou.ua/companies/lumen-global/vacancies/349117/,Junior,,,Not Specified,['Remote Only'],True
-QA,Junior QA Manual (Web),appflame,https://jobs.dou.ua/companies/appflame/vacancies/349105/,Junior,,,Not Specified,['Київ'],False
-QA,QA Engineer,СІТІ АПП,https://jobs.dou.ua/companies/citi-app/vacancies/341114/,Not Specified,,,Not Specified,['Remote Only'],True
-QA,Senior Automation QA,Geniusee,https://jobs.dou.ua/companies/geniusee/vacancies/338891/,Senior,,,Not Specified,['Remote Only'],True
-QA,Senior QA Software Engineer — Networking (Ethernet Switches),NVIDIA,https://jobs.dou.ua/companies/nvidia/vacancies/328796/,Senior,,,Not Specified,['Київ'],True
-QA,Manual QA Specialist,Dripify,https://jobs.dou.ua/companies/dripify/vacancies/349047/,Not Specified,,,Not Specified,['Remote Only'],True
-QA,Middle Manual QA Engineer,PlantIn,https://jobs.dou.ua/companies/plantin/vacancies/349040/,Middle,,,Not Specified,['Київ'],True
-QA,QA Engineer,Playtech,https://jobs.dou.ua/companies/playtech/vacancies/349036/,Not Specified,,,Not Specified,['Київ'],False
-QA,Trainee Manual QA (VPN & Network Security Testing),CodeGeeks Solutions,https://jobs.dou.ua/companies/codegeeks-solutions/vacancies/349019/,Junior,,,Not Specified,['Львів'],False
-QA,General QA Engineer (AI),SQUAD,https://jobs.dou.ua/companies/squad/vacancies/324510/,Not Specified,,,Not Specified,['Київ'],False
-QA,Trainee Manual QA Engineer,ORIL,https://jobs.dou.ua/companies/oril/vacancies/344574/,Junior,,,Not Specified,['Львів'],True
-QA,QA Lead/Senior Manual QA Engineer,Kultprosvet,https://jobs.dou.ua/companies/kultprosvet/vacancies/344619/,Senior,,,Not Specified,['Дніпро'],True
-QA,Middle Business Analyst/System Analyst (with QA background),ПриватБанк,https://jobs.dou.ua/companies/privatbank/vacancies/344252/,Middle,,,Not Specified,['Київ'],True
-QA,QA Engineer (Hardware) / Kyiv,Airlogix,https://jobs.dou.ua/companies/airlogix/vacancies/348941/,Not Specified,,,Not Specified,['Київ'],False
-QA,Automation QA Engineer (Middle),DBB Software,https://jobs.dou.ua/companies/dbb-software/vacancies/342696/,Middle,,,Not Specified,['Дніпро'],False
-QA,Фахівець з розробки та тестування програмного забезпечення (Junior QA),Агенція оборонних закупівель DOT,https://jobs.dou.ua/companies/agentsiya-oboronnih-zakupivel/vacancies/348916/,Junior,,,Not Specified,['Київ'],False
-QA,Manual QA (IT Outsource),PLANEKS,https://jobs.dou.ua/companies/planeks/vacancies/336556/,Not Specified,,,Not Specified,['Remote Only'],True
-QA,C/C++ Engineer with embedded firmware testing experience,Deviark,https://jobs.dou.ua/companies/deviark/vacancies/348904/,Not Specified,,,Not Specified,['Львів'],True
-QA,Junior Manual QA,Galaktica,https://jobs.dou.ua/companies/galaktica/vacancies/348901/,Junior,1000.0,1400.0,Not Specified,"['Київ', 'Львів', 'Одеса']",True
-QA,Інженер із забезпечення якості (AdTech — DSP/SSP),Tatari,https://jobs.dou.ua/companies/tatari/vacancies/348890/,Not Specified,,,Not Specified,['Remote Only'],True
-QA,QA Engineer,HBM,https://jobs.dou.ua/companies/hbm/vacancies/348869/,Not Specified,,,Not Specified,['Remote Only'],True
-QA,Middle-Strong Middle QA Engineer,Opinov8,https://jobs.dou.ua/companies/opinov8/vacancies/348850/,Middle,,,Not Specified,['Київ'],True
-QA,Junior QA Engineer (виробничий відділ),Teletactica,https://jobs.dou.ua/companies/teletactica/vacancies/348805/,Junior,,,Not Specified,['Київ'],False
-QA,Software QA Automation Engineer (Part-time),Renesas Electronics,https://jobs.dou.ua/companies/dialog-semiconductor/vacancies/348782/,Not Specified,,,Not Specified,['Львів'],False
-QA,Senior QA Automation Engineer,Playson,https://jobs.dou.ua/companies/playson/vacancies/314368/,Senior,,,Not Specified,['Remote Only'],True
-QA,AQA Engineer (Magento projects),White Label,https://jobs.dou.ua/companies/ffflabel/vacancies/348768/,Not Specified,,,Not Specified,['Remote Only'],True
-QA,Junior QA Engineer,StellarsTech,https://jobs.dou.ua/companies/stellarstech/vacancies/348738/,Junior,500.0,800.0,Not Specified,['Remote Only'],True
-QA,Тest Automation Engineer,MindK,https://jobs.dou.ua/companies/mindk/vacancies/348732/,Not Specified,,,Not Specified,['Remote Only'],True
 QA,Інспектор з якості (QC),Everstar,https://jobs.dou.ua/companies/everstar/vacancies/348709/,Not Specified,,,Not Specified,['Київ'],False
-QA,Manual QA Engineer (Mobile),EasyPay.UA,https://jobs.dou.ua/companies/easypay/vacancies/348697/,Not Specified,,,Not Specified,['Київ'],True
-QA,QA Engineer,"""ІНФОТЕХ""",https://jobs.dou.ua/companies/derzhavne-pidpriyemstvo-infoteh/vacancies/271869/,Not Specified,,,Not Specified,['Київ'],False
-QA,Quality Assurance Lead,Devlight,https://jobs.dou.ua/companies/devlight/vacancies/348683/,Senior,,,Not Specified,['Remote Only'],True
-QA,QA Automation Engineer (Junior),SoftButler,https://jobs.dou.ua/companies/softbutler/vacancies/348623/,Junior,,,Not Specified,['Київ'],False
-QA,Trainee QA Engineer (IoT projects),Lemberg Solutions,https://jobs.dou.ua/companies/lemberg-solutions/vacancies/348639/,Junior,,,Not Specified,['Львів'],False
-QA,Junior QА Engineer (IoT projects),Lemberg Solutions,https://jobs.dou.ua/companies/lemberg-solutions/vacancies/348635/,Junior,,,Not Specified,['Львів'],False
-QA,Middle Manual QA,Softsich,https://jobs.dou.ua/companies/softsich/vacancies/348625/,Middle,,,Not Specified,['Remote Only'],True
-QA,Manual QA,Deveit,https://jobs.dou.ua/companies/deveit-sp-z-o-o/vacancies/348600/,Not Specified,1100.0,1400.0,Not Specified,['Remote Only'],True
-QA,Automation QA Engineer (Web + Mobile),AirDodge,https://jobs.dou.ua/companies/airdodge-as/vacancies/299603/,Not Specified,2000.0,2000.0,Not Specified,['Remote Only'],True
-QA,Middle Manual QA Engineer,Teletactica,https://jobs.dou.ua/companies/teletactica/vacancies/344061/,Middle,,,Not Specified,['Київ'],False
-QA,Manual QC Mobile Trainee (#4896),N-iX,https://jobs.dou.ua/companies/n-ix/vacancies/258414/,Junior,,,Not Specified,"['Київ', 'Львів', 'Дніпро', 'Івано-Франківськ', 'Вінниця', 'Тернопіль']",True
-QA,Senior Automation QA Engineer (Playwright) (#5003),N-iX,https://jobs.dou.ua/companies/n-ix/vacancies/258405/,Senior,,,Not Specified,"['Київ', 'Львів', 'Дніпро', 'Івано-Франківськ', 'Вінниця', 'Тернопіль']",True
 QA,Embedded QA,D1,https://jobs.dou.ua/companies/d1/vacancies/347434/,Not Specified,,,Not Specified,['Київ'],False
 QA,Middle QA Engineer (FPV),Everstar,https://jobs.dou.ua/companies/everstar/vacancies/338161/,Middle,,,Not Specified,['Київ'],False
 QA,QA Engineer,Генерал Черешня,https://jobs.dou.ua/companies/general-chereshnya/vacancies/347278/,Not Specified,,,Not Specified,['Київ'],False

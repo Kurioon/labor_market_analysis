@@ -1,13 +1,34 @@
 ﻿Category,Title,Company,URL,Grade,Salary_min,Salary_max,Skills,City_List,Is_Remote
-Front-end,Frontend Developer (React/CSS),Qencode,https://jobs.dou.ua/companies/qencode/vacancies/350697/?from=list_hot,Not Specified,,,"react, css","['Київ', 'Львів', 'Дніпро', 'Івано-Франківськ', 'Вінниця', 'Одеса', 'Харків', 'Чернівці', 'Черкаси', 'Хмельницький', 'Ужгород']",True
-Front-end,Frontend Tech Lead (React),Ideals,https://jobs.dou.ua/companies/ideals/vacancies/340058/?from=list_hot,Senior,,,react,['Remote Only'],True
+Front-end,Senior Frontend Engineer,Kasta.ua,https://jobs.dou.ua/companies/modnakastaua/vacancies/348207/,Senior,,,Not Specified,['Київ'],False
+Front-end,Senior Front-End Engineer (Geospatial domain) | MilTech,"Sherlock, recruitment agency",https://jobs.dou.ua/companies/sherlock-recruitment-agency/vacancies/354102/,Senior,,,Not Specified,['Remote Only'],True
+Front-end,Middle Frontend Developer(React),Yojji,https://jobs.dou.ua/companies/yojji/vacancies/354071/,Middle,2000.0,2500.0,react,['Remote Only'],True
+Front-end,Frontend Engineer — AI Creation Team (Wix Harmony),WiX,https://jobs.dou.ua/companies/wix/vacancies/344699/,Not Specified,,,Not Specified,"['Київ', 'Дніпро']",False
+Front-end,Frontend Engineer — Wix Editor,WiX,https://jobs.dou.ua/companies/wix/vacancies/344881/,Not Specified,,,Not Specified,['Київ'],False
+Front-end,Frontend Engineer — Editor Platform,WiX,https://jobs.dou.ua/companies/wix/vacancies/320654/,Not Specified,,,Not Specified,['Київ'],False
+Front-end,Senior Frontend Developer (Angular),Bank Pivdenny,https://jobs.dou.ua/companies/pivdenny/vacancies/349440/,Senior,,,angular,['Одеса'],True
+Front-end,"Mentor for Frontend Developers (Vue, React, Angular)",Uncle Solutions,https://jobs.dou.ua/companies/uncle-solutions/vacancies/353807/,Not Specified,,,"react, angular, vue",['Remote Only'],True
+Front-end,Team Lead/Senior Front-End Developer,Attract Group,https://jobs.dou.ua/companies/attract-group/vacancies/353800/,Senior,,,Not Specified,['Remote Only'],True
+Front-end,Senior Frontend Developer,Readeat,https://jobs.dou.ua/companies/readeat/vacancies/347793/,Senior,,,Not Specified,['Remote Only'],True
+Front-end,Middle FullStack Developer (Python + Frontend),IPNET,https://jobs.dou.ua/companies/ipnet/vacancies/353754/,Middle,,,Not Specified,['Київ'],False
+Front-end,Frontend Engineer (iGaming),Innovecs,https://jobs.dou.ua/companies/innovecs/vacancies/353692/,Not Specified,,,Not Specified,['Remote Only'],True
+Front-end,Junior/Middle Frontend Engineer (NEW product),Genesis,https://jobs.dou.ua/companies/genesis-technology-partners/vacancies/353679/,Junior,,,Not Specified,['Other'],False
+Front-end,Middle Strong Frontend Engineer (React / React Native),Easy Decision Recruitment Agency,https://jobs.dou.ua/companies/easy-decision-recruitment-agency/vacancies/353599/,Middle,2000.0,3000.0,react,['Remote Only'],True
+Front-end,Senior Software Engineer — Frontend (Core UX / Product Team),PandaDoc,https://jobs.dou.ua/companies/pandadoc/vacancies/353588/,Senior,,,Not Specified,['Київ'],True
+Front-end,Frontend Developer (Vue / Nuxt 3),MindSoft,https://jobs.dou.ua/companies/mindsoft/vacancies/353544/,Not Specified,,,vue,['Remote Only'],True
+Front-end,Junior Front-End Developer,TenThousand,https://jobs.dou.ua/companies/tenthousand/vacancies/353541/,Junior,400.0,800.0,Not Specified,['Київ'],False
+Front-end,Senior Frontend Developer (SEO focus),UPSTARS,https://jobs.dou.ua/companies/upstars/vacancies/353418/,Senior,,,Not Specified,['Remote Only'],True
+Front-end,Senior Frontend Developer (Conversational Spanish is mandatory),Anadea,https://jobs.dou.ua/companies/anadea/vacancies/353343/,Senior,,,Not Specified,['Remote Only'],True
+Front-end,Middle FrontEnd Developer (Conversational Spanish is mandatory),Anadea,https://jobs.dou.ua/companies/anadea/vacancies/353342/,Middle,,,Not Specified,['Remote Only'],True
+Front-end,Frontend + Backend Engineer,WinWin.Travel,https://jobs.dou.ua/companies/winwin-travel/vacancies/272960/,Not Specified,,,Not Specified,['Remote Only'],True
+Front-end,Front-end Developer (Angular),TRINITYQ,https://jobs.dou.ua/companies/trinityq/vacancies/78485/,Not Specified,,,angular,['Львів'],True
+Front-end,Senior Shopify Front-End Developer,Intellectsoft,https://jobs.dou.ua/companies/intellectsoft/vacancies/353171/,Senior,,,Not Specified,['Київ'],False
+Front-end,Senior Frontend Engineer (ЗСУ),Війська зв'язку та Кібербезпеки ЗСУ,https://jobs.dou.ua/companies/viiska-zvyazku-ta-kiberbezpeki-zsu/vacancies/353151/,Senior,,,Not Specified,['Київ'],False
+Front-end,Middle Manual QA Engineer (Front-end Focus),EVOPLAY,https://jobs.dou.ua/companies/evoplay/vacancies/327505/,Middle,,,Not Specified,['Remote Only'],True
+Front-end,Front-End Developer,EVOPLAY,https://jobs.dou.ua/companies/evoplay/vacancies/347391/,Not Specified,,,Not Specified,['Київ'],True
 Front-end,Junior Frontend Developer,!FESTCloud.ai,https://jobs.dou.ua/companies/festcloud-ai/vacancies/352987/,Junior,400.0,1000.0,Not Specified,['Львів'],False
-Front-end,FrontEnd Developer (React JS),Adtelligent,https://jobs.dou.ua/companies/adtelligent/vacancies/352953/,Not Specified,,,react,['Remote Only'],True
-Front-end,Frontend Magento2 Developer,Ven Commerce Ltd.,https://jobs.dou.ua/companies/ven-commerce-ltd/vacancies/352951/,Not Specified,,,Not Specified,['Remote Only'],True
+Front-end,Frontend Magento2‎ Developer,Ven Commerce Ltd.,https://jobs.dou.ua/companies/ven-commerce-ltd/vacancies/352951/,Not Specified,,,Not Specified,['Remote Only'],True
 Front-end,QA Engineer (Back/Front-end),Nova Digital,https://jobs.dou.ua/companies/nova-digital/vacancies/352897/,Not Specified,,,Not Specified,['Remote Only'],True
-Front-end,Frontend Developer,ThingsBoard,https://jobs.dou.ua/companies/thingsboard-inc/vacancies/347997/,Not Specified,,,Not Specified,['Київ'],False
 Front-end,Middle FullStack Developer (Python + Frontend),PipelogicAI,https://jobs.dou.ua/companies/pipelogicai/vacancies/352861/,Middle,,,Not Specified,['Київ'],False
-Front-end,Senior/Lead Front-end Developer (React),Agiliway,https://jobs.dou.ua/companies/agiliway/vacancies/352858/,Senior,,,react,['Other'],False
 Front-end,Middle Front-End Engineer,OBRIO,https://jobs.dou.ua/companies/obrio/vacancies/347586/,Middle,,,Not Specified,['Remote Only'],True
 Front-end,Lead Frontend Engineer (React),Zeely,https://jobs.dou.ua/companies/zeely-ai/vacancies/348286/,Senior,,,react,['Remote Only'],True
 Front-end,Frontend Engineer,WiX,https://jobs.dou.ua/companies/wix/vacancies/149049/,Not Specified,,,Not Specified,['Київ'],False
@@ -17,37 +38,34 @@ Front-end,Team Lead Front End (React) Developer,Academy SMART,https://jobs.dou.u
 Front-end,Front End Game Developer,Playtech,https://jobs.dou.ua/companies/playtech/vacancies/341594/,Not Specified,,,Not Specified,['Київ'],False
 Front-end,Senior Front-end Developer,Checkbox Group,https://jobs.dou.ua/companies/checkbox/vacancies/352557/,Senior,,,Not Specified,['Remote Only'],True
 Front-end,"Lead Full Stack Frontend Engineer (React.js, Node.js)",Atlaslive,https://jobs.dou.ua/companies/atlas/vacancies/352444/,Senior,,,react,['Remote Only'],True
-Front-end,Middle Front-End Developer,BRO.careers,https://jobs.dou.ua/companies/bro-careers/vacancies/352392/,Middle,,,Not Specified,['Київ'],True
-Front-end,Senior Front-End (React.js) Developer,Inoxoft,https://jobs.dou.ua/companies/inoxoft/vacancies/352380/,Senior,,,react,['Remote Only'],True
 Front-end,Senior Frontend Developer,Anadea,https://jobs.dou.ua/companies/anadea/vacancies/352288/,Senior,,,Not Specified,['Remote Only'],True
 Front-end,Intern front-end developer (Kyiv office),King Group,https://jobs.dou.ua/companies/king-group/vacancies/319386/,Not Specified,500.0,600.0,Not Specified,['Київ'],False
-Front-end,Senior Front-end Developer,YachtWay,https://jobs.dou.ua/companies/yachtway/vacancies/269738/,Senior,3500.0,4000.0,Not Specified,['Remote Only'],True
+Front-end,Senior Front-end Developer,YachtWay,https://jobs.dou.ua/companies/yachtway/vacancies/269738/,Senior,4000.0,4500.0,Not Specified,['Remote Only'],True
 Front-end,Middle Frontend React Developer,PayForce,https://jobs.dou.ua/companies/payforce/vacancies/352161/,Middle,,,react,['Київ'],False
+Front-end,Frontend Developer (React/TypeScript),Wildix,https://jobs.dou.ua/companies/wildix/vacancies/352149/,Not Specified,,,"react, typescript",['Remote Only'],True
 Front-end,Senior Frontend React Developer (only EU),A-listware,https://jobs.dou.ua/companies/a-listware/vacancies/351956/,Senior,,,react,['Other'],False
 Front-end,Frontend Developer,Fantik Studio,https://jobs.dou.ua/companies/fantik-studio/vacancies/351700/,Not Specified,300.0,700.0,Not Specified,['Remote Only'],True
 Front-end,Front-End Developer (next.js),Gameinspire,https://jobs.dou.ua/companies/gameinspire/vacancies/346727/,Not Specified,,,Not Specified,['Remote Only'],True
 Front-end,"Frontend Developer, based in Slovenia (JavaScript, TypeScript)",CQG,https://jobs.dou.ua/companies/cqg/vacancies/347112/,Not Specified,,,"javascript, typescript",['Remote Only'],True
 Front-end,Frontend/React розробник,Рекрутинговий центр СБС,https://jobs.dou.ua/companies/rekrutingovii-tsentr-sil-bezpilotnih-sistem/vacancies/332735/,Not Specified,1200.0,1200.0,react,Not Specified,False
-Front-end,Junior Frontend Developer (WordPress / Landing Pages),PSV Game Studio,https://jobs.dou.ua/companies/psv-game-studio/vacancies/351711/,Junior,,,Not Specified,['Remote Only'],True
+Front-end,Strong Junior Frontend Developer (WordPress / Landing Pages),PSV Game Studio,https://jobs.dou.ua/companies/psv-game-studio/vacancies/351711/,Junior,,,Not Specified,['Remote Only'],True
 Front-end,Frontend Lead,Keiki,https://jobs.dou.ua/companies/keiki/vacancies/341620/,Senior,,,Not Specified,['Київ'],False
 Front-end,Senior Frontend Engineer,Центр інновацій та розвитку оборонних технологій МОУ,https://jobs.dou.ua/companies/cidtd/vacancies/335461/,Senior,,,Not Specified,['Київ'],False
 Front-end,Senior Front end Developer (Vue.js),Qubit Labs,https://jobs.dou.ua/companies/qubit-labs/vacancies/336645/,Senior,,,vue,['Remote Only'],True
 Front-end,Hardware Developer (RF Front-End / SDR),Alfatec Group,https://jobs.dou.ua/companies/alfatec-group/vacancies/326084/,Not Specified,,,Not Specified,['Київ'],True
 Front-end,"Senior/Lead Frontend Developer (Slots, Pixi.js)",NeverEnding,https://jobs.dou.ua/companies/neverending/vacancies/351580/,Senior,,,Not Specified,['Remote Only'],True
+Front-end,Frontend Next.js / React Developer,Mobilunity,https://jobs.dou.ua/companies/mobilunity/vacancies/347091/,Not Specified,,,react,['Київ'],True
 Front-end,Middle Frontend/AI Developer (Telecommunication),Sigma Software,https://jobs.dou.ua/companies/sigma-software/vacancies/351475/,Middle,,,Not Specified,"['Київ', 'Львів', 'Івано-Франківськ', 'Вінниця', 'Одеса', 'Тернопіль', 'Чернівці']",True
-Front-end,Senior Frontend Engineer,Softsich,https://jobs.dou.ua/companies/softsich/vacancies/351473/,Senior,,,Not Specified,['Remote Only'],True
+Front-end,Senior Frontend Engineer,Softsich,https://jobs.dou.ua/companies/softsich/vacancies/351473/,Senior,,,Not Specified,['Other'],False
 Front-end,Strong Mid-Level Front-end React Developer,Zutobi,https://jobs.dou.ua/companies/zutobi/vacancies/284612/,Not Specified,,,react,['Remote Only'],True
 Front-end,Senior Frontend Developer,WorldTicket,https://jobs.dou.ua/companies/worldticket/vacancies/260633/,Senior,,,Not Specified,['Київ'],False
 Front-end,Senior Frontend Engineer (React),Binariks,https://jobs.dou.ua/companies/binariks/vacancies/351462/,Senior,,,react,['Remote Only'],True
 Front-end,Senior Front-End developer,Tango Me,https://jobs.dou.ua/companies/tango-me/vacancies/351421/,Senior,,,Not Specified,['Київ'],False
-Front-end,"Middle Front-end Developer (React.js) (Shifted schedule, start at 2 p.m.)",Agiliway,https://jobs.dou.ua/companies/agiliway/vacancies/351408/,Middle,,,react,"['Львів', 'Чернівці']",True
 Front-end,Frontend / Fullstack Developer (Mid-Level),Software Service and Innovation,https://jobs.dou.ua/companies/software-service-and-innovation/vacancies/351275/,Not Specified,,,Not Specified,['Львів'],False
 Front-end,"Middle/Senior Frontend Engineer (3D & Graphics) in Lisbon, Portugal",Mobilunity,https://jobs.dou.ua/companies/mobilunity/vacancies/351189/,Middle,,,Not Specified,['Other'],False
 Front-end,Frontend Team Lead,OXOIX,https://jobs.dou.ua/companies/oxoix/vacancies/351153/,Senior,,,Not Specified,['Remote Only'],True
 Front-end,Middle Front End Developer,ICONIC21,https://jobs.dou.ua/companies/iconic21/vacancies/351149/,Middle,,,Not Specified,['Remote Only'],True
 Front-end,"Senior Front-End Developer (React, Claude Code)",MWDN,https://jobs.dou.ua/companies/mwdn/vacancies/351144/,Senior,,,react,['Remote Only'],True
-Front-end,Front-end developer / Верстальник,DARTC,https://jobs.dou.ua/companies/dartc/vacancies/351095/,Not Specified,,,Not Specified,['Remote Only'],True
-Front-end,Senior Frontend Developer (only Odesa),Nayax Retail,https://jobs.dou.ua/companies/nayax-retail-ltd/vacancies/351094/,Senior,,,Not Specified,['Одеса'],False
 Front-end,Senior Front End Developer,Pwrteams,https://jobs.dou.ua/companies/pwrteams/vacancies/351064/,Senior,,,Not Specified,"['Київ', 'Львів']",True
 Front-end,Front-end Developer (Angular),CS Ltd,https://jobs.dou.ua/companies/cs-ltd/vacancies/341320/,Not Specified,,,angular,['Remote Only'],True
 Front-end,Senior Frontend Engineer (React),Open Bet,https://jobs.dou.ua/companies/open-bet/vacancies/287013/,Senior,,,react,['Львів'],False
@@ -55,12 +73,10 @@ Front-end,Frontend Tech Lead,Growe,https://jobs.dou.ua/companies/growe/vacancies
 Front-end,Angular Frontend Engineer,WeSoftYou,https://jobs.dou.ua/companies/wesoftyou/vacancies/350872/,Not Specified,,,angular,['Remote Only'],True
 Front-end,Middle Front-end Engineer,Howly,https://jobs.dou.ua/companies/howly/vacancies/331598/,Middle,,,Not Specified,['Київ'],False
 Front-end,"Викладач програмування у дитячу школу (HTML, CSS, JavaScript)",Logika,https://jobs.dou.ua/companies/logika/vacancies/336017/,Not Specified,240.0,500.0,"javascript, html, css",['Київ'],True
-Front-end,"Intern, Front End Engineer",HelloBiome,https://jobs.dou.ua/companies/hellobiome/vacancies/350810/,Not Specified,500.0,1000.0,Not Specified,['Remote Only'],True
 Front-end,Front end React engineer,SerpentiumSolutions,https://jobs.dou.ua/companies/serpentiumsolutions/vacancies/350795/,Not Specified,2300.0,2500.0,react,['Remote Only'],True
 Front-end,Lead Frontend Engineer (React),Kevych Solutions,https://jobs.dou.ua/companies/kevych-solutions/vacancies/350704/,Senior,,,react,['Львів'],False
-Front-end,Frontend Team Lead — TENTENS Tech,SKELAR,https://jobs.dou.ua/companies/skelar/vacancies/350619/,Senior,,,Not Specified,['Київ'],False
+Front-end,Frontend Developer (React/CSS),Qencode,https://jobs.dou.ua/companies/qencode/vacancies/350697/,Not Specified,,,"react, css","['Київ', 'Львів', 'Дніпро', 'Івано-Франківськ', 'Вінниця', 'Одеса', 'Харків', 'Чернівці', 'Черкаси', 'Хмельницький', 'Ужгород']",True
 Front-end,Front-end Developer,DiFFreight,https://jobs.dou.ua/companies/diffreight/vacancies/350597/,Not Specified,,,Not Specified,['Київ'],False
-Front-end,Senior Front-End Developer,Stape,https://jobs.dou.ua/companies/stape-inc/vacancies/345992/,Senior,,,Not Specified,['Remote Only'],True
 Front-end,"Middle+ Front-end developer (Vue, Nuxt)",Join UP!,https://jobs.dou.ua/companies/join-up/vacancies/350520/,Middle,,,vue,['Remote Only'],True
 Front-end,Senior Frontend Developer (React),talanovyti agency,https://jobs.dou.ua/companies/talanovyti-agency/vacancies/341457/,Senior,,,react,['Remote Only'],True
 Front-end,Frontend Developer (Angular) / UI Lead — Relocation to Oman,Introduct Group,https://jobs.dou.ua/companies/introduct/vacancies/342321/,Senior,,,angular,['Other'],False
@@ -69,33 +85,14 @@ Front-end,Frontend Shopify Developer,LegitGrails OÜ,https://jobs.dou.ua/compani
 Front-end,Staff Front-End Engineer (React/Next.js),ExpoPlatform,https://jobs.dou.ua/companies/expoplatform/vacancies/350394/,Not Specified,,,react,['Remote Only'],True
 Front-end,Frontend Developer (React),Brainstack,https://jobs.dou.ua/companies/brainstack/vacancies/350386/,Not Specified,,,react,['Київ'],False
 Front-end,Senior Frontend Developer (Vue / Nuxt),TrueLabel,https://jobs.dou.ua/companies/truelabel/vacancies/345676/,Senior,,,vue,['Remote Only'],True
-Front-end,"DevOps & Systems Architect | Backend Frontend Infrastructure (Remote, Part-time available)",Orange Uni,https://jobs.dou.ua/companies/orange-uni/vacancies/345178/,Senior,1750.0,2500.0,Not Specified,['Remote Only'],True
 Front-end,Front-end Developer,Mobizon,https://jobs.dou.ua/companies/mobizon/vacancies/350025/,Not Specified,1500.0,2500.0,Not Specified,['Київ'],True
 Front-end,"Middle Frontend Developer (React, office, Kyiv)",Delasport,https://jobs.dou.ua/companies/delasport/vacancies/349992/,Middle,,,react,['Київ'],False
-Front-end,Junior Front-End Developer,TenThousand,https://jobs.dou.ua/companies/tenthousand/vacancies/349985/,Junior,400.0,800.0,Not Specified,['Київ'],False
 Front-end,Manual QA Engineer (Frontend Focus),EVOPLAY,https://jobs.dou.ua/companies/evoplay/vacancies/349981/,Not Specified,,,Not Specified,['Remote Only'],True
 Front-end,Staff Software Engineer (Front-end),Empat,https://jobs.dou.ua/companies/empat/vacancies/349965/,Not Specified,,,Not Specified,['Київ'],True
 Front-end,Senior Front End Developer,Pwrteams,https://jobs.dou.ua/companies/pwrteams/vacancies/349843/,Senior,,,Not Specified,"['Київ', 'Львів']",True
 Front-end,Front End Software Engineer,Pwrteams,https://jobs.dou.ua/companies/pwrteams/vacancies/349834/,Not Specified,,,Not Specified,"['Київ', 'Львів']",True
 Front-end,"Frontend Developer (HTML, SCSS/SASS) з досвідом GSap",Rocket Company,https://jobs.dou.ua/companies/rocket-company/vacancies/349826/,Not Specified,1120.0,1600.0,"html, css",['Remote Only'],True
+Front-end,"Front-end розробник, військовослужбовець",17-та Полтавська бригада НГУ РЕЙД 2 корпус ХАРТІЯ,https://jobs.dou.ua/companies/17-ta-poltavska-brigada-ngu-reid/vacancies/344233/,Not Specified,1400.0,2800.0,Not Specified,Not Specified,False
 Front-end,"Middle/Senior Front-end Developer (JS, Angular)",Ardas,https://jobs.dou.ua/companies/ardas-group/vacancies/349818/,Middle,,,angular,['Remote Only'],True
 Front-end,Програміст Frontend React JavaScript (JS),ДП «Інформаційні судові системи»,https://jobs.dou.ua/companies/ics/vacancies/311460/,Not Specified,,,"react, javascript",['Київ'],True
 Front-end,Senior Frontend Developer (React Native),Gamingtec,https://jobs.dou.ua/companies/gamingtec/vacancies/344499/,Senior,,,react,['Remote Only'],True
-Front-end,Frontend Developer (React),ALLSTARSIT,https://jobs.dou.ua/companies/allstars-it/vacancies/349544/,Not Specified,,,react,['Remote Only'],True
-Front-end,Senior Frontend Developer (Angular),Bank Pivdenny,https://jobs.dou.ua/companies/pivdenny/vacancies/349440/,Senior,,,angular,['Одеса'],True
-Front-end,Frontend Developer,Readeat,https://jobs.dou.ua/companies/readeat/vacancies/339196/,Not Specified,2000.0,2000.0,Not Specified,['Remote Only'],True
-Front-end,Front-End Developer / Game Developer (Pixi.js),BePlay,https://jobs.dou.ua/companies/beplay/vacancies/349237/,Not Specified,,,Not Specified,['Remote Only'],True
-Front-end,Frontend Engineer — Wix Editor,WiX,https://jobs.dou.ua/companies/wix/vacancies/344881/,Not Specified,,,Not Specified,['Київ'],False
-Front-end,Frontend Engineer — AI Creation Team (Wix Harmony),WiX,https://jobs.dou.ua/companies/wix/vacancies/344699/,Not Specified,,,Not Specified,"['Київ', 'Дніпро']",False
-Front-end,Senior Frontend Developer for Rocket Tech,GR8 Tech,https://jobs.dou.ua/companies/gr8-tech/vacancies/349188/,Senior,,,Not Specified,['Remote Only'],True
-Front-end,Frontend Engineer — Editor Platform,WiX,https://jobs.dou.ua/companies/wix/vacancies/320654/,Not Specified,,,Not Specified,['Київ'],False
-Front-end,Senior Frontend Developer (Vue.js),Dripify,https://jobs.dou.ua/companies/dripify/vacancies/349126/,Senior,,,vue,['Remote Only'],True
-Front-end,Team Lead/Senior Front-End Developer,Attract Group,https://jobs.dou.ua/companies/attract-group/vacancies/348988/,Senior,,,Not Specified,['Remote Only'],True
-Front-end,"Senior Front-End Vue.js Developer (UX-focused, design engineering)",NCube,https://jobs.dou.ua/companies/ncube/vacancies/348931/,Senior,,,vue,['Київ'],True
-Front-end,Front-End Developer,DEVIRO,https://jobs.dou.ua/companies/deviro/vacancies/298249/,Not Specified,,,Not Specified,['Other'],False
-Front-end,Front-end Developer (Vue.js),VoIPTime,https://jobs.dou.ua/companies/voiptime/vacancies/254797/,Not Specified,,,vue,['Львів'],False
-Front-end,Middle Front End Engineer (Full-stack oriented),Matic,https://jobs.dou.ua/companies/matic/vacancies/348762/,Middle,,,Not Specified,['Львів'],False
-Front-end,Front-end developer,"""ІНФОТЕХ""",https://jobs.dou.ua/companies/derzhavne-pidpriyemstvo-infoteh/vacancies/348760/,Not Specified,,,Not Specified,['Київ'],False
-Front-end,Middle Front End Developer (React Native) (ID 391),HELSI,https://jobs.dou.ua/companies/tov-helsi-yua/vacancies/348743/,Middle,,,react,['Київ'],True
-Front-end,Senior Frontend Developer,Realplayltd,https://jobs.dou.ua/companies/realplayltd/vacancies/348624/,Senior,,,Not Specified,['Other'],False
-Front-end,Frontend engineer,Liven,https://jobs.dou.ua/companies/liven/vacancies/330021/,Not Specified,,,Not Specified,['Київ'],False
