@@ -1,291 +1,312 @@
 ﻿Category,Title,Company,URL,Grade,Salary_min,Salary_max,Skills,City_List,Is_Remote
-AI/ML,IT Recruiter (AI/ML direction),Alcor,https://jobs.dou.ua/companies/alcor/vacancies/353813/?from=list_hot,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,Remote Full-Stack Founding Engineer for FinTech AI product,Xenophon Strategies,https://jobs.dou.ua/companies/xenophon-strategies/vacancies/358334/?from=list_hot,Not Specified,4000.0,4000.0,Not Specified,['Remote Only'],True
 AI/ML,Data Labeling Specialist,SplendidScore Ukraine,https://jobs.dou.ua/companies/splendidscore/vacancies/237297/?from=list_hot,Not Specified,640.0,640.0,Not Specified,['Київ'],True
-AI/ML,Head of Design (AI + Video),FREITTY,https://jobs.dou.ua/companies/freitty/vacancies/347976/?from=list_hot,Not Specified,2000.0,2500.0,Not Specified,['Remote Only'],True
-AI/ML,Product Manager / AI Business Partner,ПУМБ,https://jobs.dou.ua/companies/fuib/vacancies/353459/?from=list_hot,Not Specified,2500.0,3000.0,Not Specified,['Київ'],True
-AI/ML,AI Operator,Spendbase,https://jobs.dou.ua/companies/spendbase/vacancies/353236/?from=list_hot,Not Specified,,,Not Specified,"['Київ', 'Львів']",True
-AI/ML,Lead AI/ML Engineer — Dressly,SKELAR,https://jobs.dou.ua/companies/skelar/vacancies/349813/?from=list_hot,Senior,,,Not Specified,['Київ'],True
-AI/ML,Content Strategist (SEO & AI),Lazarev.agency,https://jobs.dou.ua/companies/lazarev-agency/vacancies/353149/?from=list_hot,Not Specified,,,Not Specified,['Remote Only'],True
-AI/ML,RnD Engineer (CV + ML),Warbirds,https://jobs.dou.ua/companies/warbirds-boiovi-ptahi-ukraini/vacancies/341875/?from=list_hot,Not Specified,,,cv,['Київ'],False
-AI/ML,"Senior Unreal Engine C++ AI Developer Wanted! (Full-time, Remote)",CyberLight Game Studio,https://jobs.dou.ua/companies/cyberlight-game-studio/vacancies/352711/?from=list_hot,Senior,,,Not Specified,['Remote Only'],True
-AI/ML,AI Systems Engineer (Agentic Engineer),Competera,https://jobs.dou.ua/companies/competera/vacancies/348328/?from=list_hot,Not Specified,,,Not Specified,['Remote Only'],True
-AI/ML,AI Tech Lead (Business Solutions),Ideals,https://jobs.dou.ua/companies/ideals/vacancies/350577/?from=list_hot,Senior,,,Not Specified,['Remote Only'],True
-AI/ML,Full Stack Developer (AI),ПУМБ,https://jobs.dou.ua/companies/fuib/vacancies/352477/?from=list_hot,Not Specified,4500.0,5000.0,Not Specified,['Remote Only'],True
-AI/ML,Python Engineer (Aerospace / Computer Vision / Embedded AI),EPAM,https://jobs.dou.ua/companies/epam-systems/vacancies/349583/?from=list_hot,Not Specified,,,Not Specified,['Київ'],False
-AI/ML,"AI engineer (Python, Data Science, ML)",HRAVITY,https://jobs.dou.ua/companies/hravity/vacancies/345751/,Not Specified,,,Not Specified,['Remote Only'],True
-AI/ML,AI Product Owner,Dripify,https://jobs.dou.ua/companies/dripify/vacancies/354121/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,Python developer with AI,IT SmartFlex,https://jobs.dou.ua/companies/it-smartflex/vacancies/357643/?from=list_hot,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,ML-engineer (Building human-like chat bot),Interactive Online Technologies,https://jobs.dou.ua/companies/interactive-online-technologies/vacancies/272193/?from=list_hot,Not Specified,10000.0,15000.0,Not Specified,['Remote Only'],True
+AI/ML,AI Chief Product Officer (EverHelp),Genesis,https://jobs.dou.ua/companies/genesis-technology-partners/vacancies/352517/?from=list_hot,Not Specified,,,Not Specified,"['Київ', 'Львів']",True
+AI/ML,Data Science Engineer,Intellias,https://jobs.dou.ua/companies/intellias/vacancies/353817/?from=list_hot,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,AI Video Creator / ШІ Відео-монтажер(ка) | Home Services,Unicorn Pro,https://jobs.dou.ua/companies/unicorn-pro/vacancies/353741/?from=list_hot,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,"Computer Vision Engineer (slam, vio)",NDA Recruitment,https://jobs.dou.ua/companies/nda-recruitment/vacancies/325484/?from=list_hot,Not Specified,,,Not Specified,"['Київ', 'Львів']",False
+AI/ML,AI Content Manager — Leaply,SKELAR,https://jobs.dou.ua/companies/skelar/vacancies/358411/,Not Specified,,,Not Specified,"['Київ', 'Львів', 'Дніпро']",True
+AI/ML,Senior .NET AI Software Engineer,EPAM,https://jobs.dou.ua/companies/epam-systems/vacancies/358406/,Senior,,,Not Specified,"['Київ', 'Львів', 'Дніпро', 'Івано-Франківськ', 'Вінниця', 'Одеса', 'Харків', 'Чернівці', 'Черкаси', 'Хмельницький', 'Ужгород']",True
+AI/ML,"TTS/STT Engineer (Senior / Middle / Junior, Voice AI)",Unbreakable Ukraine Foundation,https://jobs.dou.ua/companies/unbreakable-ukraine-foundation/vacancies/358383/,Junior,1000.0,3500.0,Not Specified,['Remote Only'],True
+AI/ML,AI Showrunner — Storyby,SKELAR,https://jobs.dou.ua/companies/skelar/vacancies/358349/,Not Specified,,,Not Specified,['Київ'],False
+AI/ML,AI Content Producer — Storyby,SKELAR,https://jobs.dou.ua/companies/skelar/vacancies/358348/,Not Specified,,,Not Specified,['Київ'],False
 AI/ML,С++ developer (Machine Learning),Absolutist,https://jobs.dou.ua/companies/absolutist/vacancies/304415/,Not Specified,,,Not Specified,['Дніпро'],False
-AI/ML,Growth Manager — AI Photo App — Supported relocation to Barcelona,VP Team,https://jobs.dou.ua/companies/vpteam/vacancies/354116/,Not Specified,,,Not Specified,['Remote Only'],True
-AI/ML,Senior AI Engineer,VCHASNO GROUP,https://jobs.dou.ua/companies/vchasno-group/vacancies/354076/,Senior,,,Not Specified,['Remote Only'],True
-AI/ML,AI Content Creator,Laba Group,https://jobs.dou.ua/companies/laba/vacancies/354049/,Not Specified,,,Not Specified,['Київ'],True
-AI/ML,ML/AI Engineer,National Bank of Ukraine,https://jobs.dou.ua/companies/national-bank-of-ukraine/vacancies/344731/,Not Specified,,,Not Specified,['Київ'],False
-AI/ML,AI Engineer / Full-Stack Developer,MindK,https://jobs.dou.ua/companies/mindk/vacancies/354031/,Not Specified,,,Not Specified,['Remote Only'],True
-AI/ML,"Python AI Developer (RAG, LLM, Claude)",CyberCraft,https://jobs.dou.ua/companies/cybercraft/vacancies/353983/,Not Specified,,,Not Specified,['Львів'],True
-AI/ML,ML-focused Backend Engineer (Realtime/Inference/Highload),A-listware,https://jobs.dou.ua/companies/a-listware/vacancies/353972/,Not Specified,,,Not Specified,['Remote Only'],True
-AI/ML,Strong junior or Middle Data analyst у сферу AI,Artellence,https://jobs.dou.ua/companies/artellence/vacancies/353967/,Junior,,,Not Specified,['Київ'],True
-AI/ML,AI Product Manager,Everstar,https://jobs.dou.ua/companies/everstar/vacancies/349475/,Not Specified,,,Not Specified,['Київ'],False
-AI/ML,AI Automation Engineer,MEGOGO,https://jobs.dou.ua/companies/megogonet-/vacancies/353922/,Not Specified,,,Not Specified,['Київ'],False
-AI/ML,Frontend Engineer — AI Creation Team (Wix Harmony),WiX,https://jobs.dou.ua/companies/wix/vacancies/344699/,Not Specified,,,Not Specified,"['Київ', 'Дніпро']",False
-AI/ML,AI Engineer,EPAM,https://jobs.dou.ua/companies/epam-systems/vacancies/353876/,Not Specified,,,Not Specified,"['Київ', 'Львів', 'Дніпро', 'Івано-Франківськ', 'Вінниця', 'Одеса', 'Харків', 'Чернівці', 'Черкаси', 'Хмельницький', 'Ужгород']",True
-AI/ML,AI-Augmented Developer (Angular and C#),Codify,https://jobs.dou.ua/companies/codify/vacancies/307595/,Not Specified,,,Not Specified,['Remote Only'],True
-AI/ML,AI Product Manager,Scaleo,https://jobs.dou.ua/companies/scaleo/vacancies/353850/,Not Specified,,,Not Specified,['Other'],False
-AI/ML,Senior Sales Representative (Healthcare AI),Altris AI,https://jobs.dou.ua/companies/altris-ai/vacancies/353844/,Senior,,,Not Specified,['Remote Only'],True
-AI/ML,AI Backend Developer (Node.js),CML Team LTD,https://jobs.dou.ua/companies/cml-team-ltd/vacancies/353838/,Not Specified,2000.0,4500.0,Not Specified,['Remote Only'],True
-AI/ML,Senior AI Engineer,Osavul,https://jobs.dou.ua/companies/osavul/vacancies/304463/,Senior,,,Not Specified,['Remote Only'],True
-AI/ML,AI/Data Science Engineer (monoмаркет),mono,https://jobs.dou.ua/companies/mono/vacancies/344875/,Not Specified,,,Not Specified,"['Київ', 'Дніпро']",True
-AI/ML,Junior AI Researcher,JATAPP,https://jobs.dou.ua/companies/jatapp/vacancies/353827/,Junior,,,Not Specified,['Київ'],True
-AI/ML,AI Developer,WEBXLOO,https://jobs.dou.ua/companies/webxloo/vacancies/348432/,Not Specified,10.0,28.0,Not Specified,['Remote Only'],True
-AI/ML,Technical Lead / AI Adoption Lead,Softermii,https://jobs.dou.ua/companies/softermii/vacancies/353788/,Senior,,,Not Specified,['Remote Only'],True
-AI/ML,"Business Development Manager (LinkedIn Outbound, AI Products)",Workeron.AI,https://jobs.dou.ua/companies/workeron-ai/vacancies/353782/,Not Specified,1500.0,2000.0,Not Specified,['Remote Only'],True
-AI/ML,PR AI Growth Manager (Part-time / Fulltime),Workeron.AI,https://jobs.dou.ua/companies/workeron-ai/vacancies/353780/,Not Specified,1500.0,2000.0,Not Specified,['Remote Only'],True
-AI/ML,AI Creative Designer (Performance Ads:AI / UGC),Workeron.AI,https://jobs.dou.ua/companies/workeron-ai/vacancies/353777/,Not Specified,1000.0,1500.0,Not Specified,['Remote Only'],True
-AI/ML,ML OPS (hourly based salary 30 USD/h),SerpentiumSolutions,https://jobs.dou.ua/companies/serpentiumsolutions/vacancies/353770/,Not Specified,5000.0,5000.0,Not Specified,['Remote Only'],True
-AI/ML,AI Computer Vision Lead,Quantum Systems Ukraine,https://jobs.dou.ua/companies/quantum-systems-ukraine/vacancies/353757/,Senior,,,Not Specified,['Київ'],False
-AI/ML,AI Video Creator / ШІ Відео-монтажер(ка) | Home Services,Unicorn Pro,https://jobs.dou.ua/companies/unicorn-pro/vacancies/353741/,Not Specified,,,Not Specified,['Remote Only'],True
-AI/ML,"AI Systems Engineer (Vision Edge, Real-World Systems)",КРУК СмартТех,https://jobs.dou.ua/companies/ukrsmartteh/vacancies/353740/,Not Specified,2500.0,4000.0,Not Specified,['Київ'],False
-AI/ML,Middle Strong/Senior Gen AI Engineer (R&D Hub),ПриватБанк,https://jobs.dou.ua/companies/privatbank/vacancies/344243/,Middle,,,Not Specified,['Київ'],True
-AI/ML,Senior AI/ML Engineer — Dressly,SKELAR,https://jobs.dou.ua/companies/skelar/vacancies/353734/,Senior,,,Not Specified,['Київ'],True
-AI/ML,"CTO / Head of Engineering (Hands-on, AI Agents)",Workeron.AI,https://jobs.dou.ua/companies/workeron-ai/vacancies/353728/,Not Specified,8000.0,10000.0,Not Specified,['Remote Only'],True
-AI/ML,BPM Solution Engineer (Camunda / RPA / AI),Bank Pivdenny,https://jobs.dou.ua/companies/pivdenny/vacancies/349388/,Not Specified,,,Not Specified,['Київ'],True
-AI/ML,Copywriter / SEO Content Manager (AI / SaaS),Workeron.AI,https://jobs.dou.ua/companies/workeron-ai/vacancies/353726/,Not Specified,1600.0,2500.0,Not Specified,['Remote Only'],True
-AI/ML,Senior Python Developer (AI/ML),Materialspace,https://jobs.dou.ua/companies/materialspace/vacancies/353725/,Senior,,,Not Specified,['Remote Only'],True
-AI/ML,SMM AI / Content Distribution & Growth Specialist,Workeron.AI,https://jobs.dou.ua/companies/workeron-ai/vacancies/353724/,Not Specified,1600.0,2500.0,Not Specified,['Remote Only'],True
-AI/ML,Senior Full-Stack Engineer (Node.js / React / Python / AI / AdTech),MWDN,https://jobs.dou.ua/companies/mwdn/vacancies/349213/,Senior,,,Not Specified,['Remote Only'],True
-AI/ML,Senior Growth Marketer/Brand manager (AI),Workeron.AI,https://jobs.dou.ua/companies/workeron-ai/vacancies/353720/,Senior,2000.0,4000.0,Not Specified,['Remote Only'],True
-AI/ML,Senior Backend Engineer (LLM & AI Infrastructure),CodeTiburon,https://jobs.dou.ua/companies/codetiburon/vacancies/348924/,Senior,6000.0,6000.0,Not Specified,['Remote Only'],True
+AI/ML,Фахівець із впровадження ШІ (ЗСУ),Війська зв'язку та Кібербезпеки ЗСУ,https://jobs.dou.ua/companies/viiska-zvyazku-ta-kiberbezpeki-zsu/vacancies/332989/,Not Specified,,,Not Specified,['Київ'],False
+AI/ML,AI Automation Engineer,Rentberry,https://jobs.dou.ua/companies/rentberry/vacancies/358343/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,Full-Stack Developer — Python / React / AI Tooling,SixthSense Technology,https://jobs.dou.ua/companies/sixthsense-technology/vacancies/358336/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,AI Technical Lead,8allocate,https://jobs.dou.ua/companies/8allocate/vacancies/358324/,Senior,,,Not Specified,['Remote Only'],True
+AI/ML,AI Product Manager (Process & Automation),Cieden,https://jobs.dou.ua/companies/cieden/vacancies/358304/,Not Specified,,,Not Specified,['Other'],False
+AI/ML,Machine Learning Team Lead,TemaBit Fozzy Group,https://jobs.dou.ua/companies/fozzy/vacancies/358263/,Senior,,,Not Specified,['Київ'],False
+AI/ML,Senior Cloud Engineer (Azure ML Platform); ID 100914,SoftServe,https://jobs.dou.ua/companies/softserve/vacancies/358247/,Senior,,,Not Specified,"['Київ', 'Львів', 'Дніпро', 'Івано-Франківськ', 'Вінниця', 'Одеса', 'Тернопіль', 'Харків', 'Чернівці', 'Полтава', 'Луцьк', 'Хмельницький', 'Ужгород', 'Рівне']",True
+AI/ML,AI Enablement Specialist,Alty,https://jobs.dou.ua/companies/alty/vacancies/358235/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,AI Creator / AI Motion Designer,Clario,https://jobs.dou.ua/companies/clario/vacancies/358233/,Not Specified,,,Not Specified,['Київ'],True
+AI/ML,Senior Ruby on Rails Backend Developer — AI Integrations,Dewais,https://jobs.dou.ua/companies/dewais/vacancies/358206/,Senior,,,Not Specified,['Remote Only'],True
+AI/ML,AI Payment Operations Specialist,Boosters,https://jobs.dou.ua/companies/boosters-product-team/vacancies/358204/,Not Specified,,,Not Specified,"['Київ', 'Львів']",True
+AI/ML,SMM Content Creator (AI native),Mindly,https://jobs.dou.ua/companies/mindly/vacancies/358198/,Not Specified,,,Not Specified,['Київ'],False
 AI/ML,Junior/Middle TypeScript/Python Developer with AI Experience,COXIT,https://jobs.dou.ua/companies/coxit/vacancies/316289/,Junior,1000.0,3900.0,Not Specified,['Remote Only'],True
-AI/ML,ML / Computer Vision Engineer (Guru Apps),Universe Group,https://jobs.dou.ua/companies/universe/vacancies/339410/,Not Specified,,,Not Specified,['Київ'],False
-AI/ML,Junior Automation & Integration Engineer (AI-enabled),ПрАТ БАНК ФАМІЛЬНИЙ,https://jobs.dou.ua/companies/prat-bank-familnii/vacancies/271233/,Junior,600.0,600.0,Not Specified,['Київ'],False
-AI/ML,AI/ML Engineer,429 окрема бригада безпілотних систем «АХІЛЛЕС»,https://jobs.dou.ua/companies/achilles_429brigade/vacancies/353690/,Not Specified,500.0,1500.0,Not Specified,Not Specified,False
-AI/ML,Lead/Senior AI FullStack Software Engineer,playme-studio,https://jobs.dou.ua/companies/playme-studio/vacancies/353650/,Senior,,,Not Specified,['Київ'],True
-AI/ML,AI Software Engineer (Python),EPAM,https://jobs.dou.ua/companies/epam-systems/vacancies/353643/,Not Specified,,,Not Specified,"['Київ', 'Львів', 'Дніпро', 'Івано-Франківськ', 'Вінниця', 'Одеса', 'Харків', 'Чернівці', 'Черкаси', 'Хмельницький', 'Ужгород']",True
-AI/ML,AI Automation Engineer,Vira Games,https://jobs.dou.ua/companies/vira-games/vacancies/331960/,Not Specified,,,Not Specified,['Remote Only'],True
-AI/ML,Senior TypeScript/Python Developer with AI Experience,COXIT,https://jobs.dou.ua/companies/coxit/vacancies/291410/,Senior,4000.0,6000.0,Not Specified,['Remote Only'],True
-AI/ML,CTO AI Center of Excellence,Дія,https://jobs.dou.ua/companies/thedigital/vacancies/353576/,Not Specified,,,Not Specified,['Київ'],False
-AI/ML,Senior Engagement Specialist/Growth Hacker in AI,AltexSoft,https://jobs.dou.ua/companies/altexsoft/vacancies/342638/,Senior,,,Not Specified,['Remote Only'],True
-AI/ML,AI Solution Architect,Sense Bank,https://jobs.dou.ua/companies/sensebank/vacancies/324207/,Senior,,,Not Specified,['Київ'],True
-AI/ML,Senior .NET AI Software Engineer,NCube,https://jobs.dou.ua/companies/ncube/vacancies/346339/,Senior,,,Not Specified,['Київ'],True
-AI/ML,Senior/Lead ML Engineer (with experience in building and deploying ML models from scratch),Agiliway,https://jobs.dou.ua/companies/agiliway/vacancies/353550/,Senior,,,Not Specified,"['Львів', 'Чернівці']",True
-AI/ML,Lead Generation Specialist AI & Automation,Program-Ace,https://jobs.dou.ua/companies/program-ace/vacancies/353539/,Senior,,,Not Specified,['Remote Only'],True
-AI/ML,AI Engineer,Valor Software,https://jobs.dou.ua/companies/valor-software-solutions/vacancies/353498/,Not Specified,,,Not Specified,['Remote Only'],True
-AI/ML,Technology & AI Strategy Lead (CTO),Sprinterra,https://jobs.dou.ua/companies/sprinterra/vacancies/353474/,Senior,,,Not Specified,['Remote Only'],True
-AI/ML,Методист курсів з програмування та AI,GoITeens,https://jobs.dou.ua/companies/goiteens/vacancies/353450/,Not Specified,600.0,800.0,Not Specified,['Київ'],True
-AI/ML,AI Specialist,Growe Talents,https://jobs.dou.ua/companies/growe-talents/vacancies/353410/,Not Specified,,,Not Specified,['Other'],False
-AI/ML,Senior ML & AI Engineer,SPD Technology,https://jobs.dou.ua/companies/spd-technology/vacancies/317131/,Senior,,,Not Specified,['Київ'],True
-AI/ML,AI Automation Specialist Senior,Uklon,https://jobs.dou.ua/companies/uklon/vacancies/353368/,Senior,,,Not Specified,['Київ'],False
-AI/ML,Chief AI Officer,Дія,https://jobs.dou.ua/companies/thedigital/vacancies/353365/,Not Specified,,,Not Specified,['Київ'],False
-AI/ML,AI Agent Developer,epoché,https://jobs.dou.ua/companies/epoche/vacancies/353364/,Not Specified,,,Not Specified,['Remote Only'],True
-AI/ML,LLM Systems Engineer / AI Infrastructure Engineer,Everstar,https://jobs.dou.ua/companies/everstar/vacancies/348542/,Not Specified,,,Not Specified,['Київ'],False
-AI/ML,Senior AI Agent Developer / Senior AI Product Builder,Workeron.AI,https://jobs.dou.ua/companies/workeron-ai/vacancies/353300/,Senior,4500.0,4500.0,Not Specified,['Remote Only'],True
-AI/ML,MLOps Engineer,CHI Software,https://jobs.dou.ua/companies/chi-software/vacancies/353255/,Not Specified,,,Not Specified,"['Львів', 'Харків']",True
-AI/ML,AI Bot Tester / Voice AI Bot Engineer (Trainee/Junior),SPsoft,https://jobs.dou.ua/companies/spsoft/vacancies/353208/,Junior,,,Not Specified,['Remote Only'],True
-AI/ML,AI Software Engineer (Python),All Right,https://jobs.dou.ua/companies/allright/vacancies/348304/,Not Specified,,,Not Specified,['Remote Only'],True
-AI/ML,AI Design Engineer (Middle),Cieden,https://jobs.dou.ua/companies/cieden/vacancies/337323/,Middle,,,Not Specified,['Remote Only'],True
-AI/ML,"AI, ML Engineer",ADVIN GLOBAL,https://jobs.dou.ua/companies/advin/vacancies/353177/,Not Specified,,,Not Specified,['Київ'],True
-AI/ML,Senior AI Engineer (#5081),N-iX,https://jobs.dou.ua/companies/n-ix/vacancies/261522/,Senior,,,Not Specified,"['Київ', 'Львів', 'Дніпро', 'Івано-Франківськ', 'Вінниця', 'Тернопіль']",True
-AI/ML,Middle/Senior Machine Learning Engineer (#4721),N-iX,https://jobs.dou.ua/companies/n-ix/vacancies/258401/,Middle,,,Not Specified,"['Київ', 'Львів', 'Дніпро', 'Івано-Франківськ', 'Вінниця', 'Тернопіль']",True
-AI/ML,Intern/Junior AI Researcher,SToFU,https://jobs.dou.ua/companies/stofu/vacancies/177756/,Junior,1300.0,1700.0,Not Specified,['Remote Only'],True
-AI/ML,AI/ML Engineer,BTRY.ENERGY,https://jobs.dou.ua/companies/btry-energy/vacancies/348483/,Not Specified,2500.0,2500.0,Not Specified,['Київ'],False
-AI/ML,Software Development Engineer (MLOps),SPD Technology,https://jobs.dou.ua/companies/spd-technology/vacancies/343858/,Not Specified,,,Not Specified,['Remote Only'],True
-AI/ML,Senior AI/ML Engineer,Infineon Technologies,https://jobs.dou.ua/companies/infineon-technologies/vacancies/353113/,Senior,,,Not Specified,['Львів'],False
-AI/ML,"Senior International Lawyer (EU, GDPR, AI Act)",Artellence,https://jobs.dou.ua/companies/artellence/vacancies/353105/,Senior,,,Not Specified,['Київ'],True
-AI/ML,Grant manager (AI сфера),Artellence,https://jobs.dou.ua/companies/artellence/vacancies/353085/,Not Specified,,,Not Specified,['Київ'],True
-AI/ML,Operations manager (AI сфера),Artellence,https://jobs.dou.ua/companies/artellence/vacancies/353084/,Not Specified,,,Not Specified,['Київ'],True
-AI/ML,"Project manager (business team, AI сфера)",Artellence,https://jobs.dou.ua/companies/artellence/vacancies/353083/,Not Specified,,,Not Specified,['Київ'],True
-AI/ML,Machine Learning Engineer (Contractor),Lemberg Solutions,https://jobs.dou.ua/companies/lemberg-solutions/vacancies/353058/,Not Specified,,,Not Specified,"['Львів', 'Луцьк', 'Рівне']",True
-AI/ML,Principal AI Engineer,Adaptiq,https://jobs.dou.ua/companies/adaptiq/vacancies/353040/,Not Specified,,,Not Specified,['Remote Only'],True
-AI/ML,AI Tech Lead,Adaptiq,https://jobs.dou.ua/companies/adaptiq/vacancies/353039/,Senior,,,Not Specified,['Remote Only'],True
-AI/ML,AI Image & Video Generation Specialist (Skilled in ComfyUI),HUBB,https://jobs.dou.ua/companies/hubb/vacancies/353022/,Not Specified,,,Not Specified,['Remote Only'],True
-AI/ML,Middle General QA Engineer (with AI experience),Relevant Software,https://jobs.dou.ua/companies/relevant-software/vacancies/353019/,Middle,,,Not Specified,['Remote Only'],True
-AI/ML,AI Web Developer,Arctic Web,https://jobs.dou.ua/companies/arctic-web/vacancies/342254/,Not Specified,600.0,800.0,Not Specified,['Remote Only'],True
-AI/ML,AI SDLC Consultant,Sombra,https://jobs.dou.ua/companies/sombra/vacancies/352990/,Not Specified,,,Not Specified,"['Київ', 'Львів', 'Івано-Франківськ']",True
-AI/ML,Lead AI Engineer — Agentic Products & Platform,Simulmedia,https://jobs.dou.ua/companies/simulmedia/vacancies/352989/,Senior,,,Not Specified,"['Київ', 'Львів']",True
-AI/ML,Senior AI Agent Engineer,Waverley,https://jobs.dou.ua/companies/waverley-software/vacancies/352963/,Senior,,,Not Specified,"['Львів', 'Харків']",True
-AI/ML,AI Engineer,OBRIO,https://jobs.dou.ua/companies/obrio/vacancies/292303/,Not Specified,,,Not Specified,['Київ'],True
-AI/ML,Machine Learning Engineer (Reinforcement Learning for UAV),Everstar,https://jobs.dou.ua/companies/everstar/vacancies/348437/,Not Specified,,,Not Specified,['Київ'],False
-AI/ML,Creative UI/UX & AI Designer,Evogence,https://jobs.dou.ua/companies/evogence/vacancies/352933/,Not Specified,,,Not Specified,['Remote Only'],True
-AI/ML,Machine learning engineer,Artellence,https://jobs.dou.ua/companies/artellence/vacancies/352922/,Not Specified,,,Not Specified,['Remote Only'],True
-AI/ML,AI and Self-Service Specialist Middle,Uklon,https://jobs.dou.ua/companies/uklon/vacancies/352916/,Middle,,,Not Specified,['Київ'],False
-AI/ML,AI Video Creator,HOLYWATER TECH,https://jobs.dou.ua/companies/holy-water/vacancies/340146/,Not Specified,,,Not Specified,['Київ'],True
-AI/ML,AI Python Developer,NGM,https://jobs.dou.ua/companies/ngm-agency/vacancies/352878/,Not Specified,,,Not Specified,['Remote Only'],True
-AI/ML,Python AI Developer Intern,QAntum,https://jobs.dou.ua/companies/qantum-one/vacancies/347352/,Not Specified,,,Not Specified,['Remote Only'],True
-AI/ML,Senior AI Software Engineer,Forte Group,https://jobs.dou.ua/companies/forte-group/vacancies/352813/,Senior,,,Not Specified,"['Київ', 'Тернопіль']",True
-AI/ML,Тренер курсу з вайбкодингу (Vibe Coding Trainer),Web Academy,https://jobs.dou.ua/companies/web-academy/vacancies/340753/,Not Specified,,,Not Specified,['Remote Only'],True
-AI/ML,Machine Learning Engineer (NLP / ASR Focus),SoftElegance,https://jobs.dou.ua/companies/softelegance/vacancies/352757/,Not Specified,,,nlp,['Remote Only'],True
-AI/ML,"Data Scientist/ML Engineer (Part/Full time, Remote in Lviv )",MindCraft.ai,https://jobs.dou.ua/companies/mindcraft/vacancies/54684/,Not Specified,1000.0,2500.0,Not Specified,['Remote Only'],True
-AI/ML,Social Media and Content Manager (B2B / AI),iForAI,https://jobs.dou.ua/companies/iforai/vacancies/352738/,Not Specified,,,Not Specified,['Черкаси'],False
-AI/ML,Senior AI Agent Developer (Python),Symphony Solutions,https://jobs.dou.ua/companies/symphony-solutions/vacancies/348002/,Senior,,,Not Specified,['Remote Only'],True
-AI/ML,AI Content Producer,BetterMe,https://jobs.dou.ua/companies/betterme/vacancies/347898/,Not Specified,,,Not Specified,['Remote Only'],True
-AI/ML,Senior AI Engineer,Automat-it,https://jobs.dou.ua/companies/automat-it/vacancies/342313/,Senior,,,Not Specified,['Remote Only'],True
-AI/ML,Strong Junior / Middle SEO Specialist (з фокусом на AI),Idea Digital Agency,https://jobs.dou.ua/companies/idea-digital-agency/vacancies/343118/,Junior,1000.0,1700.0,Not Specified,['Remote Only'],True
-AI/ML,AI Specialist,"ТОВ ""Укр Кредит Финанс""",https://jobs.dou.ua/companies/tov-ukr-kredit-finans/vacancies/347381/,Not Specified,,,Not Specified,['Remote Only'],True
-AI/ML,AI Content Creator (Image ads),Zeely,https://jobs.dou.ua/companies/zeely-ai/vacancies/321937/,Not Specified,,,Not Specified,['Remote Only'],True
-AI/ML,Lead ML Engineer (Computer Vision) — Interview Expert (#5002),N-iX,https://jobs.dou.ua/companies/n-ix/vacancies/293631/,Senior,,,Not Specified,"['Київ', 'Львів', 'Дніпро', 'Івано-Франківськ', 'Вінниця', 'Тернопіль']",True
-AI/ML,"UI/UX Designer with AI Expertise (Freelance, part-time)",Relevant Software,https://jobs.dou.ua/companies/relevant-software/vacancies/352675/,Not Specified,,,Not Specified,['Remote Only'],True
-AI/ML,Computer Vision Engineer,The Fourth Law,https://jobs.dou.ua/companies/thefourthlaw-ai/vacancies/342262/,Not Specified,,,Not Specified,['Київ'],True
-AI/ML,Machine Learning Engineer,The Fourth Law,https://jobs.dou.ua/companies/thefourthlaw-ai/vacancies/342263/,Not Specified,,,Not Specified,['Київ'],True
-AI/ML,Senior ML Engineer (Computer Vision),Kultprosvet,https://jobs.dou.ua/companies/kultprosvet/vacancies/347431/,Senior,,,Not Specified,['Дніпро'],True
-AI/ML,Project Manager with AI /LLM Experience,ЗАЗМІК,https://jobs.dou.ua/companies/zazmic/vacancies/352577/,Not Specified,,,Not Specified,['Дніпро'],True
-AI/ML,GenAI Practice Lead,TechMagic,https://jobs.dou.ua/companies/techmagic/vacancies/352554/,Senior,,,Not Specified,"['Київ', 'Львів']",True
-AI/ML,AI/ML Engineer,OKKO Group,https://jobs.dou.ua/companies/okko-group/vacancies/352547/,Not Specified,,,Not Specified,['Львів'],False
-AI/ML,Senior AI Engineer,DraftKings,https://jobs.dou.ua/companies/draftkings/vacancies/352529/,Senior,,,Not Specified,['Київ'],True
-AI/ML,ML Project Manager,PlantIn,https://jobs.dou.ua/companies/plantin/vacancies/352482/,Not Specified,,,Not Specified,['Київ'],True
-AI/ML,AI Engineer (державні проєкти),SKARB,https://jobs.dou.ua/companies/skarb/vacancies/338194/,Not Specified,,,Not Specified,['Київ'],False
-AI/ML,Senior AI Engineer (LLM/RAG/LangChain/LangGraph),EPAM,https://jobs.dou.ua/companies/epam-systems/vacancies/352466/,Senior,,,Not Specified,"['Київ', 'Львів', 'Дніпро', 'Івано-Франківськ', 'Вінниця', 'Одеса', 'Харків', 'Чернівці', 'Черкаси', 'Хмельницький', 'Ужгород']",True
-AI/ML,Middle AI/ML Engineer,Geniusee,https://jobs.dou.ua/companies/geniusee/vacancies/352465/,Middle,,,Not Specified,"['Київ', 'Львів']",True
-AI/ML,Content Writer (AI topics),Railsware,https://jobs.dou.ua/companies/railsware/vacancies/352438/,Not Specified,,,Not Specified,['Remote Only'],True
-AI/ML,AI Motion Designer,playme-studio,https://jobs.dou.ua/companies/playme-studio/vacancies/343775/,Not Specified,,,Not Specified,['Київ'],True
-AI/ML,Python Backend Engineer (with AI / ML focus),Sunvery,https://jobs.dou.ua/companies/sunvery/vacancies/352414/,Not Specified,4500.0,4500.0,Not Specified,['Remote Only'],True
-AI/ML,Middle/Senior NLP Engineer,CHI Software,https://jobs.dou.ua/companies/chi-software/vacancies/352366/,Middle,,,nlp,"['Львів', 'Харків']",True
-AI/ML,Product Manager (AI for business customers),ПриватБанк,https://jobs.dou.ua/companies/privatbank/vacancies/352340/,Not Specified,,,Not Specified,['Remote Only'],True
-AI/ML,AI/ML Engineer,LITSLINK,https://jobs.dou.ua/companies/litslink/vacancies/352282/,Not Specified,,,Not Specified,['Remote Only'],True
-AI/ML,Content Writer,Label Your Data,https://jobs.dou.ua/companies/label-your-data/vacancies/352262/,Not Specified,,,Not Specified,['Remote Only'],True
-AI/ML,Marketing AI Designer,Breeze,https://jobs.dou.ua/companies/breeze/vacancies/352239/,Not Specified,,,Not Specified,['Remote Only'],True
-AI/ML,AI Automation Engineer,All Right,https://jobs.dou.ua/companies/allright/vacancies/352211/,Not Specified,,,Not Specified,['Remote Only'],True
-AI/ML,"Project/Product Manager (Legacy, Migration & AI)",HUBB,https://jobs.dou.ua/companies/hubb/vacancies/352208/,Not Specified,,,Not Specified,['Remote Only'],True
-AI/ML,AI automation engineer,EPC Network,https://jobs.dou.ua/companies/epc-network/vacancies/352176/,Not Specified,,,Not Specified,['Other'],False
-AI/ML,Machine Learning Engineer / Data Scientist,Proffiz,https://jobs.dou.ua/companies/proffiz/vacancies/352097/,Not Specified,,,Not Specified,['Remote Only'],True
-AI/ML,Senior AI Engineer,ELEKS,https://jobs.dou.ua/companies/eleks/vacancies/352068/,Senior,,,Not Specified,"['Київ', 'Львів', 'Івано-Франківськ', 'Тернопіль']",False
-AI/ML,Generative AI designer (Visual & Video Creation),Beetroot,https://jobs.dou.ua/companies/beetroot/vacancies/352056/,Not Specified,,,Not Specified,"['Київ', 'Львів', 'Івано-Франківськ', 'Одеса', 'Полтава']",True
-AI/ML,AI Solution Architect,Sigma Software,https://jobs.dou.ua/companies/sigma-software/vacancies/352034/,Senior,,,Not Specified,"['Київ', 'Львів', 'Дніпро', 'Івано-Франківськ', 'Вінниця', 'Одеса', 'Тернопіль', 'Чернівці', 'Полтава', 'Черкаси', 'Луцьк']",True
-AI/ML,AI Engineer,appflame,https://jobs.dou.ua/companies/appflame/vacancies/352033/,Not Specified,,,Not Specified,['Київ'],True
-AI/ML,AI Engineer,Grid Dynamics,https://jobs.dou.ua/companies/grid-dynamics/vacancies/352022/,Not Specified,,,Not Specified,"['Київ', 'Львів', 'Дніпро', 'Харків']",True
-AI/ML,"Founding Engineer (RAG, AI agents, Node.js)",DOIT Software,https://jobs.dou.ua/companies/doit-software/vacancies/351971/,Not Specified,,,Not Specified,['Remote Only'],True
-AI/ML,"Founding Engineer (RAG, AI agents, Node.js)",DOIT Software,https://jobs.dou.ua/companies/doit-software/vacancies/351970/,Not Specified,,,Not Specified,['Remote Only'],True
-AI/ML,AI Creative Designer,BetterMe,https://jobs.dou.ua/companies/betterme/vacancies/335938/,Not Specified,,,Not Specified,['Remote Only'],True
-AI/ML,AI Builder (data/product dep),Beetroot,https://jobs.dou.ua/companies/beetroot/vacancies/351927/,Not Specified,,,Not Specified,"['Київ', 'Львів', 'Івано-Франківськ', 'Одеса', 'Полтава']",False
-AI/ML,Product Marketing Manager (AI SaaS Product),SupportYourApp,https://jobs.dou.ua/companies/supportyourapp/vacancies/351915/,Not Specified,,,Not Specified,['Київ'],True
-AI/ML,Middle ML Engineer,Pearl (JustAnswer),https://jobs.dou.ua/companies/justanswer/vacancies/347306/,Middle,,,Not Specified,['Remote Only'],True
-AI/ML,Platform+Python/JS Engineer,Data Science UA,https://jobs.dou.ua/companies/data-science-ua/vacancies/351847/,Not Specified,,,Not Specified,['Remote Only'],True
-AI/ML,GTM Automation Builder (AI & CRM),YozmaTech,https://jobs.dou.ua/companies/yozma-tech/vacancies/346813/,Not Specified,,,Not Specified,['Remote Only'],True
-AI/ML,Motion Designer / AI Video Editor — PawChamp,SKELAR,https://jobs.dou.ua/companies/skelar/vacancies/343694/,Not Specified,,,Not Specified,['Київ'],False
-AI/ML,Senior/Lead Python Software Engineer for AI Retraining,EPAM,https://jobs.dou.ua/companies/epam-systems/vacancies/351773/,Senior,,,Not Specified,"['Київ', 'Львів', 'Дніпро', 'Івано-Франківськ', 'Вінниця', 'Одеса', 'Харків', 'Чернівці', 'Черкаси', 'Хмельницький', 'Ужгород']",True
-AI/ML,Strong Middle AI Integration Engineer,MintyMint,https://jobs.dou.ua/companies/mintymint/vacancies/351764/,Middle,3500.0,4500.0,Not Specified,['Remote Only'],True
-AI/ML,AI Engineer (Chat Moderation),SPRIBE,https://jobs.dou.ua/companies/spribe/vacancies/351760/,Not Specified,,,Not Specified,['Київ'],True
-AI/ML,"Senior AI Engineer (LangChain, LangGraph, RAG)",Viseven Group,https://jobs.dou.ua/companies/viseven/vacancies/334852/,Senior,,,Not Specified,['Remote Only'],True
-AI/ML,Senior ML Engineer,MacPaw,https://jobs.dou.ua/companies/macpaw/vacancies/326215/,Senior,,,Not Specified,['Київ'],True
-AI/ML,Senior Data Scientist — Product / Tabular ML (NXJ-129),Newxel,https://jobs.dou.ua/companies/newxel/vacancies/347298/,Senior,,,Not Specified,['Київ'],True
-AI/ML,Senior CV Engineer (Navigation/UAV),Airlogix,https://jobs.dou.ua/companies/airlogix/vacancies/344636/,Senior,,,cv,['Remote Only'],True
-AI/ML,"Tech Lead Full Stack Engineer (Python, React, AI/LLM) (#4419)",N-iX,https://jobs.dou.ua/companies/n-ix/vacancies/342283/,Senior,,,Not Specified,"['Київ', 'Львів', 'Дніпро', 'Івано-Франківськ', 'Вінниця', 'Тернопіль']",True
-AI/ML,Senior CV/ML Research Engineer,Центр інновацій та розвитку оборонних технологій МОУ,https://jobs.dou.ua/companies/cidtd/vacancies/335296/,Senior,,,cv,['Київ'],False
-AI/ML,Senior LLM / AI Engineer,Empat,https://jobs.dou.ua/companies/empat/vacancies/351658/,Senior,,,Not Specified,['Remote Only'],True
-AI/ML,Senior Full- stack Engineer (with AI expertise),NCube,https://jobs.dou.ua/companies/ncube/vacancies/351653/,Senior,,,Not Specified,['Київ'],True
-AI/ML,Middle Business Analyst (AI Automation projects),Geniusee,https://jobs.dou.ua/companies/geniusee/vacancies/351633/,Middle,,,Not Specified,['Remote Only'],True
-AI/ML,Head of AI Transformation,Growe,https://jobs.dou.ua/companies/growe/vacancies/351600/,Not Specified,,,Not Specified,['Remote Only'],True
-AI/ML,Senior AI Engineer,Intellectsoft,https://jobs.dou.ua/companies/intellectsoft/vacancies/351585/,Senior,,,Not Specified,['Київ'],True
-AI/ML,Senior AI/ML Engineer (with .NET background),Sombra,https://jobs.dou.ua/companies/sombra/vacancies/351572/,Senior,,,Not Specified,"['Київ', 'Львів', 'Івано-Франківськ']",True
-AI/ML,B2B Sales Manager (AI / SaaS),Бізнес-Конструктор,https://jobs.dou.ua/companies/business-constructor/vacancies/351568/,Not Specified,1000.0,3000.0,Not Specified,['Remote Only'],True
-AI/ML,AI-розробник,Maya B LLC,https://jobs.dou.ua/companies/maya-b/vacancies/345643/,Not Specified,900.0,1300.0,Not Specified,['Remote Only'],True
-AI/ML,AI Video Editor (DTC Health and Wellness),Partners HR Agency,https://jobs.dou.ua/companies/partners-hr-agency--hire-with-us/vacancies/351556/,Not Specified,2500.0,5000.0,Not Specified,['Remote Only'],True
-AI/ML,Backend Python AI Engineer,CHI Software,https://jobs.dou.ua/companies/chi-software/vacancies/346907/,Not Specified,,,Not Specified,"['Львів', 'Харків']",True
-AI/ML,Computer Vision Engineer,NDA Recruitment,https://jobs.dou.ua/companies/nda-recruitment/vacancies/325489/,Not Specified,,,Not Specified,"['Київ', 'Львів']",True
-AI/ML,"Computer Vision Engineer (slam, vio)",NDA Recruitment,https://jobs.dou.ua/companies/nda-recruitment/vacancies/325484/,Not Specified,,,Not Specified,['Київ'],False
-AI/ML,Intern AI Marketing manager,finerd,https://jobs.dou.ua/companies/finerd/vacancies/346991/,Not Specified,,,Not Specified,['Remote Only'],True
-AI/ML,Middle+ Machine Learning Engineer,Gismart,https://jobs.dou.ua/companies/gismart_com/vacancies/351484/,Middle,,,Not Specified,['Київ'],True
-AI/ML,Middle Frontend/AI Developer (Telecommunication),Sigma Software,https://jobs.dou.ua/companies/sigma-software/vacancies/351475/,Middle,,,Not Specified,"['Київ', 'Львів', 'Івано-Франківськ', 'Вінниця', 'Одеса', 'Тернопіль', 'Чернівці']",True
-AI/ML,AI Automation Engineer,memoryOS,https://jobs.dou.ua/companies/memoryos/vacancies/351455/,Not Specified,,,Not Specified,['Remote Only'],True
-AI/ML,Junior AI / Prompt Engineer,Wise IT,https://jobs.dou.ua/companies/wise-it/vacancies/351431/,Junior,,,Not Specified,['Київ'],False
-AI/ML,AI Content Manager (Beauty Tech),SKELAR,https://jobs.dou.ua/companies/skelar/vacancies/346367/,Not Specified,,,Not Specified,['Remote Only'],True
-AI/ML,Automation AI Engineer — Leaply,SKELAR,https://jobs.dou.ua/companies/skelar/vacancies/346940/,Not Specified,,,Not Specified,['Remote Only'],True
-AI/ML,Senior Azure Data & ML Architect,SWAN Software Solutions,https://jobs.dou.ua/companies/swan-software-solution/vacancies/351387/,Senior,,,Not Specified,['Київ'],True
-AI/ML,Marketing Automation Engineer,BetterMe,https://jobs.dou.ua/companies/betterme/vacancies/351375/,Not Specified,,,Not Specified,['Київ'],True
-AI/ML,Digital Content Creator (AI & Visual Production),INCHKYIV,https://jobs.dou.ua/companies/ooo-aj-en-si-ejch-kiev-inchkiev/vacancies/346894/,Not Specified,,,Not Specified,['Київ'],True
-AI/ML,AI Solutions Engineer,Philip Morris Ukraine,https://jobs.dou.ua/companies/philip-morris-ukraine/vacancies/351361/,Not Specified,,,Not Specified,['Київ'],True
-AI/ML,AI Engineer (Image/Video Generation),Zeely,https://jobs.dou.ua/companies/zeely-ai/vacancies/351354/,Not Specified,,,Not Specified,['Remote Only'],True
-AI/ML,Senior Full-Stack Engineer (AI SaaS),Mobilunity,https://jobs.dou.ua/companies/mobilunity/vacancies/351327/,Senior,,,Not Specified,['Київ'],True
-AI/ML,Computer Vision Engineer (UAV),3ka,https://jobs.dou.ua/companies/3ka/vacancies/351313/,Not Specified,3000.0,3000.0,Not Specified,['Київ'],False
-AI/ML,AI Engineer,Empeek,https://jobs.dou.ua/companies/empeek/vacancies/351294/,Not Specified,,,Not Specified,['Львів'],True
-AI/ML,ML Engineer,Devico,https://jobs.dou.ua/companies/devico/vacancies/351237/,Not Specified,,,Not Specified,['Remote Only'],True
-AI/ML,Senior Full-Stack Research Engineer,Adaptiq,https://jobs.dou.ua/companies/adaptiq/vacancies/351216/,Senior,,,Not Specified,['Remote Only'],True
-AI/ML,AI Creative Producer,Repalm,https://jobs.dou.ua/companies/repalm/vacancies/351195/,Not Specified,,,Not Specified,['Remote Only'],True
-AI/ML,Junior Python Developer (AI Team),Ajax Systems,https://jobs.dou.ua/companies/ajax-systems/vacancies/346585/,Junior,,,Not Specified,['Київ'],False
-AI/ML,Senior ML Engineer,Ощадбанк,https://jobs.dou.ua/companies/at-oschadbank/vacancies/333864/,Senior,,,Not Specified,['Remote Only'],True
-AI/ML,Computer Vision Engineer,Око Камера,https://jobs.dou.ua/companies/oko-camera/vacancies/328058/,Not Specified,,,Not Specified,['Київ'],False
-AI/ML,Middle AI Engineer (.Net),HRAVITY,https://jobs.dou.ua/companies/hravity/vacancies/351109/,Middle,,,Not Specified,['Remote Only'],True
-AI/ML,AI Creator (Guru Apps),Universe Group,https://jobs.dou.ua/companies/universe/vacancies/351077/,Not Specified,,,Not Specified,['Remote Only'],True
-AI/ML,"Senior AI/ML Engineer, Agentic AI Platform",IGIS,https://jobs.dou.ua/companies/igis/vacancies/351023/,Senior,,,Not Specified,['Київ'],True
-AI/ML,Founding Machine Learning Engineer (Recommendations + GenAI),Gamingtec,https://jobs.dou.ua/companies/gamingtec/vacancies/351015/,Not Specified,,,Not Specified,['Remote Only'],True
-AI/ML,Intern QA (AI),SQUAD,https://jobs.dou.ua/companies/squad/vacancies/351004/,Not Specified,,,Not Specified,['Київ'],False
-AI/ML,AI Engineer,talanovyti agency,https://jobs.dou.ua/companies/talanovyti-agency/vacancies/350967/,Not Specified,,,Not Specified,['Київ'],False
-AI/ML,AI Agents Engineer,Genesis,https://jobs.dou.ua/companies/genesis-technology-partners/vacancies/350956/,Not Specified,,,Not Specified,['Remote Only'],True
-AI/ML,AI Product Engineer,Genesis,https://jobs.dou.ua/companies/genesis-technology-partners/vacancies/350954/,Not Specified,,,Not Specified,['Remote Only'],True
-AI/ML,Senior AI Marketing Manager (Ohayu at Genesis),Genesis,https://jobs.dou.ua/companies/genesis-technology-partners/vacancies/350948/,Senior,,,Not Specified,['Remote Only'],True
-AI/ML,Senior Computer Vision / ML Engineer (Автономні системи — Drones),A19Lab.com,https://jobs.dou.ua/companies/a19lab/vacancies/285535/,Senior,4000.0,4000.0,Not Specified,['Київ'],True
-AI/ML,"Senior strategic marketing manager (B2B, AI сфера)",Artellence,https://jobs.dou.ua/companies/artellence/vacancies/350907/,Senior,,,Not Specified,['Київ'],False
-AI/ML,AI Agent Architect,toogeza,https://jobs.dou.ua/companies/toogeza/vacancies/350906/,Senior,,,Not Specified,['Remote Only'],True
-AI/ML,"Head of Sales (B2B, AI та finance сфера)",Artellence,https://jobs.dou.ua/companies/artellence/vacancies/350904/,Not Specified,,,Not Specified,['Київ'],False
-AI/ML,Junior Strong QA Engineer,StartupSoft,https://jobs.dou.ua/companies/startup-soft/vacancies/350885/,Junior,,,Not Specified,"['Львів', 'Тернопіль']",True
-AI/ML,Senior Full-Stack Developer (React + Python / AI SaaS Platform),Exclusive Personal Training,https://jobs.dou.ua/companies/exclusive-personal-training/vacancies/349652/,Senior,,,Not Specified,['Remote Only'],True
-AI/ML,AI Automation & Research Specialist,Onicore,https://jobs.dou.ua/companies/onicore/vacancies/350855/,Not Specified,,,Not Specified,['Remote Only'],True
-AI/ML,Senior Python Engineer (with DevOps & ML/LLM experience) EU countries,AZinec,https://jobs.dou.ua/companies/azinec-development-team/vacancies/350827/,Senior,4500.0,5000.0,Not Specified,['Remote Only'],True
-AI/ML,Enterprise AI Architect (Consultant / Contractor),P-Product,https://jobs.dou.ua/companies/p-product/vacancies/350823/,Senior,,,Not Specified,['Remote Only'],True
-AI/ML,MLOps Engineer,NDA Recruitment,https://jobs.dou.ua/companies/nda-recruitment/vacancies/341263/,Not Specified,,,Not Specified,['Київ'],False
-AI/ML,Senior/Lead Machine Learning Engineer,Pearl (JustAnswer),https://jobs.dou.ua/companies/justanswer/vacancies/332727/,Senior,,,Not Specified,"['Львів', 'Ужгород']",True
-AI/ML,AI Engineer (Generative AI),Techbar,https://jobs.dou.ua/companies/techbar/vacancies/314953/,Not Specified,,,Not Specified,['Remote Only'],True
-AI/ML,AI Python Engineer,Techbar,https://jobs.dou.ua/companies/techbar/vacancies/331495/,Not Specified,,,Not Specified,['Remote Only'],True
-AI/ML,AI Research & Adoption Specialist,ROZETKA,https://jobs.dou.ua/companies/rozetka-ua-internet-supermarket/vacancies/307468/,Not Specified,,,Not Specified,['Remote Only'],True
-AI/ML,"AI/ML Engineer (LLM, Agents)",Web Legends,https://jobs.dou.ua/companies/web-legends/vacancies/295588/,Not Specified,,,Not Specified,['Remote Only'],True
-AI/ML,Керівник напрямку впровадження штучного інтелекту,JSC Universal Bank,https://jobs.dou.ua/companies/universal-bank/vacancies/350812/,Not Specified,,,Not Specified,['Київ'],False
-AI/ML,Junior AI Developer,Group107,https://jobs.dou.ua/companies/group107/vacancies/350809/,Junior,,,Not Specified,['Remote Only'],True
-AI/ML,DevOps(ML / LLM Infrastructure),Kyivstar.Tech,https://jobs.dou.ua/companies/kyivstar-tech/vacancies/350803/,Not Specified,,,Not Specified,['Remote Only'],True
-AI/ML,AI Product Manager,AllCares,https://jobs.dou.ua/companies/allcares/vacancies/350775/,Not Specified,,,Not Specified,['Remote Only'],True
-AI/ML,AI Motion Designer,Liven,https://jobs.dou.ua/companies/liven/vacancies/350759/,Not Specified,,,Not Specified,['Київ'],True
-AI/ML,Senior Machine Learning Engineer,airSlate,https://jobs.dou.ua/companies/airslate/vacancies/350746/,Senior,,,Not Specified,['Other'],False
-AI/ML,AI Content \Automation Specialist,eSputnik,https://jobs.dou.ua/companies/esputnik/vacancies/350741/,Not Specified,,,Not Specified,['Remote Only'],True
-AI/ML,Senior MLOps Engineer (expAIndOS),uSoftware,https://jobs.dou.ua/companies/usoftware/vacancies/350672/,Senior,6500.0,6500.0,Not Specified,['Львів'],True
-AI/ML,Embedded ML Engineer,INNONEERS,https://jobs.dou.ua/companies/innoneers/vacancies/350691/,Not Specified,5000.0,6000.0,Not Specified,['Remote Only'],True
-AI/ML,ML Engineer / Data Scientist,Clockwise Software,https://jobs.dou.ua/companies/clockwise-software/vacancies/346253/,Not Specified,,,Not Specified,['Дніпро'],True
-AI/ML,Senior Server Engineer — AI Chatbot,WiX,https://jobs.dou.ua/companies/wix/vacancies/293154/,Senior,,,Not Specified,['Київ'],False
-AI/ML,"Founding Engineer (RAG, AI agents, Node.js)",DOIT Software,https://jobs.dou.ua/companies/doit-software/vacancies/350629/,Not Specified,,,Not Specified,['Remote Only'],True
-AI/ML,ML-engineer (Building human-like chat bot),Interactive Online Technologies,https://jobs.dou.ua/companies/interactive-online-technologies/vacancies/272193/,Not Specified,10000.0,15000.0,Not Specified,['Remote Only'],True
-AI/ML,"Data Scientist/ML Engineer (classic ML, Deep Learning)",Dataobrii,https://jobs.dou.ua/companies/dataobrii/vacancies/328508/,Not Specified,2500.0,3500.0,Not Specified,['Remote Only'],True
-AI/ML,AI Product Owner,Vodafone Україна,https://jobs.dou.ua/companies/vodafone-ukraine/vacancies/350603/,Not Specified,,,Not Specified,['Київ'],False
-AI/ML,Senior Machine Learning Engineer,DoD Solution,https://jobs.dou.ua/companies/dod-solution/vacancies/319731/,Senior,,,Not Specified,['Львів'],False
-AI/ML,ML/AI-фахівець (розробка систем для БпАК та аналітики),Рекрутинговий центр СБС,https://jobs.dou.ua/companies/rekrutingovii-tsentr-sil-bezpilotnih-sistem/vacancies/336339/,Not Specified,1200.0,1200.0,Not Specified,Not Specified,False
-AI/ML,"Analytics Engineer (DBT, Looker, ML)",Sphere Partners,https://jobs.dou.ua/companies/sphere-consulting/vacancies/350555/,Not Specified,,,Not Specified,"['Київ', 'Харків']",True
-AI/ML,Software Engineer (ML Infrastructure & Distributed Systems),Military Tech,https://jobs.dou.ua/companies/military-tech/vacancies/350517/,Not Specified,,,Not Specified,['Київ'],True
-AI/ML,Senior Talent Acquisition Specialist (AI Products),Inception-1,https://jobs.dou.ua/companies/inception-one/vacancies/350478/,Senior,,,Not Specified,['Київ'],True
-AI/ML,AI Transformation Lead,MODUS X,https://jobs.dou.ua/companies/modus-x/vacancies/350465/,Senior,,,Not Specified,['Київ'],True
-AI/ML,Middle ML & AI Engineer,SPD Technology,https://jobs.dou.ua/companies/spd-technology/vacancies/350444/,Middle,,,Not Specified,['Remote Only'],True
-AI/ML,Lead Hardware Engineer (Embedded AI & Drone Systems),DoD Solution,https://jobs.dou.ua/companies/dod-solution/vacancies/337257/,Senior,,,Not Specified,['Львів'],False
-AI/ML,Automation Marketing Manager,Maya B LLC,https://jobs.dou.ua/companies/maya-b/vacancies/350417/,Not Specified,950.0,1150.0,Not Specified,['Remote Only'],True
-AI/ML,AI Solution Specialist,MODUS X,https://jobs.dou.ua/companies/modus-x/vacancies/345911/,Not Specified,,,Not Specified,['Київ'],True
-AI/ML,Middle Full-Stack Developer (AI focus),GeeksForLess,https://jobs.dou.ua/companies/geeksforless/vacancies/350333/,Middle,,,Not Specified,['Other'],False
-AI/ML,Presale AI Engineer (Data Solutions) (#1129),ZONE3000,https://jobs.dou.ua/companies/zone3000/vacancies/350328/,Not Specified,,,Not Specified,['Remote Only'],True
-AI/ML,ML Engineer / Data Scientist,Flyaps,https://jobs.dou.ua/companies/flyaps/vacancies/294734/,Not Specified,,,Not Specified,['Remote Only'],True
-AI/ML,"Senior AI Engineer (React, Node.js)",SevenPro,https://jobs.dou.ua/companies/sevenpro/vacancies/350175/,Senior,,,Not Specified,"['Київ', 'Харків']",True
-AI/ML,Machine Learning Engineer,WiX,https://jobs.dou.ua/companies/wix/vacancies/335516/,Not Specified,,,Not Specified,['Київ'],False
-AI/ML,"Senior Full-Stack Developer (Laravel, React, AI)",Awesomic,https://jobs.dou.ua/companies/awesomic/vacancies/278710/,Senior,,,Not Specified,['Remote Only'],True
-AI/ML,Co-Founder (AI B2B SaaS),SYNCO,https://jobs.dou.ua/companies/synco/vacancies/350124/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,AI Automation Engineer,MEGOGO,https://jobs.dou.ua/companies/megogonet-/vacancies/353922/,Not Specified,,,Not Specified,['Київ'],False
+AI/ML,Senior Python ML Engineer,CHI Software,https://jobs.dou.ua/companies/chi-software/vacancies/358178/,Senior,,,Not Specified,"['Львів', 'Харків']",True
+AI/ML,Senior Growth Marketing Manager (AI),Workeron.AI,https://jobs.dou.ua/companies/workeron-ai/vacancies/353720/,Senior,3000.0,6500.0,Not Specified,['Remote Only'],True
+AI/ML,Middle Full-Stack Developer + AI,BotsCrew,https://jobs.dou.ua/companies/botscrew/vacancies/358163/,Middle,,,Not Specified,['Львів'],False
+AI/ML,"Senior International Lawyer (EU, GDPR, AI Act)",Artellence,https://jobs.dou.ua/companies/artellence/vacancies/358159/,Senior,,,Not Specified,['Київ'],True
+AI/ML,"Project manager (business team, AI сфера)",Artellence,https://jobs.dou.ua/companies/artellence/vacancies/358158/,Not Specified,,,Not Specified,['Київ'],True
+AI/ML,AI/Data Science Engineer (monoмаркет),mono,https://jobs.dou.ua/companies/mono/vacancies/344875/,Not Specified,,,Not Specified,"['Київ', 'Дніпро']",True
+AI/ML,AI Full-Stack Engineer,Genesis,https://jobs.dou.ua/companies/genesis-technology-partners/vacancies/358153/,Not Specified,,,Not Specified,"['Київ', 'Львів']",True
 AI/ML,Спеціаліст зі штучного інтелекту,"ТОВ ""Нафтогаз Цифрові Технології""",https://jobs.dou.ua/companies/tov-naftogaz-tsifrovi-tehnologiji/vacancies/350101/,Not Specified,,,Not Specified,['Київ'],False
-AI/ML,AI growth marketing specialist,Xenoss,https://jobs.dou.ua/companies/xenoss/vacancies/350098/,Not Specified,,,Not Specified,['Remote Only'],True
-AI/ML,Machine Learning Engineer,Intelliarts,https://jobs.dou.ua/companies/intelliarts/vacancies/345632/,Not Specified,4000.0,4500.0,Not Specified,['Львів'],False
-AI/ML,Full-Stack AI Engineer (.NET + React),We Make MVP,https://jobs.dou.ua/companies/wemakemvp/vacancies/350046/,Not Specified,,,Not Specified,['Remote Only'],True
-AI/ML,Product Analyst (AI/Utilities),JATAPP,https://jobs.dou.ua/companies/jatapp/vacancies/334405/,Not Specified,,,Not Specified,['Київ'],True
+AI/ML,AI Creator (Marketing),Headway Inc,https://jobs.dou.ua/companies/headway-inc/vacancies/358127/,Not Specified,,,Not Specified,['Київ'],True
+AI/ML,Lead/Senior AI FullStack Software Engineer,playme-studio,https://jobs.dou.ua/companies/playme-studio/vacancies/353650/,Senior,,,Not Specified,['Київ'],True
+AI/ML,AI Product Owner,UKRSIBTECH,https://jobs.dou.ua/companies/ukrsibbank/vacancies/336877/,Not Specified,,,Not Specified,['Київ'],False
+AI/ML,Product Engineer (Fullstack),COPYMIND,https://jobs.dou.ua/companies/copymind/vacancies/358069/,Not Specified,,,Not Specified,['Київ'],False
+AI/ML,"AI Engineer, GTM Systems",YachtWay,https://jobs.dou.ua/companies/yachtway/vacancies/358055/,Not Specified,4000.0,5000.0,Not Specified,['Remote Only'],True
+AI/ML,Full Stack Engineer AI / API,UKRSIBTECH,https://jobs.dou.ua/companies/ukrsibbank/vacancies/358031/,Not Specified,,,Not Specified,"['Київ', 'Харків']",True
+AI/ML,Senior Full-Stack Engineer (Node.js / React / Python / AI / AdTech),MWDN,https://jobs.dou.ua/companies/mwdn/vacancies/349213/,Senior,,,Not Specified,['Remote Only'],True
+AI/ML,Senior SaaS Account Executive / B2B Sales Hunter (AI for eCommerce),ValsyDev,https://jobs.dou.ua/companies/valsydev/vacancies/358024/,Senior,1000.0,1800.0,Not Specified,['Remote Only'],True
+AI/ML,"Writer / SMM Specialist (GameDev, IT, AI Content)",RetroStyle Games,https://jobs.dou.ua/companies/retrostyle-games/vacancies/358021/,Not Specified,,,Not Specified,['Київ'],False
+AI/ML,AI Data Engineer,Sigma Software,https://jobs.dou.ua/companies/sigma-software/vacancies/358003/,Not Specified,,,Not Specified,"['Київ', 'Львів', 'Дніпро', 'Івано-Франківськ', 'Вінниця', 'Одеса', 'Харків']",True
+AI/ML,AI Creative Designer,BetterMe,https://jobs.dou.ua/companies/betterme/vacancies/335938/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,Head of Finance (Fintech + AI),FLEXIFAI,https://jobs.dou.ua/companies/flexifai/vacancies/357944/,Not Specified,5000.0,5000.0,Not Specified,['Київ'],True
+AI/ML,"Staff AI Engineer, Conversation Intelligence Systems",Xenoss,https://jobs.dou.ua/companies/xenoss/vacancies/357882/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,Senior AI Deployment Engineer (Industrial Systems),Digis,https://jobs.dou.ua/companies/digis/vacancies/357868/,Senior,,,Not Specified,['Remote Only'],True
+AI/ML,Middle Organic Growth Specialist (SEO & AI) for SaaS/IT,Growpad,https://jobs.dou.ua/companies/growpad/vacancies/357792/,Middle,1500.0,2000.0,Not Specified,['Remote Only'],True
+AI/ML,AI Automation Specialist Senior,Uklon,https://jobs.dou.ua/companies/uklon/vacancies/353368/,Senior,,,Not Specified,['Київ'],False
+AI/ML,AI Process owner of Product Design,lalafo,https://jobs.dou.ua/companies/lalafo/vacancies/357714/,Not Specified,,,Not Specified,"['Київ', 'Черкаси']",True
+AI/ML,AI Content Producer,BetterMe,https://jobs.dou.ua/companies/betterme/vacancies/347898/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,Computer Vision / Machine Learning Specialist (Autonomous Systems),Crunch-IS,https://jobs.dou.ua/companies/crunch-is/vacancies/357681/,Not Specified,,,Not Specified,['Львів'],False
+AI/ML,Middle Business Analyst (AI Automation projects),Geniusee,https://jobs.dou.ua/companies/geniusee/vacancies/351633/,Middle,,,Not Specified,['Remote Only'],True
+AI/ML,AI/ML Developer (Senior-level),Civitta,https://jobs.dou.ua/companies/civitta/vacancies/357660/,Senior,,,Not Specified,['Other'],False
+AI/ML,"Project/Product Manager (Legacy, Migration & AI)",HUBB,https://jobs.dou.ua/companies/hubb/vacancies/357655/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,AI Operator,Spendbase,https://jobs.dou.ua/companies/spendbase/vacancies/353236/,Not Specified,,,Not Specified,"['Київ', 'Львів']",True
+AI/ML,Software Development Engineer (MLOps),SPD Technology,https://jobs.dou.ua/companies/spd-technology/vacancies/343858/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,Senior Python developer (AI/LLM + LangGraph),Workeron.AI,https://jobs.dou.ua/companies/workeron-ai/vacancies/357622/,Senior,4000.0,6000.0,Not Specified,['Remote Only'],True
+AI/ML,"Middle AI/ML Engineer (Python, LLM, NLP/CV)",Inoxoft,https://jobs.dou.ua/companies/inoxoft/vacancies/357601/,Middle,2000.0,2500.0,"nlp, cv",['Remote Only'],True
+AI/ML,AI/ML Engineer (Computer Vision),YozmaTech,https://jobs.dou.ua/companies/yozma-tech/vacancies/346813/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,AI Engineer,SpaceWhale,https://jobs.dou.ua/companies/spacewhale/vacancies/357570/,Not Specified,,,Not Specified,['Київ'],True
+AI/ML,"Founding Engineer (RAG, AI agents, Node.js)",DOIT Software,https://jobs.dou.ua/companies/doit-software/vacancies/357550/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,"Founding Engineer (RAG, AI agents, Node.js)",DOIT Software,https://jobs.dou.ua/companies/doit-software/vacancies/357548/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,AI Engineer,United Tech,https://jobs.dou.ua/companies/united-tech/vacancies/357484/,Not Specified,,,Not Specified,['Київ'],True
+AI/ML,Senior/Lead Python Engineer with AI,EPAM,https://jobs.dou.ua/companies/epam-systems/vacancies/357456/,Senior,,,Not Specified,"['Київ', 'Львів', 'Дніпро', 'Івано-Франківськ', 'Вінниця', 'Одеса', 'Харків', 'Чернівці', 'Черкаси', 'Хмельницький', 'Ужгород']",True
+AI/ML,Senior Python AI Developer for Healthcare platform,Bookimed,https://jobs.dou.ua/companies/bookimed/vacancies/342439/,Senior,,,Not Specified,['Remote Only'],True
+AI/ML,Senior Data Scientist / ML,EchoGlobal,https://jobs.dou.ua/companies/echoua/vacancies/357443/,Senior,,,Not Specified,['Remote Only'],True
+AI/ML,Senior Full- stack Engineer (with AI expertise),NCube,https://jobs.dou.ua/companies/ncube/vacancies/357441/,Senior,,,Not Specified,['Київ'],True
+AI/ML,Data Science Infrastructure Software Engineer [GenAI] — hybrid work in Warsaw,Synergetica,https://jobs.dou.ua/companies/synergetica/vacancies/357435/,Not Specified,,,Not Specified,['Other'],False
+AI/ML,Agentic AI Specialist,Valant,https://jobs.dou.ua/companies/valant/vacancies/357430/,Not Specified,,,Not Specified,['Харків'],True
+AI/ML,AI Engineer (Speech),Kyivstar,https://jobs.dou.ua/companies/kyivstar/vacancies/357423/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,Senior AI Engineer (Python),NCube,https://jobs.dou.ua/companies/ncube/vacancies/357421/,Senior,,,Not Specified,['Remote Only'],True
+AI/ML,AI Content Creator,Mindly,https://jobs.dou.ua/companies/mindly/vacancies/357420/,Not Specified,,,Not Specified,['Київ'],False
+AI/ML,ML Engineer (Backend + LLM Fine-tuning),Unbreakable Ukraine Foundation,https://jobs.dou.ua/companies/unbreakable-ukraine-foundation/vacancies/357413/,Not Specified,300.0,1500.0,Not Specified,['Remote Only'],True
+AI/ML,Senior TypeScript/Python Developer with AI Experience,COXIT,https://jobs.dou.ua/companies/coxit/vacancies/291410/,Senior,4000.0,6000.0,Not Specified,['Remote Only'],True
+AI/ML,Senior Machine Learning Engineer,Empat,https://jobs.dou.ua/companies/empat/vacancies/357402/,Senior,,,Not Specified,['Remote Only'],True
+AI/ML,Technology & AI Strategy Lead (CTO),Sprinterra,https://jobs.dou.ua/companies/sprinterra/vacancies/357394/,Senior,,,Not Specified,['Remote Only'],True
+AI/ML,AI Engineer,OBRIO,https://jobs.dou.ua/companies/obrio/vacancies/292303/,Not Specified,,,Not Specified,['Київ'],True
+AI/ML,AI інженер,Hay Crédito,https://jobs.dou.ua/companies/hay-credito/vacancies/357377/,Not Specified,8000.0,8000.0,Not Specified,['Remote Only'],True
+AI/ML,Senior AI Business Analyst,Simplify,https://jobs.dou.ua/companies/simplify/vacancies/357366/,Senior,,,Not Specified,['Львів'],True
+AI/ML,Junior ML/Robotics Engineer,BaBayte OÜ,https://jobs.dou.ua/companies/babayte-ou/vacancies/357348/,Junior,,,Not Specified,['Київ'],True
+AI/ML,Lead Generation Specialist AI & Automation,Program-Ace,https://jobs.dou.ua/companies/program-ace/vacancies/353539/,Senior,,,Not Specified,['Remote Only'],True
+AI/ML,AI Engineer,Indigo - Tech Recruiters,https://jobs.dou.ua/companies/indigo-it/vacancies/357331/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,ML/Robotics Engineer,BaBayte OÜ,https://jobs.dou.ua/companies/babayte-ou/vacancies/357325/,Not Specified,,,Not Specified,['Київ'],True
+AI/ML,Lead FullStack Software Engineer with AI (#5208),N-iX,https://jobs.dou.ua/companies/n-ix/vacancies/258418/,Senior,,,Not Specified,"['Київ', 'Львів', 'Дніпро', 'Івано-Франківськ', 'Вінниця', 'Тернопіль']",True
+AI/ML,Lead AI/ML Engineer (#5127),N-iX,https://jobs.dou.ua/companies/n-ix/vacancies/258413/,Senior,,,Not Specified,"['Київ', 'Львів', 'Дніпро', 'Івано-Франківськ', 'Вінниця', 'Тернопіль']",True
+AI/ML,"Middle Project Manager, AI Project (#5129)",N-iX,https://jobs.dou.ua/companies/n-ix/vacancies/258407/,Middle,,,Not Specified,"['Київ', 'Львів', 'Дніпро', 'Івано-Франківськ', 'Вінниця', 'Тернопіль']",True
+AI/ML,Senior QA Engineer with AI experience (#4823),N-iX,https://jobs.dou.ua/companies/n-ix/vacancies/258398/,Senior,,,Not Specified,"['Київ', 'Львів', 'Дніпро', 'Івано-Франківськ', 'Вінниця', 'Тернопіль']",True
+AI/ML,Lead AI/ML Engineer (#5247),N-iX,https://jobs.dou.ua/companies/n-ix/vacancies/280877/,Senior,,,Not Specified,"['Київ', 'Львів', 'Дніпро', 'Івано-Франківськ', 'Вінниця', 'Тернопіль']",True
+AI/ML,Senior AI Project/Product Manager (AI-native fintech),FLEXIFAI,https://jobs.dou.ua/companies/flexifai/vacancies/357304/,Senior,2500.0,4000.0,Not Specified,['Remote Only'],True
+AI/ML,AI Engineer,appflame,https://jobs.dou.ua/companies/appflame/vacancies/352033/,Not Specified,,,Not Specified,['Київ'],True
+AI/ML,"Head of Sales (B2B, AI та finance сфера)",Artellence,https://jobs.dou.ua/companies/artellence/vacancies/357273/,Not Specified,,,Not Specified,['Київ'],False
+AI/ML,Operations manager (AI сфера),Artellence,https://jobs.dou.ua/companies/artellence/vacancies/357272/,Not Specified,,,Not Specified,['Київ'],True
+AI/ML,.NET & AI Tech Lead,Digitum,https://jobs.dou.ua/companies/digitum/vacancies/357271/,Senior,,,Not Specified,['Київ'],True
+AI/ML,Strong junior or Middle Data analyst у сферу AI,Artellence,https://jobs.dou.ua/companies/artellence/vacancies/357266/,Junior,,,Not Specified,['Київ'],True
+AI/ML,Machine learning engineer,Artellence,https://jobs.dou.ua/companies/artellence/vacancies/357265/,Not Specified,,,Not Specified,['Київ'],True
+AI/ML,Senior AI/ML Engineer,Infineon Technologies,https://jobs.dou.ua/companies/infineon-technologies/vacancies/353113/,Senior,,,Not Specified,['Львів'],False
+AI/ML,AI Engineer for AI-powered applications,Utin Computer,https://jobs.dou.ua/companies/utin-computer/vacancies/357231/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,Machine Learning Engineer (Reinforcement Learning for UAV),Everstar,https://jobs.dou.ua/companies/everstar/vacancies/348437/,Not Specified,,,Not Specified,['Київ'],False
+AI/ML,Senior/Lead AI Architect (.NET) — Generative AI Integration,RediLab,https://jobs.dou.ua/companies/redilab/vacancies/357193/,Senior,,,Not Specified,['Remote Only'],True
+AI/ML,"PR Manager / Analyst — Соціальний рух у сфері AI, робототехніки та майбутнього праці",A1V Lab,https://jobs.dou.ua/companies/go-teh-institutsiji/vacancies/357192/,Not Specified,1500.0,2000.0,Not Specified,['Remote Only'],True
+AI/ML,Founding Product Manager (Cybersecurity / AI),Cracken,https://jobs.dou.ua/companies/crackenagi/vacancies/357191/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,Principal AI Engineer,Svitla Systems,https://jobs.dou.ua/companies/svitla-systems-inc/vacancies/357175/,Not Specified,,,Not Specified,"['Київ', 'Львів']",True
+AI/ML,CTO — Chief Technology Officer,c3,https://jobs.dou.ua/companies/c3/vacancies/357148/,Not Specified,4000.0,8000.0,Not Specified,['Київ'],False
+AI/ML,CV/ML Engineer,ТОВ Райз Технолоджіз Україна,https://jobs.dou.ua/companies/tov-rise-technollogies-ukraina/vacancies/301684/,Not Specified,,,cv,['Київ'],False
+AI/ML,AI Design Engineer,EvoTalents,https://jobs.dou.ua/companies/evotalents/vacancies/357086/,Not Specified,1000.0,2000.0,Not Specified,['Рівне'],True
+AI/ML,Senior .NET Developer (AI & MCP Specialist),Empeek,https://jobs.dou.ua/companies/empeek/vacancies/357116/,Senior,,,Not Specified,['Львів'],True
+AI/ML,ML Engineer / Data Scientist,Flyaps,https://jobs.dou.ua/companies/flyaps/vacancies/294734/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,Тренер курсу з вайбкодингу (Vibe Coding Trainer),Web Academy,https://jobs.dou.ua/companies/web-academy/vacancies/340753/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,Software Engineer (ML Infrastructure & Distributed Systems),Military Tech,https://jobs.dou.ua/companies/military-tech/vacancies/350517/,Not Specified,,,Not Specified,['Київ'],True
+AI/ML,AI Engineer,Sempico Solutions,https://jobs.dou.ua/companies/sempico-solutions/vacancies/357090/,Not Specified,1700.0,2200.0,Not Specified,['Remote Only'],True
+AI/ML,Senior LLM AI Engineer (Cybersecurity Platform),Cyber Squad,https://jobs.dou.ua/companies/cyber-squad/vacancies/357064/,Senior,,,Not Specified,['Remote Only'],True
+AI/ML,AI/ML Engineer,CyberCraft,https://jobs.dou.ua/companies/cybercraft/vacancies/357032/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,Senior ML Engineer (MLOps-focused),Globaldev Group,https://jobs.dou.ua/companies/globaldevgroup/vacancies/357027/,Senior,,,Not Specified,"['Київ', 'Вінниця', 'Одеса', 'Харків']",True
+AI/ML,Strong Junior / Middle SEO Specialist (з фокусом на AI),Idea Digital Agency,https://jobs.dou.ua/companies/idea-digital-agency/vacancies/343118/,Junior,1000.0,1700.0,Not Specified,['Remote Only'],True
+AI/ML,AI Video Creator,HOLYWATER TECH,https://jobs.dou.ua/companies/holy-water/vacancies/340146/,Not Specified,,,Not Specified,['Київ'],True
+AI/ML,Senior AI Engineer,Automat-it,https://jobs.dou.ua/companies/automat-it/vacancies/342313/,Senior,,,Not Specified,['Remote Only'],True
+AI/ML,Director of Engineering (AI Platform),Verbit.ai,https://jobs.dou.ua/companies/verbit-ai/vacancies/356986/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,Fullstack + AI Engineer,ERC,https://jobs.dou.ua/companies/erc/vacancies/356971/,Not Specified,,,Not Specified,['Київ'],False
+AI/ML,Motion Designer / AI Video Creator,Mate academy,https://jobs.dou.ua/companies/mate-academy/vacancies/356966/,Not Specified,,,Not Specified,['Київ'],True
+AI/ML,Machine Learning Ops & Infrastructure Engineer [USA project],Newsoft,https://jobs.dou.ua/companies/newsoft/vacancies/356965/,Not Specified,,,Not Specified,['Львів'],False
+AI/ML,AI Data Quality Engineer,Мрія,https://jobs.dou.ua/companies/mriia/vacancies/356955/,Not Specified,,,Not Specified,['Київ'],False
+AI/ML,AI-розробник,Джоб Хант,https://jobs.dou.ua/companies/dzhob-hant/vacancies/356926/,Not Specified,1000.0,2000.0,Not Specified,"['Київ', 'Львів']",False
+AI/ML,Senior AI Developer,Windmill Digital,https://jobs.dou.ua/companies/windmill-smart-solutions/vacancies/356918/,Senior,,,Not Specified,['Other'],False
+AI/ML,AI Evaluation & Verification QA Engineer,Windmill Digital,https://jobs.dou.ua/companies/windmill-smart-solutions/vacancies/356908/,Not Specified,,,Not Specified,['Other'],False
+AI/ML,"AI Engineer (LLM, RAG, Backend)",Foxteam Digital,https://jobs.dou.ua/companies/foxtrot/vacancies/356906/,Not Specified,,,Not Specified,['Київ'],True
+AI/ML,Middle AI/ML Engineer,Inquatro,https://jobs.dou.ua/companies/inquatro/vacancies/356893/,Middle,,,Not Specified,['Remote Only'],True
+AI/ML,AI Engineer,Codify,https://jobs.dou.ua/companies/codify/vacancies/356854/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,AI Developer,Retail Group,https://jobs.dou.ua/companies/retail-group/vacancies/356829/,Not Specified,1600.0,2200.0,Not Specified,['Київ'],False
+AI/ML,Fullstack Engineer (React.js / Node.js) — Data & AI Platform,NewGround,https://jobs.dou.ua/companies/newground/vacancies/356824/,Not Specified,,,Not Specified,['Київ'],True
+AI/ML,Senior AI/ML Engineer (#5138),N-iX,https://jobs.dou.ua/companies/n-ix/vacancies/298034/,Senior,,,Not Specified,"['Київ', 'Львів', 'Дніпро', 'Івано-Франківськ', 'Вінниця', 'Тернопіль']",True
+AI/ML,Senior Python Engineer (with AI experience) (#5172),N-iX,https://jobs.dou.ua/companies/n-ix/vacancies/293631/,Senior,,,Not Specified,"['Київ', 'Львів', 'Дніпро', 'Івано-Франківськ', 'Вінниця', 'Тернопіль']",True
+AI/ML,Junior AI/GenAI Engineer (#5195),N-iX,https://jobs.dou.ua/companies/n-ix/vacancies/343355/,Junior,,,Not Specified,"['Київ', 'Львів', 'Дніпро', 'Івано-Франківськ', 'Вінниця', 'Тернопіль']",True
+AI/ML,Senior Full-stack Developer (Java/React),NewGround,https://jobs.dou.ua/companies/newground/vacancies/337692/,Senior,,,Not Specified,['Київ'],True
+AI/ML,Vibe Coder / No-code Builder (AI and MVP Creation),BOMI,https://jobs.dou.ua/companies/bomi/vacancies/356793/,Not Specified,,,Not Specified,['Київ'],False
+AI/ML,Head of AI Development | Studio,SPD Technology,https://jobs.dou.ua/companies/spd-technology/vacancies/356786/,Not Specified,,,Not Specified,['Черкаси'],True
+AI/ML,AI Talent Sourcer,CLUST,https://jobs.dou.ua/companies/clust/vacancies/356784/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,"ML Engineer / Data Scientist (Tabular ML, Prediction)",Mornhouse,https://jobs.dou.ua/companies/mornhouse/vacancies/356774/,Not Specified,2500.0,4000.0,Not Specified,['Київ'],True
+AI/ML,Python AI Engineer,Лінія магазинів EVA,https://jobs.dou.ua/companies/ooo--rush/vacancies/356754/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,Machine Learning Engineer,OGD Solutions,https://jobs.dou.ua/companies/ogd-solutions/vacancies/291593/,Not Specified,3500.0,4800.0,Not Specified,['Remote Only'],True
+AI/ML,Machine Learning Engineer,The Fourth Law,https://jobs.dou.ua/companies/thefourthlaw-ai/vacancies/342263/,Not Specified,,,Not Specified,['Київ'],True
+AI/ML,Senior AI Backend Engineer,Customertimes,https://jobs.dou.ua/companies/customertimes/vacancies/356734/,Senior,,,Not Specified,['Remote Only'],True
+AI/ML,AI Enablement Manager,SPD Technology,https://jobs.dou.ua/companies/spd-technology/vacancies/356731/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,AI automation and process optimization specialist,ELVTR,https://jobs.dou.ua/companies/elvtr/vacancies/352218/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,Middle AI engineer,Uvik Software,https://jobs.dou.ua/companies/uvik-software/vacancies/356723/,Middle,,,Not Specified,['Remote Only'],True
+AI/ML,Технічнічний/на керівник/ця AI Center of Excellence (AI СoЕ CTO),Eurasia Foundation,https://jobs.dou.ua/companies/eurasia-foundation/vacancies/356721/,Not Specified,,,Not Specified,['Київ'],False
+AI/ML,Support Agent (AI & Automation) (Headway Inc),Genesis,https://jobs.dou.ua/companies/genesis-technology-partners/vacancies/356671/,Not Specified,,,Not Specified,"['Київ', 'Львів']",True
+AI/ML,AI Product Manager (senior) | AICoE,Дія,https://jobs.dou.ua/companies/thedigital/vacancies/356660/,Senior,,,Not Specified,['Київ'],False
+AI/ML,Python AI Developer (senior) | AICoE,Дія,https://jobs.dou.ua/companies/thedigital/vacancies/356655/,Senior,,,Not Specified,['Київ'],False
+AI/ML,AI/ML Engineer NLP (senior) | AICoE,Дія,https://jobs.dou.ua/companies/thedigital/vacancies/356652/,Senior,,,nlp,['Київ'],False
+AI/ML,AI Project Operations Manager (middle) | AICoE,Дія,https://jobs.dou.ua/companies/thedigital/vacancies/356650/,Middle,,,Not Specified,['Київ'],False
+AI/ML,AI Content Creator,MWDN,https://jobs.dou.ua/companies/mwdn/vacancies/356648/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,AI Video Creator (AI Filmmaker),MWDN,https://jobs.dou.ua/companies/mwdn/vacancies/356647/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,Film Director (AI Approach),MWDN,https://jobs.dou.ua/companies/mwdn/vacancies/356641/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,Full-stack JavaScript Engineer (Node.js + React) | Enterprise AI,Requestum,https://jobs.dou.ua/companies/requestum/vacancies/356615/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,Senior AI/Backend Developer,Glorium Technologies,https://jobs.dou.ua/companies/glorium-technologies-corp/vacancies/356601/,Senior,,,Not Specified,['Remote Only'],True
+AI/ML,Content Writer (AI topics),Railsware,https://jobs.dou.ua/companies/railsware/vacancies/352438/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,Middle ML Engineer,Pearl (JustAnswer),https://jobs.dou.ua/companies/justanswer/vacancies/347306/,Middle,,,Not Specified,['Remote Only'],True
+AI/ML,Applied AI Engineer,Softjourn,https://jobs.dou.ua/companies/softjourn/vacancies/349524/,Not Specified,,,Not Specified,['Івано-Франківськ'],True
+AI/ML,Senior ML Engineer (Computer Vision),Kultprosvet,https://jobs.dou.ua/companies/kultprosvet/vacancies/347431/,Senior,,,Not Specified,['Дніпро'],True
+AI/ML,"Програміст систем управління, робототехніки, НРК та БпЛА (ШІ)",Територія Рекрутингу,https://jobs.dou.ua/companies/teritoriya-rekrutingu/vacancies/356551/,Not Specified,570.0,1160.0,Not Specified,Not Specified,False
+AI/ML,Senior Legal Counsel (IP/AI),Welltech,https://jobs.dou.ua/companies/welltech/vacancies/356502/,Senior,,,Not Specified,['Київ'],False
+AI/ML,Senior AI Engineer (LLM/RAG/LangChain/LangGraph),EPAM,https://jobs.dou.ua/companies/epam-systems/vacancies/352466/,Senior,,,Not Specified,"['Київ', 'Львів', 'Дніпро', 'Івано-Франківськ', 'Вінниця', 'Одеса', 'Харків', 'Чернівці', 'Черкаси', 'Хмельницький', 'Ужгород']",True
+AI/ML,AI Engineer,VCHASNO GROUP,https://jobs.dou.ua/companies/vchasno-group/vacancies/356454/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,Senior AI Data Engineer (RAG / Retrieval / Python),Insoftex,https://jobs.dou.ua/companies/insoftex/vacancies/352543/,Senior,,,Not Specified,['Remote Only'],True
+AI/ML,Data Engineer | Defence AI Center A1,Міністерство оборони України,https://jobs.dou.ua/companies/mod-of-ukraine/vacancies/356445/,Not Specified,,,Not Specified,['Київ'],False
+AI/ML,AI/ML Engineer | Defence AI Center A1,Міністерство оборони України,https://jobs.dou.ua/companies/mod-of-ukraine/vacancies/356444/,Not Specified,,,Not Specified,['Київ'],False
+AI/ML,AI Automation & Research Specialist,Onicore,https://jobs.dou.ua/companies/onicore/vacancies/350855/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,"Senior AI Engineer (LangChain, LangGraph, RAG)",Viseven Group,https://jobs.dou.ua/companies/viseven/vacancies/334852/,Senior,,,Not Specified,['Remote Only'],True
+AI/ML,Generative AI designer (Visual & Video Creation),Beetroot,https://jobs.dou.ua/companies/beetroot/vacancies/352056/,Not Specified,,,Not Specified,"['Київ', 'Львів', 'Івано-Франківськ', 'Одеса', 'Полтава']",True
+AI/ML,AI & Automation Specialist (Testora),Gismart,https://jobs.dou.ua/companies/gismart_com/vacancies/356381/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,Python Technical Interviewer with AI/ML experience,BigTree108,https://jobs.dou.ua/companies/bigtree108/vacancies/356377/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,Clinical LLM Engineer,BeKey,https://jobs.dou.ua/companies/bekey/vacancies/356343/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,Data/ML Engineer,Foxteam Digital,https://jobs.dou.ua/companies/foxtrot/vacancies/356309/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,FullStack Developer (PHP Laravel + React) in AI Product Company,Pitch Avatar,https://jobs.dou.ua/companies/pitchavatar/vacancies/356296/,Not Specified,1800.0,2200.0,Not Specified,['Remote Only'],True
+AI/ML,Senior CV/ML Research Engineer,Центр інновацій та розвитку оборонних технологій МОУ,https://jobs.dou.ua/companies/cidtd/vacancies/335296/,Senior,,,cv,['Київ'],False
+AI/ML,"Founding Engineer (RAG, AI agents, Node.js)",DOIT Software,https://jobs.dou.ua/companies/doit-software/vacancies/351971/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,Senior CV Engineer (Navigation/UAV),Airlogix,https://jobs.dou.ua/companies/airlogix/vacancies/344636/,Senior,,,cv,['Remote Only'],True
+AI/ML,Senior Product Owner (AI products),Workeron.AI,https://jobs.dou.ua/companies/workeron-ai/vacancies/356269/,Senior,6000.0,7000.0,Not Specified,['Remote Only'],True
+AI/ML,Business Analyst (Data/AI),ПриватБанк,https://jobs.dou.ua/companies/privatbank/vacancies/356252/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,Data Scientist (ML/GenAI focus),ПриватБанк,https://jobs.dou.ua/companies/privatbank/vacancies/356248/,Not Specified,,,Not Specified,['Київ'],True
+AI/ML,AI Engineer (Image/Video Generation),Zeely,https://jobs.dou.ua/companies/zeely-ai/vacancies/351354/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,Senior Python Engineer (AI + Azure) Contractor,CodeIT,https://jobs.dou.ua/companies/codeit/vacancies/356224/,Senior,,,Not Specified,"['Вінниця', 'Харків']",True
+AI/ML,Embedded ML Engineer,INNONEERS,https://jobs.dou.ua/companies/innoneers/vacancies/350691/,Not Specified,5000.0,6000.0,Not Specified,['Remote Only'],True
+AI/ML,AI Engineer (Claude Code — Enterprise Level) (Cyprus only),SpaceWhale,https://jobs.dou.ua/companies/spacewhale/vacancies/356190/,Not Specified,,,Not Specified,['Київ'],False
+AI/ML,Python/AI engineer,Rolique,https://jobs.dou.ua/companies/rolique/vacancies/356174/,Not Specified,,,Not Specified,['Львів'],True
+AI/ML,B2B Sales Manager (AI / SaaS),Бізнес-Конструктор,https://jobs.dou.ua/companies/business-constructor/vacancies/351568/,Not Specified,1000.0,3000.0,Not Specified,['Remote Only'],True
+AI/ML,ML Engineer,Окремий спеціальний центр електронної підтримки,https://jobs.dou.ua/companies/ews-army/vacancies/333999/,Not Specified,,,Not Specified,Not Specified,False
+AI/ML,Analyst (AI Experience),Osavul,https://jobs.dou.ua/companies/osavul/vacancies/356128/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,"Hybrid AI Engineer (LLM , Vision Language Models)",Fractal Analytics,https://jobs.dou.ua/companies/fractal-analytics/vacancies/356110/,Not Specified,,,Not Specified,['Київ'],True
+AI/ML,Junior AI / Prompt Engineer,Deus Robotics,https://jobs.dou.ua/companies/deus-robots/vacancies/356080/,Junior,,,Not Specified,['Remote Only'],True
+AI/ML,Senior Full-Stack / AI Engineer,RunMyBiz,https://jobs.dou.ua/companies/runmybiz/vacancies/356069/,Senior,,,Not Specified,['Remote Only'],True
+AI/ML,ML/AI Engineer,Rolique,https://jobs.dou.ua/companies/rolique/vacancies/356079/,Not Specified,,,Not Specified,['Львів'],True
+AI/ML,AI Engineer (Junior+/Middle),Unbreakable Ukraine Foundation,https://jobs.dou.ua/companies/unbreakable-ukraine-foundation/vacancies/356057/,Junior,,,Not Specified,['Remote Only'],True
+AI/ML,AI/ML product engineer,Inception-1,https://jobs.dou.ua/companies/inception-one/vacancies/344381/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,AI Content Maker,Inception-1,https://jobs.dou.ua/companies/inception-one/vacancies/349492/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,Senior Talent Acquisition Specialist (AI Products),Inception-1,https://jobs.dou.ua/companies/inception-one/vacancies/350478/,Senior,,,Not Specified,['Київ'],True
+AI/ML,Trainee/Junior AI Developer,Xedrum,https://jobs.dou.ua/companies/xedrum/vacancies/356026/,Junior,500.0,1500.0,Not Specified,['Львів'],True
+AI/ML,AI Transformation Lead,MODUS X,https://jobs.dou.ua/companies/modus-x/vacancies/350465/,Senior,,,Not Specified,['Київ'],True
+AI/ML,Trainee AI Product Marketing Engineer,appflame,https://jobs.dou.ua/companies/appflame/vacancies/355963/,Junior,,,Not Specified,['Київ'],True
+AI/ML,Senior AI Engineer (Ukrainians in Europe),Akvelon,https://jobs.dou.ua/companies/akvelon-ukraine/vacancies/355927/,Senior,,,Not Specified,['Remote Only'],True
+AI/ML,AI/ML Architect (f/m/x),Sii Ukraine,https://jobs.dou.ua/companies/sii-ukraine/vacancies/355925/,Senior,,,Not Specified,['Remote Only'],True
+AI/ML,Marketing Automation Engineer,BetterMe,https://jobs.dou.ua/companies/betterme/vacancies/351375/,Not Specified,,,Not Specified,['Київ'],True
+AI/ML,Architect of AI-agent systems,CORE Team,https://jobs.dou.ua/companies/core-team/vacancies/355893/,Senior,,,Not Specified,['Remote Only'],True
+AI/ML,Machine Learning Engineer,Devico,https://jobs.dou.ua/companies/devico/vacancies/355855/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,Middle/Strong Middle ML Engineer (Computer Vision),Kultprosvet,https://jobs.dou.ua/companies/kultprosvet/vacancies/355835/,Middle,,,Not Specified,['Дніпро'],True
+AI/ML,Software Engineer (AI/ML/CV),AUDM,https://jobs.dou.ua/companies/association-of-ukrainian-defense-manufacturers/vacancies/355831/,Not Specified,1100.0,1500.0,cv,['Київ'],False
+AI/ML,"Data Scientist/ML Engineer (classic ML, Deep Learning)",Dataobrii,https://jobs.dou.ua/companies/dataobrii/vacancies/328508/,Not Specified,2500.0,4000.0,Not Specified,['Remote Only'],True
+AI/ML,MLOps Engineer,NDA Recruitment,https://jobs.dou.ua/companies/nda-recruitment/vacancies/341263/,Not Specified,,,Not Specified,['Київ'],False
+AI/ML,Computer Vision Engineer,NDA Recruitment,https://jobs.dou.ua/companies/nda-recruitment/vacancies/325489/,Not Specified,,,Not Specified,"['Київ', 'Львів']",False
+AI/ML,AI Motion Designer (Longetic),Genesis,https://jobs.dou.ua/companies/genesis-technology-partners/vacancies/355812/,Not Specified,,,Not Specified,['Київ'],True
+AI/ML,Head of AI Transformation,Growe,https://jobs.dou.ua/companies/growe/vacancies/351600/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,ML engineer with LLM expertise,CHI Software,https://jobs.dou.ua/companies/chi-software/vacancies/355799/,Not Specified,,,Not Specified,"['Львів', 'Харків']",True
+AI/ML,Middle+ Machine Learning Engineer,Gismart,https://jobs.dou.ua/companies/gismart_com/vacancies/351484/,Middle,,,Not Specified,['Київ'],True
+AI/ML,AI Research & Adoption Specialist,ROZETKA,https://jobs.dou.ua/companies/rozetka-ua-internet-supermarket/vacancies/307468/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,Founding Machine Learning Engineer (Recommendations + GenAI),Gamingtec,https://jobs.dou.ua/companies/gamingtec/vacancies/351015/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,Senior AI Engineer (Defence),Empat,https://jobs.dou.ua/companies/empat/vacancies/355747/,Senior,,,Not Specified,['Remote Only'],True
+AI/ML,AI Automation Specialist,Bykova Recruitment Agency,https://jobs.dou.ua/companies/bykova-recruitment-agency/vacancies/355745/,Not Specified,,,Not Specified,['Київ'],True
+AI/ML,Middle ML Operations Engineer,SPD Technology,https://jobs.dou.ua/companies/spd-technology/vacancies/355742/,Middle,,,Not Specified,['Remote Only'],True
+AI/ML,Fullstack Web Developer (PHP + Vue.js + AI),CHM software,https://jobs.dou.ua/companies/hameleon-soft/vacancies/355715/,Not Specified,1800.0,3000.0,Not Specified,"['Київ', 'Харків']",True
+AI/ML,Support Agent (AI & Automation),Headway Inc,https://jobs.dou.ua/companies/headway-inc/vacancies/351307/,Not Specified,,,Not Specified,['Київ'],True
+AI/ML,Computer Vision Engineer (UAV),3ka,https://jobs.dou.ua/companies/3ka/vacancies/351313/,Not Specified,3000.0,3000.0,Not Specified,['Київ'],False
+AI/ML,Senior Data Scientist (AI),MEGOGO,https://jobs.dou.ua/companies/megogonet-/vacancies/260233/,Senior,,,Not Specified,['Київ'],True
+AI/ML,Senior Generative AI Engineer,Edvantis,https://jobs.dou.ua/companies/edvantis/vacancies/348971/,Senior,,,Not Specified,['Львів'],True
+AI/ML,Проєктний менеджер/координатор R&D-проєктів (робототехніка та ШІ),TENCORE,https://jobs.dou.ua/companies/tencore/vacancies/334498/,Not Specified,700.0,1000.0,Not Specified,['Київ'],False
+AI/ML,Lead Python & AI Engineer,UST Ukraine,https://jobs.dou.ua/companies/ust/vacancies/342103/,Senior,,,Not Specified,['Київ'],True
+AI/ML,Senior/Lead Machine Learning Engineer,Pearl (JustAnswer),https://jobs.dou.ua/companies/justanswer/vacancies/332727/,Senior,,,Not Specified,"['Львів', 'Ужгород']",True
+AI/ML,AI Agents Engineer,Genesis,https://jobs.dou.ua/companies/genesis-technology-partners/vacancies/350956/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,AI Engineer — Demand & Sales Forecasting,ChainBalance,https://jobs.dou.ua/companies/chainbalance/vacancies/355593/,Not Specified,2600.0,2600.0,Not Specified,['Remote Only'],True
+AI/ML,AI Product Engineer,Genesis,https://jobs.dou.ua/companies/genesis-technology-partners/vacancies/350954/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,AI Python Engineer,Techbar,https://jobs.dou.ua/companies/techbar/vacancies/331495/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,AI Motion Designer,Liven,https://jobs.dou.ua/companies/liven/vacancies/350759/,Not Specified,,,Not Specified,['Київ'],True
+AI/ML,AI Coach / Консультант з використання штучного інтелекту,КИТ ГРУП,https://jobs.dou.ua/companies/kit-grup/vacancies/355302/,Not Specified,2000.0,4000.0,Not Specified,['Remote Only'],True
+AI/ML,Python Developer (AI/LLM/Automation),Аптека 9-1-1,https://jobs.dou.ua/companies/apteka-9-1-1/vacancies/347120/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,Senior Computer Vision Engineer,Phantom Defense,https://jobs.dou.ua/companies/phantom-defense/vacancies/355557/,Senior,,,Not Specified,['Київ'],False
+AI/ML,Computer Vision Engineer (UAV),Airlogix,https://jobs.dou.ua/companies/airlogix/vacancies/340490/,Not Specified,,,Not Specified,"['Київ', 'Дніпро']",True
+AI/ML,AI Engineer,Ruby Labs,https://jobs.dou.ua/companies/ruby-labs/vacancies/355548/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,Middle data scientist\ AI engineer,UKRSIBTECH,https://jobs.dou.ua/companies/ukrsibbank/vacancies/346809/,Middle,,,Not Specified,['Київ'],True
 AI/ML,Computer Vision Engineer (Non-GPS Navigation),Everstar,https://jobs.dou.ua/companies/everstar/vacancies/345755/,Not Specified,,,Not Specified,['Київ'],False
-AI/ML,AI Product Manager,Мрія,https://jobs.dou.ua/companies/mriia/vacancies/338755/,Not Specified,,,Not Specified,['Київ'],False
-AI/ML,LLM / Generative‑AI Backend Engineer (Node.js),Finsight Group,https://jobs.dou.ua/companies/finsight-group-inc/vacancies/350009/,Not Specified,,,Not Specified,['Київ'],True
-AI/ML,АІ-modeller,TG Lab,https://jobs.dou.ua/companies/tg-lab/vacancies/319451/,Not Specified,1200.0,1500.0,Not Specified,['Київ'],False
-AI/ML,Python Engineer with AI,IT SmartFlex,https://jobs.dou.ua/companies/it-smartflex/vacancies/349941/,Not Specified,,,Not Specified,['Remote Only'],True
-AI/ML,Senior AI/ML Engineer,Sombra,https://jobs.dou.ua/companies/sombra/vacancies/349937/,Senior,,,Not Specified,"['Київ', 'Львів', 'Івано-Франківськ']",True
-AI/ML,Senior ML Engineer,Symphony Solutions,https://jobs.dou.ua/companies/symphony-solutions/vacancies/349934/,Senior,,,Not Specified,['Remote Only'],True
-AI/ML,AI Engineering Tech Lead,Symphony Solutions,https://jobs.dou.ua/companies/symphony-solutions/vacancies/349913/,Senior,,,Not Specified,['Remote Only'],True
-AI/ML,Computer Vision Engineer — 3D Reconstruction & Gaussian Splatting,Farsight Vision,https://jobs.dou.ua/companies/farsight-vision/vacancies/336735/,Not Specified,,,Not Specified,['Remote Only'],True
-AI/ML,Product Manager — AI assistant,WiX,https://jobs.dou.ua/companies/wix/vacancies/336578/,Not Specified,,,Not Specified,['Київ'],False
-AI/ML,AI Lead,OBRIO,https://jobs.dou.ua/companies/obrio/vacancies/336805/,Senior,,,Not Specified,"['Київ', 'Львів']",True
-AI/ML,AI Creator / Prompt Engineer,RemoDevs,https://jobs.dou.ua/companies/remodevs/vacancies/349828/,Not Specified,5000.0,8000.0,Not Specified,['Remote Only'],True
-AI/ML,AI Engineer located in Ukraine,Atlas Technica,https://jobs.dou.ua/companies/atlas-technica/vacancies/349821/,Not Specified,,,Not Specified,['Remote Only'],True
-AI/ML,Senior AI Business analyst,MODUS X,https://jobs.dou.ua/companies/modus-x/vacancies/349795/,Senior,,,Not Specified,['Remote Only'],True
-AI/ML,Senior Product Manager,AS TALENTAGENCY,https://jobs.dou.ua/companies/as-talentagency/vacancies/349764/,Senior,4000.0,4000.0,Not Specified,['Київ'],True
-AI/ML,Computer Vision Engineer,DevDroid,https://jobs.dou.ua/companies/devdroid/vacancies/349755/,Not Specified,,,Not Specified,['Львів'],False
+AI/ML,Senior ML Engineer,Ощадбанк,https://jobs.dou.ua/companies/at-oschadbank/vacancies/333864/,Senior,,,Not Specified,['Remote Only'],True
+AI/ML,"Senior DevOps Engineer (GCP, ML / LLM Infrastructure)",Kyivstar.Tech,https://jobs.dou.ua/companies/kyivstar-tech/vacancies/350803/,Senior,,,Not Specified,['Remote Only'],True
+AI/ML,"AI/ML Engineer (LLM, Agents)",Web Legends,https://jobs.dou.ua/companies/web-legends/vacancies/295588/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,"AI Optimization Specialist, АІ Integrator",Джоб Хант,https://jobs.dou.ua/companies/dzhob-hant/vacancies/334753/,Not Specified,,,Not Specified,['Київ'],False
+AI/ML,Middle AI Engineer,Galaktica,https://jobs.dou.ua/companies/galaktica/vacancies/355465/,Middle,2500.0,4000.0,Not Specified,"['Київ', 'Львів', 'Одеса']",True
+AI/ML,Middle to Senior ML Engineer,Suntech Innovation,https://jobs.dou.ua/companies/suntech-innovation/vacancies/355376/,Middle,,,Not Specified,['Київ'],True
+AI/ML,ML Engineer / Data Scientist,Clockwise Software,https://jobs.dou.ua/companies/clockwise-software/vacancies/346253/,Not Specified,,,Not Specified,['Дніпро'],True
+AI/ML,AI Project Manager,НАСК «ОРАНТА»,https://jobs.dou.ua/companies/nak-oranta/vacancies/355363/,Not Specified,1800.0,2200.0,Not Specified,['Київ'],False
+AI/ML,Senior Python Developer (AI),Gransoft,https://jobs.dou.ua/companies/gransoft/vacancies/355347/,Senior,,,Not Specified,['Remote Only'],True
+AI/ML,"Founding Engineer (RAG, AI agents, Node.js)",DOIT Software,https://jobs.dou.ua/companies/doit-software/vacancies/350629/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,AI Operations manager — ONYX,SKELAR,https://jobs.dou.ua/companies/skelar/vacancies/355344/,Not Specified,,,Not Specified,['Київ'],False
+AI/ML,AI Marketing Funnel Manager (PMM),Boosters,https://jobs.dou.ua/companies/boosters-product-team/vacancies/355284/,Not Specified,,,Not Specified,"['Київ', 'Львів']",True
+AI/ML,"Marketing Designer (AI Motion, віддалено)",Growity Tech,https://jobs.dou.ua/companies/growity-tech/vacancies/326835/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,AI Content Producer (Mobile App) Guru Apps,Universe Group,https://jobs.dou.ua/companies/universe/vacancies/355258/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,Applied AI Engineer (Ukraine),VisiQuate,https://jobs.dou.ua/companies/visiquate/vacancies/355253/,Not Specified,,,Not Specified,"['Львів', 'Харків']",True
+AI/ML,Co-Founder (AI B2B SaaS),SYNCO,https://jobs.dou.ua/companies/synco/vacancies/350124/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,AI Tech Lead,inVerita,https://jobs.dou.ua/companies/inveritasoft/vacancies/355239/,Senior,,,Not Specified,['Львів'],True
 AI/ML,AI Product Marketing Manager (Growth & Automation),appflame,https://jobs.dou.ua/companies/appflame/vacancies/334568/,Not Specified,,,Not Specified,['Київ'],True
-AI/ML,Head of AI & Data Science,UPSTARS,https://jobs.dou.ua/companies/upstars/vacancies/349716/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,Middle ML Engineer (e-commerce),Master of Code Global,https://jobs.dou.ua/companies/masterofcodecom/vacancies/355173/,Middle,,,Not Specified,['Remote Only'],True
+AI/ML,AI Engineer,MODUS X,https://jobs.dou.ua/companies/modus-x/vacancies/355163/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,AI Operator,A-Players,https://jobs.dou.ua/companies/a-players-recruiting/vacancies/355096/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,AI Engineer,Empeek,https://jobs.dou.ua/companies/empeek/vacancies/355095/,Not Specified,,,Not Specified,['Львів'],True
+AI/ML,Middle Agent Developer (Python \ ML),Workeron.AI,https://jobs.dou.ua/companies/workeron-ai/vacancies/355091/,Middle,2400.0,2900.0,Not Specified,['Remote Only'],True
+AI/ML,ML/AI Engineer,429 окрема бригада безпілотних систем «АХІЛЛЕС»,https://jobs.dou.ua/companies/achilles_429brigade/vacancies/339060/,Not Specified,1200.0,2800.0,Not Specified,Not Specified,False
+AI/ML,Product Manager (AI/LLM),Promodo,https://jobs.dou.ua/companies/promodo/vacancies/355044/,Not Specified,,,Not Specified,"['Київ', 'Харків']",True
+AI/ML,Senior Machine Learning Engineer,DoD Solution,https://jobs.dou.ua/companies/dod-solution/vacancies/319731/,Senior,,,Not Specified,['Львів'],False
+AI/ML,Middle AI R&D Engineer (Prototypes & Innovation) 68176,Indeema,https://jobs.dou.ua/companies/indeema/vacancies/355027/,Middle,,,Not Specified,['Львів'],False
+AI/ML,AI Infrastructure Engineer,ITExpert,https://jobs.dou.ua/companies/itexpert-recruitment-agency/vacancies/354991/,Not Specified,1500.0,4000.0,Not Specified,['Київ'],False
+AI/ML,Graphic Designer (Figma / Digital / AI),Artman Studio,https://jobs.dou.ua/companies/artmanstudio/vacancies/354973/,Not Specified,,,Not Specified,['Other'],False
+AI/ML,Lead Hardware Engineer (Embedded AI & Drone Systems),DoD Solution,https://jobs.dou.ua/companies/dod-solution/vacancies/337257/,Senior,,,Not Specified,['Львів'],False
+AI/ML,Senior AI Business analyst,MODUS X,https://jobs.dou.ua/companies/modus-x/vacancies/349795/,Senior,,,Not Specified,['Remote Only'],True
+AI/ML,AI Lead Engineer,Globaldev Group,https://jobs.dou.ua/companies/globaldevgroup/vacancies/336117/,Senior,,,Not Specified,['Remote Only'],True
+AI/ML,Senior AI Engineer,Globaldev Group,https://jobs.dou.ua/companies/globaldevgroup/vacancies/346629/,Senior,,,Not Specified,['Remote Only'],True
+AI/ML,Presale Business Analyst (AI & Data Solutions) (#1151),ZONE3000,https://jobs.dou.ua/companies/zone3000/vacancies/354914/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,First Creative Marketing Manager — New Venture (AI Self-improvement),SKELAR,https://jobs.dou.ua/companies/skelar/vacancies/354896/,Not Specified,,,Not Specified,['Київ'],True
+AI/ML,First User Acquisition Manager — New Venture (AI Self-improvement),SKELAR,https://jobs.dou.ua/companies/skelar/vacancies/354895/,Not Specified,,,Not Specified,['Київ'],True
+AI/ML,First Product Manager — New Venture (AI Self-improvement),SKELAR,https://jobs.dou.ua/companies/skelar/vacancies/354891/,Not Specified,,,Not Specified,['Київ'],True
+AI/ML,"Backend Python Developer (AI / LLM, Claude Code)",Sidis.group,https://jobs.dou.ua/companies/sidis-group/vacancies/354883/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,Senior Deep Learning Engineer (Computer Vision),Ajax Systems,https://jobs.dou.ua/companies/ajax-systems/vacancies/311846/,Senior,,,Not Specified,"['Київ', 'Львів']",False
+AI/ML,AI Integration Engineer,BetterMe,https://jobs.dou.ua/companies/betterme/vacancies/345910/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,AI Automation Engineer,Promodo,https://jobs.dou.ua/companies/promodo/vacancies/354833/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,AI Product Manager,Мрія,https://jobs.dou.ua/companies/mriia/vacancies/338755/,Not Specified,,,Not Specified,['Київ'],False
+AI/ML,"Founding Engineer (RAG, AI agents, Node.js)",DOIT Software,https://jobs.dou.ua/companies/doit-software/vacancies/354828/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,"Founding Engineer (RAG, AI agents, Node.js)",DOIT Software,https://jobs.dou.ua/companies/doit-software/vacancies/354827/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,AI growth marketing specialist,Xenoss,https://jobs.dou.ua/companies/xenoss/vacancies/350098/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,GTM strategy lead / Market research lead (AI & Data Engineering services),Xenoss,https://jobs.dou.ua/companies/xenoss/vacancies/354819/,Senior,,,Not Specified,['Remote Only'],True
+AI/ML,Middle ML & AI Engineer,SPD Technology,https://jobs.dou.ua/companies/spd-technology/vacancies/350444/,Middle,,,Not Specified,['Remote Only'],True
+AI/ML,Marketing Designer (AI driven),Mindly,https://jobs.dou.ua/companies/mindly/vacancies/354814/,Not Specified,,,Not Specified,['Київ'],False
+AI/ML,Founding AI Platform Engineer (MLOps / Backend),Gamingtec,https://jobs.dou.ua/companies/gamingtec/vacancies/354777/,Not Specified,,,Not Specified,['Remote Only'],True
 AI/ML,Strong Junior ML Engineer — Generative AI,DataRoot Labs,https://jobs.dou.ua/companies/dataroot/vacancies/344119/,Junior,1000.0,1800.0,Not Specified,['Київ'],False
-AI/ML,Senior CV/ML Engineer (C++),WHT.agency,https://jobs.dou.ua/companies/wht-agency/vacancies/332500/,Senior,,,cv,['Львів'],False
-AI/ML,ML Research Engineer (Algorithms & Neural Networks),WHT.agency,https://jobs.dou.ua/companies/wht-agency/vacancies/332502/,Not Specified,,,Not Specified,['Львів'],False
-AI/ML,Product Owner (AI),Quantum Systems Ukraine,https://jobs.dou.ua/companies/quantum-systems-ukraine/vacancies/347904/,Not Specified,,,Not Specified,['Київ'],False
-AI/ML,AI Computer Vision Engineer,Quantum Systems Ukraine,https://jobs.dou.ua/companies/quantum-systems-ukraine/vacancies/317176/,Not Specified,,,Not Specified,['Київ'],False
-AI/ML,Програміст DSP/ML,Moodro,https://jobs.dou.ua/companies/moodro/vacancies/345546/,Not Specified,,,Not Specified,['Київ'],False
-AI/ML,Computer Vision Engineer,Everstar,https://jobs.dou.ua/companies/everstar/vacancies/336766/,Not Specified,,,Not Specified,['Київ'],False
-AI/ML,Computer Vision Engineer (Navigation/UAV),Airlogix,https://jobs.dou.ua/companies/airlogix/vacancies/340490/,Not Specified,,,Not Specified,['Київ'],True
-AI/ML,Data Engineer / ML Data Engineer,Twist Robotics,https://jobs.dou.ua/companies/twist-robotics/vacancies/344992/,Not Specified,,,Not Specified,"['Київ', 'Львів']",True
+AI/ML,Middle/Senior Product Analyst (AI),Howly,https://jobs.dou.ua/companies/howly/vacancies/340304/,Middle,,,Not Specified,['Київ'],False
+AI/ML,Senior ML Engineer,Symphony Solutions,https://jobs.dou.ua/companies/symphony-solutions/vacancies/349934/,Senior,,,Not Specified,['Remote Only'],True
+AI/ML,Machine Learning Engineer,V-TER Solutions,https://jobs.dou.ua/companies/v-ter-solutions/vacancies/346306/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,AI Engineering Tech Lead,Symphony Solutions,https://jobs.dou.ua/companies/symphony-solutions/vacancies/349913/,Senior,,,Not Specified,['Remote Only'],True
+AI/ML,Senior/Lead Product Analyst (AI) — Howly,SKELAR,https://jobs.dou.ua/companies/skelar/vacancies/326706/,Senior,,,Not Specified,['Київ'],False
+AI/ML,ML Engineer,SBC Performance,https://jobs.dou.ua/companies/sbc-performance/vacancies/354697/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,Computer Vision Engineer,Lendurai,https://jobs.dou.ua/companies/lendurai/vacancies/341759/,Not Specified,,,Not Specified,['Other'],False
+AI/ML,Machine Learning Engineer,Jooble,https://jobs.dou.ua/companies/jooble/vacancies/354689/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,Product Marketing Manager (Digital Products / AI),MONTE-PRO,https://jobs.dou.ua/companies/monte-pro/vacancies/354685/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,Machine Learning Engineer,WiX,https://jobs.dou.ua/companies/wix/vacancies/335516/,Not Specified,,,Not Specified,['Київ'],False
+AI/ML,AI Lead,OBRIO,https://jobs.dou.ua/companies/obrio/vacancies/336805/,Senior,,,Not Specified,"['Київ', 'Львів']",True
+AI/ML,AI User Acquisition Manager (junior),Boosters,https://jobs.dou.ua/companies/boosters-product-team/vacancies/354635/,Junior,,,Not Specified,"['Київ', 'Львів']",True
+AI/ML,Principal AI Architect,ZFORT Group,https://jobs.dou.ua/companies/zfort/vacancies/354621/,Senior,,,Not Specified,['Харків'],True
+AI/ML,Computer Vision Engineer — 3D Reconstruction & Gaussian Splatting,Farsight Vision,https://jobs.dou.ua/companies/farsight-vision/vacancies/336735/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,Presale AI Engineer (Data Solutions) (#1129),ZONE3000,https://jobs.dou.ua/companies/zone3000/vacancies/350328/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,"AI Website Designer (Freelancee, 15-20h/week)",Cieden,https://jobs.dou.ua/companies/cieden/vacancies/354598/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,AI engineer,WinWin.Travel,https://jobs.dou.ua/companies/winwin-travel/vacancies/302744/,Not Specified,,,Not Specified,['Remote Only'],True
+AI/ML,"Head of Data (Engineering, AI/ML)",Axis FF,https://jobs.dou.ua/companies/ff-group/vacancies/350062/,Not Specified,,,Not Specified,['Київ'],True
+AI/ML,Robotics Engineer (Autonomous UAV),3ka,https://jobs.dou.ua/companies/3ka/vacancies/340582/,Not Specified,3000.0,3000.0,Not Specified,['Київ'],False
